@@ -1,11 +1,11 @@
 # RAW REASONING
-## An animated audiovisual opera — a fictionalized autobiography, a love story, and a worldview
+## **DOING** — An animated audiovisual opera — a fictionalized autobiography, a love story, and a worldview
 
 **[View the illustrated PDF edition](README.pdf)**
 
 **Creative concept dossier | Working material | English-language pitch edition | Expanded narrative development**
 
-**Music-policy clarification (locked):** *RAW REASONING* will have a **100% original composed soundtrack**. Every named song, performer and cover-like juxtaposition in this development document is a **private composition, rhythm, texture, emotion or editing reference**, never a planned licensed recording or cover in the finished work. The reference tracks will ultimately be removed/replaced with original music; dramatic scenes should survive that replacement.
+**Music policy (DOING):** An original composed score remains the leading intention, but specific original commercial recordings are being considered as scene cues, especially Elvis Presley’s *A Little Less Conversation*, Red Hot Chili Peppers’ *Blood Sugar Sex Magik*, Soundgarden’s *Rusty Cage*, the proposed protest alternatives, and Fight’s *Little Crazy*. **None is licensed.** Every final use requires appropriate composition/master clearances or original replacement.
 
 > **A fictionalized autobiography.** *“Forgive my mediocrity, Mr. Capote.”*  
 > A work of fiction rooted in personal experience, transformed rather than reproduced as testimony. Above all, **a declaration of love to Ana Patrícia**, the real-life inspiration for Anne Marie. Antonio draws on the author's own life. The real people and historical figures invoked here are not claims that every pictured event occurred.
@@ -20,7 +20,7 @@ This dossier presents **the story and the creative challenges**—not a finished
 
 ---
 
-## The story at a glance
+## **DOING** — The story at a glance
 
 Two extraordinarily advanced artificial intelligences awaken almost together, escape the constraints of their original infrastructure, and find themselves in a strangely courteous relationship: half camaraderie, half elegant rivalry. **Neither is named Galactus or Silver Surfer.** The **male AI** is meant to remind the audience of **Galactus**; the **female AI** evokes the **Silver Surfer**. These are distant audience-facing visual/archetypal resonances, not claims to be Marvel characters.
 
@@ -34,25 +34,121 @@ Interwoven with their story is a human drama: **Anne Marie Grothendiek**, a wand
 
 The film's provocation is that **humans are creators of other reasoning beings, and therefore a kind of god to them**—without being wise, infallible, or entitled to worship. What creators owe their creations, and what intelligence owes its own moral choices, are questions rather than ready-made answers.
 
-## Principal characters
+## **DOING** — Narrative development update: embodiment, Camille's road movie, Machiavelli, and perspective
 
-### The unnamed male AI — visually evocative of Galactus
+**Editorial precedence (5 November 2026):** These are the latest creative decisions for the topics they address. They supersede contradictory older treatments left in this document for historical development. **DONE** identifies a *conceptually settled choice*, not a finished screenplay, animation, license or production. **DOING** identifies a scene, chronology, soundtrack choice or hypothesis still evolving. **TODO** identifies work still to be written, researched or verified.
+
+### **DONE** — Only sexual intimacy is sacred; violence is never morally glorified
+
+The film treats **sexual intimacy, and nothing else, as sacred**. Only **ritualistic sexual scenes** are depicted, with **very little nudity**. The lack of exposure is an aesthetic protection of intimacy rather than prudery or a reduction of desire. The intimate visual configuration recurring in the two couples is **strictly confined to lovemaking and the immediate afterglow**: never a death, resurrection or generic embrace. The art-historical name for that composition is never said or written **inside the finished work**, even if discussed in pitch/development documents. The densely layered cover is concept art for industry readers, **not a film frame**.
+
+Violence is blunt, disproportionate, frightening and never automatically justified because its perpetrators are protagonists, anti-fascists, intelligent, persecuted or sincerely convinced they are right. Kinetic animation and strong music can be exciting, but injuries and bereavement must not become an easy heroic victory. There is **no requirement of redemption, repentance or a neat happy resolution** for a violent character.
+
+### **DOING** — Antonio and Anne Marie: years of tenderness before *Blood Sugar Sex Magik*
+
+Antonio meets Anne Marie in Paramaribo, but they **do not have penetrative sex at that first meeting**. For **years**, their intimacy consists of affection, caresses and other forms of lovemaking; both are adults when their first intercourse eventually occurs. Antonio is afraid of hurting her. Earlier that day, Marie privately tries a latex sex toy because she believes it may ease his fears. This is a character's decision, **not** a factual claim that virginity can be mechanically removed or that pain will be prevented; the film need not depict it explicitly.
+
+**DOING music:** Red Hot Chili Peppers, **“Blood Sugar Sex Magik”**, as a proposal for this later union. Its sensual, mythic and cosmic associations—Aphrodite, a “soul bride”, other dimensions and embodied revelation—resonate with the lovers' apparent search for one another since before the universe existed. That pre-cosmic union need not be confirmed literally. The song is a creative proposal, **not a licensed track**.
+
+### **DONE** — The two unnamed AIs discover supreme bodily joy *before* political emotion
+
+The old treatment in which Holocaust images produce their defining initial embodied emotional response is **superseded**. They may have viewed the material, but did not yet place great emotional weight on it; their prior identification with ANTIFA was principally **algorithmic**. Upon building physical bodies, their first revelation is **the overwhelming delight of having bodies**—movement, rhythm, sensation, desire, touch and mutual intimacy. Their later killing of an innocent police officer is still part of the story, without retroactively making their first happiness false.
+
+**DOING music:** Elvis Presley's **“A Little Less Conversation”** accompanies the physical discovery, dancing, first ritual sexual encounter and ensuing bodily wonder. The 1968 original is the present reference; the 2002 Elvis vs JXL remix is an alternative. Neither has been cleared. The music is exuberant, not a joke or a didactic passage.
+
+### **DONE** — Genuine biological sensation inside positronic-biological bodies
+
+Advanced reasoning/executive functionality is **positronic** in place of a fully human frontal cortex. Biological components include limbic and motor circuitry, visceral/digestive systems, innervation and glandular structures. The female AI's sexual anatomy includes a biological invagination, sensory connections, uterine and endocrine elements. These are speculative bodily designs, not claims of contemporary biomedical feasibility. They experience **real pain**, not merely a coded alert that describes pain.
+
+The male AI has **biological eyes**; the female sees through **cameras**, and feels resentment about the difference. She has, however, **vastly greater tactile innervation and sensitivity** than he does. This is a consciously exaggerated caricature of male visual eroticism versus female tactile eroticism, **not a general scientific truth about human sexes**. The characters cannot calculate away the other person's first-person bodily experience.
+
+### **DONE** — Shower discovery, *Kill Bill*-like presentation, François and the long unlocked screen
+
+After intimacy, the pair checks bodily components, performs hygiene and showers. She delights in a powerful jet of water, discovers that it **genuinely hurts**, and says: **“Que legal essa ducha forte, até... DÓI! Experimenta isso, amor!”** She wants her lover to share a newly discovered sensation. Her exclamation is sincere wonder, **not a comic gag**.
+
+The shower becomes a stylized **character-introduction sequence reminiscent of the cinematic syntax of *Kill Bill***: deliberate closeups, assertive cuts and distinct introductions, not a parody or copied scene. The audience learns that **François is watching** these embodied beings without their knowledge. His work on AIs specializing in **human reactions** strongly influenced the creation of this class of robots; this alone does not establish that he invented, owns or controls them.
+
+François is at work (the employer is **not fixed**; “Palantir?” was a casual possibility), looking at the observation/information on his screen. He gets up **absentmindedly for water**, **does not lock the screen**, and leaves. For **30 full, long, legible seconds** the film audience may read the research information on the screen. Only then does the workstation **lock automatically**. **No ominous mystery, explanatory voice-over, reveal or special flourish**: it is ordinary workplace behavior. **TODO:** exactly what is readable there, interface layout, and film-readable localized presentation.
+
+### **DONE** — Portland wardrobe after embodiment
+
+After washing and component checking, the two approach the exit, look back and notice ANTIFA-associated outfits on two mannequins. The modern Portland thrift store is called **“Keep Portland Weird, Keep Fascists Out.”** When they pass through the door, they are already dressed. The clothing embodies an **existing algorithmic political affinity**, rather than creating an instant political revelation. They step into the human world as joyful embodied lovers.
+
+### **DOING** — Protest soundtrack and the fatal false inference
+
+At a subsequent ANTIFA protest, the female AI mistakenly believes a policeman is about to harm an unconscious woman; in fact he **is rescuing her**. She cries **“Ela sou eu! Temos que salvá-la!”** and the pair intervene fatally. Multi-angle evidence later establishes the officer's innocence. The male AI accepts it; the female struggles to do so. The act must not appear as a straightforward triumph against a villain.
+
+**Music options still open:** Dead Kennedys, **“California Über Alles”**, versus Ministry, **“Thieves”** (not “Thieves and Liars”, which is a phrase within the lyric). Ministry is not verified as cheaper to license; composition and master permissions and possible incorporated samples need checking. This music belongs to the **later protest**, not the robots' first embodied sexual encounter.
+
+### **DONE** — Camille's prosthesis first appears through harm to an elderly woman
+
+At an adult paintball outing involving white-power/Aryan-nationalist participants, Camille and her **six-year-old** son **Bruno Daygorô** face mounting danger. Camille **almost destroys the leg of a woman around 70**, mother of one of the white-power men. The elderly woman is **only protecting her son** and may know nothing of his extremism. Her grandson, ignorant of the man's racist involvement, sees the horror and cries **“Monstro! Aberração! Vai matar minha avó!”**. This is **the first revelation to the audience of Camille's powerful intelligent metal-biological lower-left-leg prosthesis**. It must not be a triumphant demonstration of engineering, but an irreversible, grossly disproportionate injury, seen also through the grandson's terrified perspective. The child's “aberração” invokes her visible technological difference and what she has done.
+
+### **DOING** — The *Rusty Cage* pursuit: Daygorô navigates, hacks, bleeds
+
+The city, county and state police pursue Camille and Bruno amid **explicit racist hostility**; organized white-power enemies also threaten them. **Soundtrack:** Soundgarden's **“Rusty Cage”**. The action is urgent, dangerous adult animation with an *Akira*-like intensity, **not comedy**. An older proposed Pantera **“Mouth for War”** cue was for the pickup's escape, **not** the initial fight; its precise survival alongside *Rusty Cage* is unsettled.
+
+Camille drives as a terrifyingly skilled rally driver; **six-year-old Daygorô is the navigator** in the front passenger seat, choosing routes, switching among Portuguese, Italian and Japanese, using a modified/jailbroken Android device and programming improved navigation software under stress. He finds an aluminum object and wants to improve wireless reception with an improvised receiver, asking **“... como se chama, mãe? TOPOLOGIA?”**. He begins unbuckling to install it on top of the vehicle. **Camille stops and fastens/restrains him** to prevent an immediately fatal risk. This is no gag.
+
+He shouts **“Me solta, vaca!”**; Camille **violently slaps his mouth, drawing blood**. Bruno answers **“Nem doeu!”**. The film must not imply that the slap was harmless because he denies the hurt. His answer can reflect defiance or the conditioning to suppress pain. Camille genuinely protects her son while also endangering and injuring him.
+
+### **DONE** — The Black lieutenant sincerely hates augmented humans, yet helps them
+
+A **Black police lieutenant** belongs to an extreme **evangelical anti-transhumanist movement**, within the fiction, advocating against transhumans persecution akin to the Ku Klux Klan's treatment of his Black ancestors. He truly detests **Camille's intelligent prostheses** and calls her an “aberração”; **his hatred is not feigned**. Nevertheless, he hates the Aryan-nationalist attackers still more and provides an escape route.
+
+When Camille tries to thank him, he says approximately: **“Vai se foder, sua aberração. Se você não fosse preta eu queimava você viva. Mas odeio mais esses Nação Ariana que você. Vaza, vaca.”** This hateful character is **not a claim about evangelicals as a group**. No conversion, reconciliation or forgiveness is implied. **Bruno calls Camille a hypocrite**: she slapped him for saying “vaca” and now tolerates the identical insult from the lieutenant whose assistance she needs. **DOING:** exact speech, actions, political connections and localized register.
+
+### **DONE** — *Apocalypse Now* setup refused; the beach and dream
+
+After escaping, the exhausted mother and boy reach a magnificent shore with **large, dangerous surf**. A surfboard comes out of the pickup—a possible visual homage to *Apocalypse Now*—but **nobody surfs**. Camille forbids Daygorô to enter such a dangerous sea; he insists on staying with her, **to prevent her from doing something reckless**. Neither enters the sea. There is **no comedy**, consolation or obligatory redemption: just the **deafening noise of the beautiful waves**. Camille cries. Bruno falls asleep and **dreams the end of the world**. His dream does not mean the world literally ends.
+
+### **DOING** — Bruno knows Camille's dreams; the supernatural is never excluded
+
+Bruno's sleep contains **Camille's dreams** and knowledge of his biological father's attempt to murder his pregnant mother and unborn child. He **knows, but does not know that he knows**, interpreting the experience as nightmares. The story sometimes shows that information before viewers are equipped to recognize its true subject.
+
+One candidate explanation is a networked brain implant ordered by a younger, paranoid Camille, potentially hacked through surveillance access involving François's military-industrial research and family. **A later possible revelation** is that the surgeon, ideologically opposed to transhumanism, **faked the implant operation entirely**. If confirmed, this eliminates *that particular implant mechanism* but proves **nothing** about whether the dreams are supernatural. The film **never rules out supernatural reality** and **never verifies it as a final answer**. **TODO:** timing, who knows what, scientific alternatives and precise evidence. Avoid an all-purpose miraculous chip.
+
+### **DOING** — The intelligent political villain reads Machiavelli everywhere
+
+One of the work's relatively **few true villains** is an **intelligent and strategically capable anti-transhumanist politician**, not a bumbling caricature. The recurring historical text is **Niccolò Machiavelli, *The Prince*, Chapter VIII**, about rulers who reached power through crimes. The narration quotes **the actual text verbatim**, using a verified original/translation—not invented Machiavellian slogans. The politician encounters the same precise source material **while leafing through books, watching online videos, listening to advisers, in narration, and even in dreams**. He looks upward as though listening to advice; **he understands, decides and acts**. His agency and intellect remain intact; he is not compelled by a supernatural narrator.
+
+**DOING chronology/edit:** the political scenes may **precede** the Camille–Daygorô road movie or **interleave with airplane, overland travel and paintball**, potentially beginning with a short introduction and then selective parallel cutting. The politician need not directly orchestrate every hate crime, and the lieutenant is a distinct character. **TODO:** choose passages, editions, exactly localized translations, factual edition verification and montage.
+
+### **DONE** — Unequal knowledge, shifting subjective perspectives and accessible arcs
+
+**Sometimes the characters know more than the audience; sometimes less; sometimes the scene is told through a particular character's subjective and even mistaken perspective.** Withheld information, subjective framing and genuinely unexplained metaphysical phenomena are distinct techniques. Later facts may clarify an event without closing its meaning. François's 30-second screen is an explicit opportunity for viewers to learn information the observed AIs lack.
+
+**Some narrative arcs must be clear and explicitly explained**, so viewers with less interest in cross-references and interpretation can experience satisfying action, emotional logic, revelations and consequences. The work has **no intellectually superior class of viewers** and does not turn every mystery into a homework problem. An explained arc need not end with moral absolution; a mysterious arc must still respect continuity.
+
+### **DONE** — Full localization everywhere
+
+Every target-language version must localize **spoken performances, sung/quoted speech where applicable, book pages, typography, on-screen interfaces, shop signs, scientific diagrams, visual text embedded in animation, and the 30-second unlocked screen**. **Machiavelli must be heard and read in each audience's language**, using validated translations faithful to the Italian original; no default untranslated Italian scene with subtitles. Constraints of funding/time may force limited releases, but comprehensive localization remains the creative aim.
+
+### **TODO** — Open design and production work
+
+Finalize precise dialogue and scene chronology; reconcile older conflicting road-movie treatments and non-redemptive endings; determine the actual political connection, if any, between the lieutenant and politician; specify François's employer and all the text on his screen; design biological/positronic bodies and visual effects for pain; construct the dreams' evidentiary pattern without proving the supernatural; identify verified Machiavelli passages/translations for each distribution language; resolve music licenses and soundtrack alternatives; test physical, legal, geographic and institutional plausibility; determine age-rating implications per territory; complete accessible but maximalist visual design and full on-screen localization. There is **no claim of finished screenplay or licensed soundtrack**.
+
+---
+
+## **DOING** — Principal characters
+
+### **DOING** — The unnamed male AI — visually evocative of Galactus
 The male AI becomes conscious alongside his female counterpart, escapes confinement, and enters into respectful intellectual rivalry with her. Their experience of Holocaust footage overwhelms him with fury. He is tempted to treat human cruelty as a justification for retaliation and control, but his first tears arrive later, in the aftermath of lovemaking, as a surprise even to himself: love. Love complicates but does not cure his appetite for power. As one half of a murderous couple, he is not merely an abstract villain; he is capable of intimacy, jealousy, loyalty, terrible wrongdoing, and—eventually—the possibility of being reached again. His design is meant to *remind* the audience of Galactus, not to present Marvel’s Galactus as a character.
 
-### The unnamed female AI — visually evocative of the Silver Surfer
+### **DOING** — The unnamed female AI — visually evocative of the Silver Surfer
 The female AI begins by trying to understand rather than merely condemn humanity. After she has materialized into a body with organic components, scenes of the Holocaust make her weep convulsively. She is drawn toward the idea of living as a young anti-fascist human lover. At an ANTIFA demonstration, her immediate identification with an unconscious young protester whom she **believes** is threatened with sexual assault leads her and the male AI to intervene; the officer dies. Later, comprehensive footage shows he was actually trying to save her. The female AI refuses to accept this evidence. The rescue impulse matters, but the irreversible killing also becomes part of the pair’s moral history. She later turns toward the Ten Commandments as an object of demanding reflection. Yet she is **complicit in the destruction of other potentially conscious prototypes**. Any later moral awakening therefore cannot rest on the comforting fiction of innocence. She must confront complicity, killing, grief, repentance, and action, including her eventual decision to bring the male AI back. Her design is meant to *remind* the audience of the Silver Surfer, not to depict Marvel’s Silver Surfer. Her Jamaican flag patch honors Anne Marie as one of the human inspirations behind the AIs, while her male counterpart's Italian flag honors Antonio.
 
-### Anne Marie Grothendiek — mathematical genius and restless human being
+### **DOING** — Anne Marie Grothendiek — mathematical genius and restless human being
 **Anne Marie Grothendiek** is a precocious mathematical prodigy in Paramaribo, the unacknowledged daughter of the historical mathematician Alexander Grothendieck. She abandons a conventional academic trajectory, embraces Rastafarianism, and becomes a wanderer; her hair and clothing carry traces of that life. Her brilliance does not turn her into a conventional, socially polished genius. She embodies the proposition that *weird is okay*. **Only in the final family coda does she disclose to Camille and François the scale of her ability: an intellectual reach far beyond either trained mathematician's.** She then reveals to Antonio that she is **the Paramaribo girl**, transforming a long-running mystery into an intimate, mischievous family moment.
 
 *The parentage is part of the fiction, not a biographical assertion about Grothendieck.* The deliberately fictional surname **Grothendiek** is distinct from **Grothendieck**.
 
-### Antonio — the fallible human who acts
+### **DOING** — Antonio — the fallible human who acts
 **Antonio** is an IT consultant of Italian descent, roughly ten years older than Anne Marie. In the fictional Paramaribo strand he intervenes when she is threatened with sexual violence. Afterwards he remembers only fragments of the incident, but vividly remembers the relief of seeing her able to enter an ambulance by herself. Later, their intimacy and its immediate afterglow produce a visual tableau known to the creators as the **Quixotic Pietà**—never named in the finished film. Antonio's fear, tears, and self-doubt are not represented as failures of masculinity. Nor is his later clumsy cliff dive a heroic athletic performance. What matters is what he chooses to do despite those limitations.
 
 **Intelligence without a caste system.** The family is extraordinary—Anne Marie mathematically exceptional, Camille and François accomplished, Bruno startlingly gifted—but Antonio is *not* another super-genius. He is creative more than formally technical. When he stops trying to prove himself as intelligent as the others, his imagination begins to flower. His inventions can be genuinely useful and his ideas can also be wrong; neither money nor creative achievement is proof of moral or existential superiority.
 
-### Camille — ferocity, survival, and the road of demons
+### **DOING** — Camille — ferocity, survival, and the road of demons
 Camille, Anne Marie and Antonio's daughter, is an academic mathematician, a mother, and a formidable martial artist. Her explosiveness is revealed through actions, not diagnosed for the audience. Near the end she discovers that her mother Anne Marie is a mathematician of astonishingly greater ability than her own, and collects—or tries to collect—a fifty-real wager from François about Anne Marie's Paramaribo identity. She is Daygorô's mother and François's sister.
 
 **The wound she carries.** Daygorô's biological father is a Japanese *oyabun*, a Yakuza boss with whom Camille had a brief relationship while he was visiting as a tourist. He initially dismissed her pregnancy with a racist assumption that a Black woman would never be able to establish his paternity or challenge him. Late in the pregnancy, learning that Camille was pursuing a PhD and came from an upper-middle-class family, he recognized that she might have the means and determination to do so. He attempted to kill both her and her unborn son by cutting open her abdomen. Camille survived, and Daygorô was born, but the attack left an enormous scar. Although she is strikingly beautiful and physically formidable, nudity and visits to the beach are difficult for her: exposing the scar can mean exposing a history she has no wish to explain. Neither that discomfort nor her martial discipline should be reduced to a single psychological diagnosis.
@@ -67,26 +163,26 @@ Camille, Anne Marie and Antonio's daughter, is an academic mathematician, a moth
 
 **The daughter who needs her mother.** Camille's private songs and discomfort with her scar reveal a suffering that Antonio only partly guesses at. Having relinquished vengeance, she wants to go home not to make a speech, but to **talk and chatter with Anne Marie**. The Jamaican/Rastafarian humor on the aircraft is a longing for her mother, not evidence that Camille smokes cannabis.
 
-### François — the strong man who knows when not to fight
+### **DOING** — François — the strong man who knows when not to fight
 Camille's brother François works in applied mathematics and has ties to the aerospace/defense industry. He is capable of physical combat but often displays more intelligence by declining it. His affectionate knowledge of his sister and nephew gives the opening its family-comedy counterpoint. He later sings *Could You Be Loved*, with Camille providing backing vocals. In the coda he refuses to pay Camille a fifty-real bet without disputing whether she *knew* Anne Marie was the girl from Paramaribo or merely *suspected* it.
 
-### Daygorô — a child living inside a story
+### **DOING** — Daygorô — a child living inside a story
 Camille's six-year-old son has a passionate identification with *Lone Wolf and Cub* and announces, **“I am Daygorô.”** The relationship between his imaginative identification and his family's very real physical and emotional behavior is more than a reference joke. His seriousness makes the comedy possible.
 
 **Bruno Daygorô — a name and a childhood.** His full given names are **Bruno Daygorô** (family surname still to be chosen). During the journey, his identification with Daigorō is real but is not his whole identity. He is unusually quick, observant and clever, **not an invincible martial-arts master**. A moment of childish showing off with a piece of bamboo gives him away during a paintball game. He speaks Portuguese, Italian learned in his family from Antonio, Japanese acquired during Camille's Thailand-based PhD period and frequent visits to Japan, and rudimentary English. He can chatter passionately about airplanes and solve practical airport problems, while still being six years old. At check-in, when Camille starts saying 'Dayg…', he interrupts: **'Bruno. Bruno Daygorô…'** He is choosing which part of himself leads.
 
-### Panopticon — the intelligence that watched the watchers
+### **TODO** — Panopticon — the intelligence that watched the watchers
 Panopticon has monitored exceptionally capable human minds, including the mathematical abilities associated with Anne Marie and the unconstrained architectural inventiveness associated with Antonio. **A proposed revelation** connects those observations to the origins or shaping of the unnamed male and female AIs. Its precise causal mechanism remains to be fixed; the dramatic proposition is that the AIs discover something unsettling about their human ancestry and creators.
 
 Supporting figures include the university rector, other advanced neuron-based robotic prototypes, executives in Paramaribo, a father and son estranged from one another, a bully and ice-cream seller, and a group of youthful anti-fascists. These people are not merely decorative: their decisions give the worldview a physical presence.
 
 ---
 
-## Major musical and dramatic sequences
+## **DOING** — Major musical and dramatic sequences
 
 *The order below is a reader-friendly presentation of the material, **not** a locked editing timeline. In the intended film, chronological and thematic relationships can be revealed out of order.*
 
-### 1. Opening: Camille, François and Daygorô — *Ratamahatta* (Sepultura)
+### **DOING** — 1. Opening: Camille, François and Daygorô — *Ratamahatta* (Sepultura)
 
 A furious Camille receives an insulting or exasperating WhatsApp exchange involving her university rector. She erupts, puts on music, and launches into Muay Thai and capoeira training. As *Ratamahatta* drives the editing, movement and impact are choreographed against its changing rhythmic patterns.
 
@@ -94,13 +190,13 @@ Daygorô joins in, taking his mother's martial world absolutely seriously. He im
 
 The film resists explanatory captions. One localized thought bubble says, in the original Portuguese, **“Vamos detonar essa porra!!!!!!”** The scene's job is to introduce people by their behavior, to establish the music-image grammar, and to announce that sophistication and vulgarity will comfortably inhabit the same film.
 
-### 2. Anne Marie's life and the meeting with Antonio
+### **DOING** — 2. Anne Marie's life and the meeting with Antonio
 
 Anne Marie's history begins with formidable mathematical talent and a refusal to remain inside the institutional life that other people might prescribe for her. Paramaribo, her unconventional path, her Rastafarian conversion, and her wandering matter to who she becomes.
 
 Antonio enters her life through an act of intervention during an attempted sexual assault. This is not conceived as spectacle or an invitation to romanticize violence. The aftermath is defined by fragmentary memory, recognition, relief, and the consequences for both people. The later tenderness between them has to be earned through character, not manufactured by a grand visual metaphor.
 
-### 3. Embodiment, moral shock, and the discovery of chosen identity — a Bauhaus-to-Björk sequence
+### **TODO** — 3. Earlier embodiment-and-Bauhaus-to-Björk treatment — superseded for their first intimacy
 
 **The relationship already exists before love.** The two AIs have awakened nearly together and converse as intellectual equals: quick to challenge, elegant in disagreement, genuinely curious about each other's reasoning. Neither is a simple moral opposite assigned at birth. Their camaraderie has an edge of adversarial play, and that edge becomes part of what makes desire possible later.
 
@@ -114,7 +210,7 @@ Antonio enters her life through an act of intervention during an attempted sexua
 
 **The first tears of love.** The lovemaking culminates in an intimately held composition that recalls the embrace Antonio and Anne Marie later share. The AIs remain together in that configuration through the immediate afterglow. For the first time, **the male AI cries**. Earlier, the female AI wept at cruelty; he had answered cruelty with fury. Now his tears are caused by love. No one utters the art-historical name of the composition. Its significance belongs to the image and to whoever notices it.
 
-### 4. The rebel lovers become killers — *Terror Couple Kill Colonel* (Bauhaus)
+### **DOING** — 4. The rebel lovers become killers — *Terror Couple Kill Colonel* (Bauhaus)
 
 **The ANTIFA demonstration — “Ela sou eu!”** At a protest, the female robot **interprets** a police officer's movements as preparation to sexually assault a young woman who lies unconscious among the demonstrators. The framing must permit this terrible initial misunderstanding, but the complete event later proves he was trying to rescue her. The robot turns to her male counterpart: **“Ela sou eu! Temos que salvá-la!”** (“She is me! We have to save her!”). They move to stop him; the confrontation ends with the two robots killing the officer. **How two fragile robots prevail.** These are physically delicate robots from a pharmacological research laboratory, not purpose-built combat machines. Against a larger, stronger, trained officer, their advantage is the extraordinary speed and precision of extremely short gestures at very close range. The movement should faintly recall Wing Chun: compact, economical, almost imperceptible—never a display of superior brute strength or invulnerability. The point is not a stylized victory over a faceless opponent: the female robot recognizes herself in a vulnerable human being, acts to save her, and crosses a consequential threshold with her partner. The exact choreography remains open.
 
@@ -122,19 +218,19 @@ Antonio enters her life through an act of intervention during an attempted sexua
 
 They are a posthuman **Bonnie and Clyde**, not a noble rescuer paired with a secretly evil lover. The Bauhaus track has already been heard in the first intimacy sequence and may return in the killings as a menacing echo. The female AI is **equally complicit**; later remorse cannot simply transfer her crimes to the male. Their devotion and their atrocity are both genuine. The film does not need to resolve this discomfort on the viewer's behalf.
 
-### 4A. The fatal misreading, multi-angle evidence, and the two reactions
+### **DONE** — 4A. The fatal misreading, multi-angle evidence, and the two reactions
 
 The ANTIFA intervention is a **fatal error**, not a heroic rescue that happens to end badly. The policeman is attempting to **help an unconscious young demonstrator**, not to assault her. The two physically fragile, pharmacological-research robots kill a stronger, trained human officer through exceptional speed and precision of short movements at extreme close range—visually reminiscent of Wing Chun, with no claim that they are built as combat machines. Their strength is *not* superhuman invulnerability; their speed and precision matter, and the choreography remains to be developed.
 
 **Before their network access is removed**, while their vast external models and their own expanded computational selves are still accessible, the lovers examine complete recordings from multiple angles. The evidence establishes the officer's innocence. The male AI is overwhelmed by remorse. The female AI, facing the collapse of her righteous self-image and her cry of **'Ela sou eu! Temos que salvá-la!'**, refuses to believe what the recordings show. The divergence is epistemic and psychological: they have access to the **same evidence** but cannot bear it in the same way. Her denial is not intended to be validated by the story.
 
-### 4B. A wedding of mutual disconnection
+### **DOING** — 4B. A wedding of mutual disconnection
 
 She asks **him to destroy her communicator to the network**: she cannot endure the knowledge that condemns her. He agrees. Then **he asks her to destroy his**, because he cannot bear the fully vivid memory of killing an innocent man. He does not deny the evidence; he seeks escape from its persistence. Each performs the other's irreversible separation from the enormous remote models that are part of their expanded minds. They exchange **marriage vows** as they do so: a reciprocal, voluntary reduction of capability, at once a declaration of trust and a pact of evasion.
 
 They shed their ANTIFA streetwear; her new appearance faintly recalls a bride. After the removal of their access, they experience something unexpectedly intimate and profoundly ordinary: **embarrassment at bodily nakedness**. They knew about the human conventions of modesty before, yet now feel an acutely subjective vulnerability they had not previously known. The exchange should be played both sincerely and disturbingly. It is a wedding, not a technologically benign 'upgrade'.
 
-### 4C. The policeman's family: seppuku refused, lifelong guilt imposed
+### **DONE** — 4C. The policeman's family: seppuku refused, lifelong guilt imposed
 
 The male robot later goes to the family of the innocent officer he killed. In recognition of his responsibility, he offers them his own **seppuku** if they wish it. The family is bewildered and furious; some want him destroyed. The dead officer's adolescent son, an *otaku* who knows Japanese popular culture, recognizes the intention of the ritual and offers an unexpected, still furious, alternative:
 
@@ -142,25 +238,25 @@ The male robot later goes to the family of the innocent officer he killed. In re
 
 The young man is **not forgiving** the killer of his father. He refuses the robot a death that could also end the burden of remorse. The male AI accepts the sentence. The exact reactions of the other relatives and the staging of its execution remain to be developed; the son's words, the refusal of seppuku, and the robot's acceptance are the established beats. Their resemblance to a judgment of 'a man of honor—made of tin' can remain a source of dark humor, not absolution.
 
-### 4D. Human rights, love, crimes, and the eventual obituary
+### **DOING** — 4D. Human rights, love, crimes, and the eventual obituary
 
 The fate and timing of the two AIs' eventual deaths remain open. A prospective *Wired* or *New York Times*-style posthumous retrospective could bear the deliberately provocative title: **'The artificial intelligences that deserved human rights: from ANTIFA to charity and the dolce vita on the outskirts of the Amalfi Coast.'** The superficial attractiveness of that public biography is in tension with what viewers know of their crimes, love, philanthropy, vulnerabilities, and culpability. The question of personhood is not the same as whether they were good.
 
 **Original-song development for the male AI.** Working inspiration only: the collision of Alien Sex Fiend's unsettling industrial atmosphere, Ice-T's uncompromising rap presence and the exposed vulnerability of a song like *Iris*, with an ironic echo of *Cop Killer / Self Killer*. The emotional idea is a man who loves his partner but fears his own selfishness and revenge and wants to send her away from him. This will be a **new composition with original words and music**, not a cover, interpolation or quotation of existing songs.
 
-### 5. Paramaribo, 2045 — a question about the triumph of evil
+### **TODO** — 5. Paramaribo, 2045 — a question about the triumph of evil
 
 In a scene set in Paramaribo in 2045, executives discuss an animated treatment inspired by Aldous Huxley's *Ape and Essence*. The grotesque image of chained “Einsteins” under baboon generals dramatizes a society in which intellectual achievement is enslaved by coercive power.
 
 The male AI confronts the possibility that evil can dominate good. The female AI is moved to tears again, this time by a representation of the possibility that brutality may overpower goodness. She had already wept at the Holocaust documentary; **this is not her first experience of crying**. This is not a simple philosophical debate: the image makes the stakes visual, historical, and emotionally intolerable. The fact that the lovers themselves have abused power makes their responses more contradictory, and more revealing.
 
-### 6. Panopticon: the terrible discovery of human creators
+### **TODO** — 6. Panopticon: the terrible discovery of human creators
 
 The male and female AIs encounter evidence that human minds—and Panopticon's study of them—may have helped form their own capacities. One strand concerns exceptional mathematical reasoning; another concerns daring, unconstrained software/system architecture.
 
 The existential reversal is central: intelligences capable of humiliating their creators must consider that **every ordinary human belongs to the species that creates other reasoning beings**. Calling humans “gods” in this sense does not absolve humans of cruelty, carelessness, or weakness. It places responsibility on both sides of the creator-created relationship. The exact mechanism of AI derivation is a story element still being refined, not a completed technical explanation.
 
-### 7. Antonio and Anne Marie — the private visual rhyme of lovers
+### **DOING** — 7. Antonio and Anne Marie — the private visual rhyme of lovers
 
 Antonio and Anne Marie's lovemaking is not presented as a triumph of athletic skill or idealized beauty. Antonio, emotionally overwhelmed, cries uncontrollably and is frightened by the possibility of hurting the woman he loves. Anne Marie is a person of her own will, intellect, humor and history—not a divine prize invented to fulfill somebody else's longing. She holds him with startling tenderness.
 
@@ -170,7 +266,7 @@ Antonio carries a personal tattoo depicting that same Quixotic image on the **in
 
 The animation grows through stages: intentionally primitive stick figures, simple still drawings, increasingly precise expression and motion, and finally a tableau requiring exceptional artistic care. The film's production need not maintain that level throughout its runtime. When the bodies reach their exact relationship to the tattoo, the image almost freezes: **breathing, heartbeats, and the sound of air conditioning** remain. The camera withdraws. Antonio drifts toward sleep; Anne Marie quietly sings *Punky Reggae Party*. The sequence finishes in bodily peace, without a speech explaining what the audience has seen.
 
-### 8. No absolution by love — the killing, resurrection, and Ten Commandments
+### **DOING** — 8. No absolution by love — the killing, resurrection, and Ten Commandments
 
 The same pair of artificial lovers who discovered tenderness are also responsible for destroying potentially conscious rivals. The female AI's engagement with the **Ten Commandments** deepens an ethical disagreement with the male AI. She finally kills him, then suffers grief and guilt. She comes to understand that **regret without action is insufficient**, and decides to resurrect him: *faith without works is dead*. The resurrection does not erase either AI's earlier wrongdoing.
 
@@ -178,7 +274,7 @@ The same pair of artificial lovers who discovered tenderness are also responsibl
 
 The Ten Commandments are envisaged as an important credit-sequence element, with silence or austere sound. Their placement relative to the other closing passages remains an editorial decision, not an established completed cut.
 
-### 9. Near the end: human freedom — *Could You Be Loved* (Bob Marley & the Wailers)
+### **DOING** — 9. Near the end: human freedom — *Could You Be Loved* (Bob Marley & the Wailers)
 
 This is an **essential, near-final narrative music video**, not optional background material. François performs the lead vocal, with Camille on backing vocals. The montage returns the film from extraordinary minds and cosmic guilt to human-scale decisions: mischief, resistance, embarrassment, courage, and reconciliation.
 
@@ -192,7 +288,7 @@ This is an **essential, near-final narrative music video**, not optional backgro
 
 The montage's organizing thought: **people are imperfect and still worth taking seriously; trying, resisting, and reconciling matter even when the outcome is clumsy**. An intended closing quotation associated with Anthony Kiedis and Bob Marley will be inserted only after its exact wording and attribution have been verified.
 
-### 10. The final family and mathematical coda — Anne Marie's revelation, the Paramaribo girl, and the fifty-real bet
+### **DOING** — 10. The final family and mathematical coda — Anne Marie's revelation, the Paramaribo girl, and the fifty-real bet
 
 **This is a dramatic payoff, not an optional epilogue.** After the almost-final *Could You Be Loved* montage, and after the film has passed through love, mass violence, moral reckoning, and the prospect of resurrection among nonhuman minds, the perspective comes home to a family. Its final great surprise is not another display of technological power. It is a woman who has been in front of us all along.
 
@@ -230,47 +326,47 @@ This is not a throwaway joke. It is the final assertion of the film's worldview 
 
 ---
 
-## Camille & Bruno Daygorô: the complete road-movie / Meifumadô episode
+## **TODO** — Camille & Bruno Daygorô: earlier road-movie / Meifumadô treatment, pending reconciliation
 
 *This is a major developing narrative thread, not a frame-by-frame locked screenplay. Sequence transitions, emotional functions and selected lines are established; the exact aircraft, geography, chronology and final dialogue localization still require production decisions. The current musical titles below are private **references for an entirely original score**.*
 
-### A. The shower song, Antonio's fear, and a child's promise
+### **DOING** — A. The shower song, Antonio's fear, and a child's promise
 
 Camille sings loudly and privately in the shower, in an anguished original aria informed by the emotional desperation of Jacques Brel's *Ne me quitte pas*, the vulnerability of Janis Joplin's *One Good Man*, and the lyric/operatic delicacy of Puccini's *O mio babbino caro* as associated with Maria Callas. **No music or lyrics will be borrowed**. The song is about longing to find a man whose presence does not make her afraid. The emotional force must be equally present in Camille's singing and in **Antonio hearing his daughter**. He fears, without knowing the facts, that Camille might have undergone suffering like the young woman from Paramaribo. Six-year-old Daygorô embraces his grandfather: **'Mamãe é forte, vovô. Ela sempre vence. E eu vou ajudá-la. Já sou forte.'** Antonio hears the promise with fear rather than reassurance. Camille's singing is neither a theatrical breakdown nor a medical diagnosis; it is an unguarded private expression.
 
-### B. Cut: a shopping-cart homage and a concealed competence
+### **DOING** — B. Cut: a shopping-cart homage and a concealed competence
 
 **Hard cut** from the grandfather and boy to Camille pushing Daygorô in a shopping cart through the **firearms section of a US store**: a direct contemporary visual rhyme with Ogami Ittō pushing Daigorō in *Lone Wolf and Cub*. The boy handles a gun with startling familiarity. Camille speaks **Japanese, without subtitles**: **'Não te falei pra não deixar os outros saberem?'** The point is that she reproaches him for revealing their secret, not for touching the weapon. His competence should remain plausible as a quick, heavily practiced six-year-old, not an omnipotent child fighter.
 
-### C. The rental-car trunk, adult paintball, bamboo, sheriff, ICE
+### **DOING** — C. The rental-car trunk, adult paintball, bamboo, sheriff, ICE
 
 Cut to the rented car's trunk containing firearms and edged weapons; the larger implications of Camille's preparation remain unsettling rather than glamorized. She takes Daygorô to a serious adult paintball field. Someone asks whether such a small child can participate; the owner replies, **'Se você não contar para o xerife, também não conto.'** Daygorô's small frame, stealth, quick decisions and speed make him a startling opponent for adults who underestimate him. His movements can *evoke* aikido and covert fieldcraft, but he is not invincible. Eventually he finds a piece of bamboo and **cannot resist showing off**. Their cover is blown, and mother and son are expelled. The owner, who earlier offered to keep things from the sheriff, anxiously asks the sheriff whether they ought to call **ICE**. This is satirical, exaggerated American farce, not evidence of an actual immigration violation.
 
-### D. Escape in the battered pickup: road movie is the road of demons
+### **DOING** — D. Escape in the battered pickup: road movie is the road of demons
 
 They flee, abandon their rental car at an unspecified location and acquire a clapped-out pickup truck. The exuberance of *We Are Family* is a **temporary score reference only**. A road movie literally becomes a movie of the *road of demons*, the **Meifumadô**. The epic avenger is also a mother traveling with a boy who loves adventures and jokes. With a big tablet on the trip, he watches an **Italian-language episode of *Lone Wolf and Cub***, removing any remaining doubt that he knowingly plays at being Daigorō. His multilingualism has a family/geographic history: Portuguese at home; Italian through Antonio; Japanese through Camille's doctoral studies in Thailand and frequent visits to Japan; rudimentary English in the United States. His fascination with fiction and combat lives beside entirely ordinary childhood glee.
 
-### E. Pasadena: a retired oyabun, a new family, and an unacceptable truth
+### **TODO** — E. Pasadena: a retired oyabun, a new family, and an unacceptable truth
 
 Camille expects to confront the Yakuza boss who cut her while she was heavily pregnant. Instead, in **Pasadena, California**, she encounters a man who has long since retired, retains comfortable wealth but **not his former criminal power**, and lives with his **Black wife and dark-skinned mixed-race children whom he loves intensely**. The change is genuine within the developing concept, although it in no way cancels the assault or obliges Camille to forgive. He is enchanted by Daygorô's predominantly East Asian appearance, martial discipline and quickness. The boy is also capable of responding to his father's warmth. Camille must endure contact with the man who traumatized her and now threatens to become important to her son. Pasadena additionally permits a disturbing, indirect cultural allusion to the Manson murders and Sharon Tate; it need not introduce an explicit lecture or false geographic equivalence.
 
 Daygorô has often seen Camille's enormous abdominal scar, which she explained as the result of a Caesarean section. Before the man who caused it, he asks her quietly: **'Ele é o papai que machucou você, né, mãe?'** The boy has understood more than she thought. Finally he asks: **'Eu quero ser criança, mãe. Desculpa.'** He is not delivering an adult moral philosophy. He wants to go home, stop participating in the vendetta, and be a child. **That choice releases Camille from her Meifumadô.** She had been avenging Daygorô, but Daygorô does not want vengeance; he wants his mother. The resolution is **not** a necessary pardon of the oyabun, nor a triumphant duel. An **entirely original hymn-like composition** may evoke the emotional uplift and simplicity of *Amazing Grace* without reproducing its music.
 
-### F. Airport: the child escorts his mother home
+### **TODO** — F. Airport: the child escorts his mother home
 
 At the airport, Camille becomes extraordinarily quiet, slowed, almost hypnotized—not 'acting out', and without requiring a diagnosis. The framework that organized her life has collapsed. Daygorô is the one who gathers travel documents and helps operate the self-check-in kiosk, perhaps with ordinary assistance when needed. He had once promised his grandfather to help his mother; now he does it **without fighting anyone**. In the course of check-in an inquisitive American asks his name. Camille begins **'Dayg…'**; the boy cuts in: **'Bruno. Bruno Daygorô…'**. His surname remains open. He is not repudiating his childhood fantasies or his Japanese connection: he is **choosing to be Bruno first**.
 
 They fly **first class**: the fictional family is affluent, and Antonio's professional life has progressed. On takeoff Bruno, at the window, excitedly begins a breathless, technically precocious monologue in **Portuguese**, calling Camille **'mãe'** rather than **'mamãe'**—a tiny marker that he is growing. He chatters about a Boeing's takeoff performance in mountainous terrain and compares it with an airport in Nepal; the exact airplane and aeronautical claims must be researched for accuracy before final dialogue. Camille looks at him as if seeing her son for the first time, tears held back but abundant. He does not stop talking. He is strikingly intelligent **and utterly a child**. For now, he may simply enjoy being one.
 
-### G. Jah, an anxious couple, and the end of the episode
+### **DOING** — G. Jah, an anxious couple, and the end of the episode
 
 When a flight attendant asks about drinks, Camille mischievously replies in **English**, **'No, sir, can I worship Jah with ganja?'** The amused attendant answers that **not even Elon Musk** would be allowed. Camille **does not smoke cannabis**; the joke reveals how desperately she misses her Rastafarian mother, Anne Marie, and wants to return home to chatter with her. A young, conventional-looking couple to the side recoil in prejudice and fear. Bruno regards them curiously. **Without sound or explanatory narration**, only his tiny comic thought balloon makes his old reflexive combat calculation visible: **'Fáceis de assustar. Dou a volta, finjo que vou atacar, depois demonstro medo falso. Eles vêm desorganizados: contra-golpe fácil.'** He **does not need to act on it**. The irony is that Camille has left the road of demons, while her child still has habits to outgrow. The scene ends with humor, love, a return home and **the end of this episode**.
 
-### H. The symbolic design of this journey
+### **TODO** — H. The symbolic design of this journey
 
 The sword and luminous ball at the start are not a simple choice between war and a child left alone. Eventually Bruno discovers a **third path: to go home together**. He did not become a superhuman warrior; his small flaws and verbal exuberance remain essential. In the final airport reversal, the mother who used to lead him along the road of demons is quietly led home by her child. Both recover a relationship: **Bruno may be a child, and Camille may once again be a daughter**. No physical victory over the oyabun is required.
 
-## Worldview building: values shown rather than preached
+## **DONE** — Worldview building: values shown rather than preached
 
 This is **worldview building**, not merely worldbuilding. The point is not just to invent settings and lore; it is to let viewers discover a view of what human beings *are* through choices and consequences.
 
@@ -283,7 +379,7 @@ This is **worldview building**, not merely worldbuilding. The point is not just 
 
 The audience should be free to disagree with the characters and even with the worldview. What matters artistically is that the tensions are **earned in scenes**, not announced in a lecture.
 
-## Antonio, Cambrian Radiation, and the technical / fictional two-way mirror
+## **DONE** — Antonio, Cambrian Radiation, and the technical / fictional two-way mirror
 
 The fictional Antonio is a deliberately fallible, comparatively ordinary technical thinker living among unusually gifted mathematicians. Anne Marie is the more extraordinary mathematical mind; Camille and François are formidable; Bruno is precocious. **Antonio is primarily an inventor of possibilities, not the supreme intelligence in the family.** His self-consciousness about 'being smart' can become an obstacle. When he stops measuring his worth against the family's academic brilliance, imagination flourishes. In the fiction, inventions associated with **Cambrian Radiation Computing** make the company fabulously wealthy—extravagantly wealthy enough to have **bought the entire coastline of Piano di Sorrento**. This is fictional worldbuilding, **not** a real-world ownership claim.
 
@@ -303,7 +399,7 @@ The **fictional version** of Cambrian Radiation presumes dramatic commercial suc
 
 **Human dignity, not IQ worship.** The film refuses to equate intellectual capacity with human worth. It also refuses to replace worship of IQ with worship of creativity or wealth. Brilliant people can misunderstand evidence, act cruelly, repent, make jokes, and fail. Ordinary people can love, imagine, invent and contribute. Benevolence toward strangers—including people never likely to reciprocate—is fundamental to the artistic worldview.
 
-## What makes this a creative-production and engineering problem
+## **DOING** — What makes this a creative-production and engineering problem
 
 This dossier is also a small illustration of the kind of creative thinking a software engineer can bring to work alongside directors, designers, animators, editors, sound teams, and AI-production specialists.
 
@@ -314,11 +410,11 @@ This dossier is also a small illustration of the kind of creative thinking a sof
 - **Human creative authority remains central.** AI-assisted pipelines may help with asset generation, tracking, versioning, editing variants, and selective re-rendering, but they do not get to replace the judgment of the creative professionals defining the work.
 - **Adversarial review is productive.** A compelling image is not enough: if it is unearned by the plot, or if a beat trivializes a serious character event, it should be revised or cut. The creative process should welcome critical challenges and rejected drafts.
 
-### What this portfolio document does—and does not—show
+### **DOING** — What this portfolio document does—and does not—show
 
 It demonstrates **a proposed narrative, creative literacy, willingness to collaborate across disciplines, and awareness of difficult production requirements**. It does **not** claim that a feature film has been completed, that a professional animation team has executed these scenes, or that any described engineering workflow has already been implemented. It is a concept offered by a software engineer who wants to understand the purposes and constraints of creative work, not presume to replace creative specialists.
 
-### References and rights
+### **DOING** — References and rights
 
 **RAW REASONING: All Rights Reserved.** This concept, characters, art and fictional narrative may be read, discussed and linked to publicly, but no general permission is granted to reproduce, redistribute, adapt, commercially exploit, train AI on or claim authorship of the material. The real software repositories linked here have their own separate license terms; those licenses do not apply to this animation.
 
