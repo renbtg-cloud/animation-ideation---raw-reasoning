@@ -60,5 +60,12 @@ jobs:
           git add README-ptBR.md README-ptBR.pdf
           if ! git diff --cached --quiet; then
             git commit -m "Publish full contextual pt-BR README and illustrated PDF"
-            git push
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then exit 0; fi
+              sleep 2
+            done
+            echo "Could not push after 5 retries" >&2
+            exit 1
           fi
