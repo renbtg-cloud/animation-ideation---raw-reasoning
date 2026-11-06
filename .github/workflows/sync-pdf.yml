@@ -6,6 +6,7 @@ on:
     paths:
       - README.md
       - scripts/build_pdf.py
+      - scripts/cover_footer.py
       - .github/workflows/sync-pdf.yml
   workflow_dispatch:
 
@@ -29,7 +30,7 @@ jobs:
       - name: Install PDF tools
         run: |
           python -m pip install --upgrade pip
-          python -m pip install "markdown-it-py>=3,<5" "weasyprint>=62,<70" "pypdf>=5,<8"
+          python -m pip install "markdown-it-py>=3,<5" "weasyprint>=62,<70" "pypdf>=5,<8" "pymupdf>=1.24,<2"
 
       - name: Rebuild PDF with original cover intact
         run: python scripts/build_pdf.py
