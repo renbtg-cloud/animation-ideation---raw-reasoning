@@ -123,6 +123,26 @@ MANUAL = {
         "Ela pede **a Winston que destrua seu comunicador de rede**: não suporta o conhecimento que a condena. Ele concorda. Depois, **Winston pede que Julia destrua o comunicador dele**, pois não suporta a memória plenamente vívida de ter matado um inocente. Ele não nega as provas; quer escapar da permanência delas. Um rompe a conexão do outro com **sistemas de IA hiperinteligentes em datacenters de GPUs**. Assim, perdem acesso a uma **inteligência externa** extraordinariamente poderosa, sem descartar uma suposta superinteligência nativa instalada nos corpos. **Sua capacidade cognitiva própria continua humana**. Trocam **votos de casamento** enquanto fazem isso: uma perda recíproca e voluntária de capacidade externa, ao mesmo tempo declaração de confiança e pacto de evasão.",
     "**RAW REASONING: All Rights Reserved.**":
         "**RAW REASONING: Todos os direitos reservados.** Este conceito, os personagens, a arte e a narrativa ficcional podem ser lidos, discutidos e divulgados por meio de links públicos, mas não se concede permissão geral para reproduzir, redistribuir, adaptar, explorar comercialmente, treinar IA com o material ou reivindicar sua autoria. Os repositórios reais de software vinculados aqui têm licenças próprias; essas licenças não se aplicam a esta animação.",
+    "**Music policy (DOING):**":
+        "**Política musical (EM ELABORAÇÃO):** A intenção principal continua sendo uma trilha composta originalmente, mas gravações comerciais específicas estão sendo consideradas como referências para cenas, especialmente *A Little Less Conversation*, de Elvis Presley; *Blood Sugar Sex Magik*, dos Red Hot Chili Peppers; *Rusty Cage*, do Soundgarden; as alternativas propostas para a manifestação; e *Little Crazy*, do Fight. **Nenhuma dessas gravações está licenciada.** A utilização definitiva exige as autorizações cabíveis sobre composição e gravação original, ou sua substituição por música original.",
+    "*The cover is a deliberately layered pitch illustration":
+        "*A capa é uma ilustração conceitual deliberadamente composta de várias camadas, destinada à apresentação para leitores criativos e possíveis colaboradores. Ela **não é um quadro do filme acabado**; suas referências recorrentes não correspondem necessariamente a informações que o público verá na tela.*",
+    "*Cover concept: Anne Marie comforting Antonio":
+        "*Conceito da capa: Anne Marie amparando Antonio; Camille e Daygorô; Winston e Julia, os dois amantes robóticos, em roupas contemporâneas de rebeldia urbana; e um volume bastante manuseado de Grothendieck. Os emblemas, as bandeiras da Itália e da Jamaica e as referências matemáticas recorrentes são pistas intencionais de ancestralidade, criadores humanos e identidade escolhida. A tipografia matemática e a edição retratada do livro pertencem à ilustração conceitual, não a um fac-símile verificado.*",
+    "*RAW REASONING* is a proposed animated audiovisual work":
+        "*RAW REASONING* é um projeto de obra audiovisual animada de aproximadamente 100 minutos, concebido como uma ópera não linear composta de videoclipes narrativos, passagens dramáticas, interlúdios, cenas próximas do recitativo, rimas visuais e silêncio. A obra pode passar de figuras de palitos deliberadamente rudimentares e comédia familiar desbocada a interpretações de intensa intimidade psicológica e a uma única sequência de refinamento visual quase obsessivo.",
+    "## **DOING** — Consolidated character, opening":
+        "## **DOING** — Decisões consolidadas sobre personagens, abertura e tramas paralelas (6 de novembro de 2026)",
+    "At a busy railway station, Anne Marie sells books":
+        "Numa estação ferroviária movimentada, Anne Marie vende livros e artesanato matematicamente elaborado; entre os volumes oferecidos está *A Incrível e Triste História de Cândida Erêndira e Sua Avó Desalmada*, de Gabriel García Márquez. Seu estimado livro de Grothendieck **não está à venda**. Ela não está simplesmente lendo: sua relação com o texto reúne matemática, luto e **ritual religioso**.",
+    "**Late afternoon and departure plan.**":
+        "**Fim da tarde e plano de mudança.** Já no fim da tarde, **um garoto lhe traz uma bebida** (a bebida exata e a relação entre os dois ainda não foram definidas). Anne Marie costuma **tomar banho nos banheiros da estação** para economizar, juntando dinheiro para se mudar para **São Paulo**. A sequência do banho **não apresenta nudez** nem tem tratamento erótico. A precariedade material e a disciplina pessoal coexistem com suas capacidades extraordinárias.",
+    "The formerly **unnamed male and female embodied AIs**":
+        "Os dois seres artificiais corporificados, antes **sem nomes definidos**, passam a se chamar **Winston e Julia**, numa referência deliberada aos amantes de *1984*, de George Orwell. Os nomes evocam amor, autonomia corporal e a ameaça de controle sobre a vida interior. Eles não são os personagens de Orwell nem reproduzem seu enredo ou suas posições morais: respondem por suas próprias escolhas.",
+    "Interwoven with their story is a human drama:":
+        "Entrelaçado à história dos robôs, há um drama humano: **Anne Marie François**, uma andarilha e prodígio matemático oriunda da Guiana Francesa, com uma ligação ficcional deliberada com Alexander Grothendieck; **Antonio**, engenheiro de software e consultor falível; e sua família — **Camille**, **Gérard** e **Daygorô**. Suas vidas imperfeitas têm importância numa escala cósmica. Perto do final, uma música de Bob Marley acompanha uma montagem de coragem, brincadeira, constrangimento e reconciliação humanos. Na coda familiar, Anne Marie revela uma capacidade matemática muito superior à de Camille e Gérard e então conta a Antonio que é a garota de quem ele se lembra da Guiana Francesa. O breve espanto dele se transforma numa perseguição brincalhona; os irmãos discutem por uma aposta de cinquenta reais. As duas escalas — a cósmica e a teimosamente cotidiana — nunca se separam completamente. As invenções fictícias de Antonio se conectam a **repositórios técnicos reais e experimentais da Cambrian Radiation**, vinculados mais adiante, enquanto a história imagina resultados ainda não alcançados na realidade.",
+    "Daygorô joins in, taking his mother's martial world absolutely seriously.":
+        "Daygorô entra na cena levando o universo marcial da mãe absolutamente a sério. Imita o aquecimento dela e golpeia um pedaço de madeira com a convicção desproporcional de uma criança pequena brincando de guerreiro. As demonstrações de Camille são muitíssimo mais poderosas; impacto, madeira se partindo e sangue cartunesco extravagante empurram a cena para o exagero. Gérard aparece, avalia a combinação de mãe e filho e, prudentemente, recua. Seus comentários e a conversa sobre uma aposta envolvendo Camille revelam o afeto familiar sob a aparente carnificina.",
 }
 
 def replace_fixed_terms(text: str) -> tuple[str, dict[str, str]]:
@@ -247,6 +267,53 @@ def main() -> None:
         ("**TODO**", "**PENDENTE**"),
     ]:
         document = document.replace(source_label, target_label)
+
+    # Native pt-BR editorial corrections: grammatical gender, soundtrack idiom,
+    # existing Portuguese dialogue, and official/common cultural titles.
+    editorial_replacements = [
+        ("**Política musical (DOING):**", "**Política musical (EM ELABORAÇÃO):**"),
+        ("**Música DOING:**", "**Música em elaboração:**"),
+        ("**Cronologia/edição DOING:**", "**Cronologia e montagem em elaboração:**"),
+        ("*Nineteen Eighty-Four*", "*1984*"),
+        ("*The Prince*", "*O Príncipe*"),
+        ("*Ape and Essence*", "*O Macaco e a Essência*"),
+        ("*The Incredible and Sad Tale of Innocent Eréndira and Her Heartless Grandmother*", "*A Incrível e Triste História de Cândida Erêndira e Sua Avó Desalmada*"),
+        ("**Winston tenta salvar o estranho**", "**Winston tenta salvar a desconhecida**"),
+        ("com o estranho ameaçado", "com a desconhecida ameaçada"),
+        ("com o estranho vulnerável", "com a desconhecida vulnerável"),
+        ("a estranho vulnerável", "a desconhecida vulnerável"),
+        ("**Um tipo diferente de assassinato.**", "**Uma outra forma de matar.**"),
+        ("**O policial é inocente.**", "**O policial é inocente.**"),
+        ("E que ele vai embora com sua culpa eterna.", "E que ele vá embora com sua culpa eterna."),
+        ("no brilho imediato", "no instante imediatamente posterior ao amor"),
+        ("o brilho imediato", "o instante imediatamente posterior ao amor"),
+        ("seu brilho imediato", "o instante imediatamente posterior ao amor"),
+        ("o seu brilho imediato", "o instante imediatamente posterior ao amor"),
+        ("a sua", "sua"),
+        ("As demonstrações do Camille", "As demonstrações de Camille"),
+        ("Daygorô se junta a nós", "Daygorô entra na cena"),
+        ("A sequência do banho **sem nudez**", "A sequência do banho **não apresenta nudez**"),
+        ("Nenhum dos dois foi esclarecido.", "Nenhuma das duas gravações foi licenciada."),
+        ("a IA masculina sem nome", "Winston"),
+        ("a IA feminina sem nome", "Julia"),
+        ("uma IA masculina sem nome", "Winston"),
+        ("uma IA feminina sem nome", "Julia"),
+        ("personagem do sexo feminino", "personagem feminina"),
+        ("os dois amantes robóticos anônimos", "Winston e Julia, os dois amantes robóticos"),
+        ("tratamento de capa imaginado", "tratamento imaginado como versão cover"),
+        ("tratamento de capa imaginado", "releitura musical imaginada"),
+        ("de um livro Grothendieck", "de um livro de Grothendieck"),
+        ("O seu assassinato é uma tragédia de falsas inferências", "A morte provocada por ele é uma tragédia nascida de uma inferência equivocada"),
+        ("uma proposta de", "uma proposta de"),
+        ("uma casa de hóspedes amarela", "uma pousada amarela"),
+        ("regista", "registra"),
+        ("exactas", "exatas"),
+        ("exacto", "exato"),
+        ("exacta", "exata"),
+    ]
+    for a, b in editorial_replacements:
+        document = document.replace(a, b)
+
     # Apply linked-PDF naming even in translator-produced prose.
     document = document.replace("(README.pdf)", "(README-ptBR.pdf)")
     expected = sum(1 for s in LINES if re.match(r"^#{1,4} ", s))
