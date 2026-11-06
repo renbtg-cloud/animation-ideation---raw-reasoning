@@ -10,6 +10,7 @@ import io
 from pathlib import Path
 
 from pypdf import PdfReader, PdfWriter
+from cover_footer import localized_illustrated_cover
 
 from markdown_it import MarkdownIt
 from weasyprint import HTML
@@ -85,11 +86,8 @@ body_pdf = HTML(string=body_doc, base_url=ROOT.as_uri() + "/").write_pdf()
 
 writer = PdfWriter()
 if TARGET.exists():
-    previous = PdfReader(str(TARGET))
-    if previous.pages:
-        # Preserve the original illustrated cover rather than replacing it
-        # with a plain text cover or reusing outdated narrative pages.
-        writer.add_page(previous.pages[0])
+    writer.append(io.BytesIO(localized_illustrated_cover(
+        TARGET, "AN ORIGINAL WORK OF FICTION")))
 
 if not writer.pages:
     fallback_style = style + """
