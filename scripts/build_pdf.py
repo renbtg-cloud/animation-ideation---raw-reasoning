@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """Build the PDF edition from the public README.md, never from older draft PDFs.
 
-Dependencies: markdown-it-py, linkify-it-py, weasyprint.
+Dependencies: markdown-it-py, weasyprint, pypdf.
+Preserves the first illustrated cover page from the repository PDF.
 """
 from __future__ import annotations
 
-import html
+import io
 from pathlib import Path
+
+from pypdf import PdfReader, PdfWriter
 
 from markdown_it import MarkdownIt
 from weasyprint import HTML
@@ -26,11 +29,6 @@ style = r"""
   margin: 20mm 19mm 22mm 19mm;
   @bottom-left { content: "RAW REASONING  /  FICTIONAL CONCEPT DOSSIER"; font: 8pt "DejaVu Sans", sans-serif; color: #77818e; }
   @bottom-right { content: counter(page); font: 8pt "DejaVu Sans", sans-serif; color: #77818e; }
-}
-@page:first {
-  background: #141e2b;
-  @bottom-left { content: none; }
-  @bottom-right { content: none; }
 }
 html { font-family: "DejaVu Sans", "Liberation Sans", sans-serif; font-size: 9.4pt; }
 body { margin: 0; color: #28313b; line-height: 1.49; }
@@ -77,10 +75,47 @@ cover = """
  <p class="identity">CREATIVE CONCEPT DOSSIER · WORK IN PROGRESS</p>
 </section>
 """
-doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
+# Render all current narrative text from Markdown, excluding the original cover.
+# The first page of the earlier illustrated edition is retained as an artwork
+# source, while all subsequent pages are regenerated from the canonical README.
+body_doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <title>RAW REASONING — Creative Concept Dossier</title>
-<style>{style}</style></head><body>{cover}<main>{body}</main></body></html>"""
-HTML(string=doc, base_url=ROOT.as_uri() + "/").write_pdf(TARGET)
+<style>{style}</style></head><body><main>{body}</main></body></html>"""
+body_pdf = HTML(string=body_doc, base_url=ROOT.as_uri() + "/").write_pdf()
+
+writer = PdfWriter()
+if TARGET.exists():
+    previous = PdfReader(str(TARGET))
+    if previous.pages:
+        # Preserve the original illustrated cover rather than replacing it
+        # with a plain text cover or reusing outdated narrative pages.
+        writer.add_page(previous.pages[0])
+
+if not writer.pages:
+    fallback_style = style + """
+@page:first { background: #141e2b; }
+"""
+    cover_doc = f"""<!doctype html><html><head><meta charset="utf-8"><style>{fallback_style}</style>
+</head><body>{cover}</body></html>"""
+    cover_pdf = HTML(string=cover_doc, base_url=ROOT.as_uri() + "/").write_pdf()
+    writer.append(io.BytesIO(cover_pdf))
+
+writer.append(io.BytesIO(body_pdf))
+writer.add_metadata({
+    "/Title": "RAW REASONING — Creative Concept Dossier",
+    "/Subject": "Original fictional animation concept; PDF synchronized to README.md",
+})
+output = io.BytesIO()
+writer.write(output)
+TARGET.write_bytes(output.getvalue())
+
 if not TARGET.exists() or TARGET.stat().st_size < 20000:
     raise RuntimeError("PDF generation failed or produced a suspiciously small file")
-print(f"Wrote {TARGET.name}: {TARGET.stat().st_size} bytes")
+
+# Validate that the generated edition contains the newest key story details.
+recheck = PdfReader(str(TARGET))
+all_text = "\\n".join(page.extract_text() or "" for page in recheck.pages[1:])
+for required in ("Winston", "Julia", "GPU datacenters", "Everybody Needs Somebody to Love"):
+    if required not in all_text:
+        raise RuntimeError(f"Generated PDF is missing required story text: {required}")
+print(f"Wrote {TARGET.name}: {TARGET.stat().st_size} bytes, {len(recheck.pages)} pages")
