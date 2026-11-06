@@ -1,0 +1,23 @@
+name: Probe EN-PT translation service
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/translation-probe.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install 'deep-translator>=1.11,<2'
+      - run: |
+          python - <<'PY'
+          from deep_translator import GoogleTranslator
+          translate=GoogleTranslator(source='en',target='pt').translate
+          for s in ["Winston and Julia are above-average but human-range intelligences.","He went to rescue an innocent stranger, not because he mistook her for Julia."]:
+              print(s,"=>",translate(s))
+          PY
