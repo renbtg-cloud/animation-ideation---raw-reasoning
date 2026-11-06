@@ -203,7 +203,25 @@ def translate_line(line: str) -> str:
         alt = normalize_markers(google(alt_body), alt_markers)
         result = re.sub(r"\s*QZXBOLDXZQ\s*", "**", alt)
         if result.count("**") != body.count("**"):
-            raise RuntimeError("Markdown bold markers corrupted in "+body[:80])
+            # Rebuild only this line from independently translated plain/strong
+            # spans. This trades a little local context for certain valid markup.
+            chunks = re.split(r"(\\*\\*.*?\\*\\*)", body)
+            recovered = []
+            for chunk in chunks:
+                if not chunk:
+                    continue
+                strong = chunk.startswith("**") and chunk.endswith("**")
+                content = chunk[2:-2] if strong else chunk
+                safe_text, safe_markers = replace_fixed_terms(content)
+                value = normalize_markers(google(safe_text), safe_markers)
+                # Any stray star markers in a plain span can be discarded.
+                if not strong:
+                    value = value.replace("**", "")
+                recovered.append("**" + value + "**" if strong else value)
+            result = "".join(recovered)
+            if result.count("**") != body.count("**"):
+                raise RuntimeError("Bold formatting could not be reconstructed in "+body[:80])
+            print("Rebuilt strong spans for:", body[:65], flush=True)
     return prefix + result
 
 def main() -> None:
