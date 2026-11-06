@@ -206,6 +206,14 @@ Camille's brother François works in applied mathematics and has ties to the aer
 
 **Dramatic contrast:** the executive's metaphorical war, a survivor of actual wartime brutality, and celebration of breakthrough intelligence in a company able to affect the physical world. The scene can raise a Huxleyan question about who chooses the ends served by powerful intelligence without establishing an answer or judging François in advance.
 
+### **DOING** — Daygorô: character design, apparent age, and the shared identity secret
+
+**Visual direction (concept stage).** Bruno Daygorô is **six years old**, but exceptionally tall for his age: a stranger could plausibly mistake him for a relatively short **twelve-year-old boy**. His appearance is conceived as **half Japanese and half of mixed African and Neapolitan ancestry**. His eyes should read unmistakably Japanese, while the shape of his nose may recall his African ancestry. The intention is an individual, believable face, never a checklist of ethnic stereotypes. Exact skin tone, hair texture, proportions, and facial design remain subjects for visual development, including future consented photographic references. His physical appearance must not erase the fact that **he is only six**.
+
+**The older-age identity document (narrative device).** A **falsified identity document stating an older age** is a shared secret and undertaking that binds Camille and her son. Daygorô's unusual height makes the deception believable to casual observers, while the contrast between his actual age and the age asserted on paper intensifies the gap between the childhood he deserves and the premature adulthood imposed by the journey. The forgery is a plot fact and a moral complication—not a practical method or set of instructions. Its origin, timing, use, and legal consequences remain to be developed.
+
+**Autobiographical and visual sources.** Daygorô is a fictional composite drawing on several children in the creator's family **and on the creator's own childhood**; he is not a literal portrait of any one child. Camille likewise draws aspects of her physical strength and combativeness from a real family inspiration, without making that person responsible for Camille's fictional actions. Family photographs may eventually inform *private* concept development, subject to consent and special care for children's privacy. Public-facing artwork can be derived from those references without publishing identifiable family photographs.
+
 ### **DOING** — Daygorô — a child living inside a story
 Camille's six-year-old son has a passionate identification with *Lone Wolf and Cub* and announces, **“I am Daygorô.”** The relationship between his imaginative identification and his family's very real physical and emotional behavior is more than a reference joke. His seriousness makes the comedy possible.
 
