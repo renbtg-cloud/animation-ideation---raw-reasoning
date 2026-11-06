@@ -247,7 +247,17 @@ Supporting figures include the university rector, other advanced neuron-based ro
 
 *The order below is a reader-friendly presentation of the material, **not** a locked editing timeline. In the intended film, chronological and thematic relationships can be revealed out of order.*
 
-### **DOING** — 1. Opening: Camille, Gérard and Daygorô — *Ratamahatta* (Sepultura)
+### **DOING** — 1. Opening: Anne Marie at the railway station — *Papéis e Papéis* (Príncipe Messias)
+
+**Opening sequence and new soundtrack decision (6 November 2026).** The film **opens with Anne Marie at a railway station**. The selected musical reference is now **“Papéis e Papéis” by Príncipe Messias**, replacing the earlier **“Natural Mystic” by Bob Marley** proposal for this sequence. As with all commercial soundtrack references, rights are not yet cleared.
+
+Anne Marie sells books and intellectually intricate mathematical handicrafts. One book is Gabriel García Márquez's *The Incredible and Sad Tale of Innocent Eréndira and Her Heartless Grandmother*. Her cherished Grothendieck volume is **not for sale**: she studies it intensely, moving rhythmically as she reads, with her dreadlocks following her motion. The scene's mathematical and perceptual imagery may expand into subjective, psychedelic animation before returning to the physical station; it must not be mistaken for literal supernatural events.
+
+**Lyrics as cinematic typography.** The song's words will appear **distributed across the screen**, integrated spatially into the image instead of confined to conventional bottom-of-screen subtitles. Every release-language version must **translate, typeset, and animate the words in the localized language**, preserving rhythm, readability, visual relationships, and the scene's imagery. This is part of the film's comprehensive localization requirement, not an optional subtitle treatment. Exact lyric excerpts, timing, typography, and rights clearance remain to be developed.
+
+The song's challenge to self-proclaimed wisdom offers an intentional counterpoint to Anne Marie's extraordinary intelligence and her outsider life. Do not insert a didactic explanation of that connection.
+
+### **DOING** — 1B. Camille, Gérard and Daygorô — *Ratamahatta* (Sepultura) — no longer the opening
 
 A furious Camille receives an insulting or exasperating WhatsApp exchange involving her university rector. She erupts, puts on music, and launches into Muay Thai and capoeira training. As *Ratamahatta* drives the editing, movement and impact are choreographed against its changing rhythmic patterns.
 
