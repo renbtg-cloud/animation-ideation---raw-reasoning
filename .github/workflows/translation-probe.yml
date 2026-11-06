@@ -13,11 +13,31 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python -m pip install 'deep-translator>=1.11,<2'
-      - run: |
+      - run: python -m pip install 'translatepy>=2,<3' 'translators>=6,<7'
+      - name: Test public translation endpoints and providers
+        run: |
           python - <<'PY'
-          from deep_translator import GoogleTranslator
-          translate=GoogleTranslator(source='en',target='pt').translate
-          for s in ["Winston and Julia are above-average but human-range intelligences.","He went to rescue an innocent stranger, not because he mistook her for Julia."]:
-              print(s,"=>",translate(s))
+          import requests
+          text="He went to rescue an innocent stranger, not because he mistook her for Julia."
+          url="https://translate.googleapis.com/translate_a/single"
+          try:
+              r=requests.get(url,params={"client":"gtx","sl":"en","tl":"pt","dt":"t","q":text},timeout=12)
+              print("googleapis",r.status_code,r.text[:180],flush=True)
+          except Exception as e: print("googleapis error",str(e)[:150],flush=True)
+          for base in ["https://api.mymemory.translated.net/get","https://lingva.ml/api/v1/en/pt/"+requests.utils.quote(text)]:
+              try:
+                  params={"q":text,"langpair":"en|pt"} if 'mymemory' in base else {}
+                  r=requests.get(base,params=params,timeout=12)
+                  print(base[:50],r.status_code,r.text[:220],flush=True)
+              except Exception as e: print(base[:50],str(e)[:120],flush=True)
+          try:
+              from translatepy import Translator
+              t=Translator()
+              result=t.translate(text,"Portuguese")
+              print("translatepy",str(result)[:200],flush=True)
+          except Exception as e: print("translatepy error",type(e).__name__,str(e)[:250],flush=True)
+          try:
+              import translators as ts
+              print("bing",str(ts.translate_text(text,translator="bing",from_language="en",to_language="pt"))[:200],flush=True)
+          except Exception as e: print("bing error",type(e).__name__,str(e)[:250],flush=True)
           PY
