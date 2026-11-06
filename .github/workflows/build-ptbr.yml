@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - .github/workflows/build-ptbr.yml
+      - scripts/translate_ptBR.py
+      - scripts/build_pdf_ptBR.py
   workflow_dispatch:
 
 permissions:
