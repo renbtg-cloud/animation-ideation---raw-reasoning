@@ -25,7 +25,7 @@ jobs:
       - name: Install translation and PDF dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install 'requests>=2.31,<3' 'markdown-it-py>=3,<5' 'weasyprint>=62,<70' 'pypdf>=5,<8'
+          python -m pip install 'requests>=2.31,<3' 'markdown-it-py>=3,<5' 'weasyprint>=62,<70' 'pypdf>=5,<8' 'pymupdf>=1.24,<2'
 
       - name: Translate complete manuscript with contextual corrections
         run: python -u scripts/translate_ptBR.py
@@ -46,6 +46,9 @@ jobs:
           assert len(translated) >= .62*len(original), "Partial translation"
           pdf = PdfReader("README-ptBR.pdf")
           assert len(pdf.pages) > 25, "PDF too short"
+          cover = ''.join(pdf.pages[0].extract_text().lower().split())
+          assert 'fictionalizedautobiography' not in cover, 'Old subtitle remains in cover text'
+          assert 'ficçãooriginal' in cover, 'Portuguese cover title missing'
           assert Path("README-ptBR.pdf").stat().st_size > 50000, "PDF missing"
           print(f"Validated {len(translated)} Markdown characters, {len(pdf.pages)} PDF pages")
           PY
