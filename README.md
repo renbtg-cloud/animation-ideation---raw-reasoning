@@ -1,5 +1,5 @@
 # RAW REASONING
-## **DOING** — An animated audiovisual opera — a fictionalized autobiography, a love story, and a worldview
+## **DOING** — An animated audiovisual opera — an original work of fiction, a love story, and a worldview
 
 **[View the illustrated PDF edition](README.pdf)**
 
@@ -7,8 +7,7 @@
 
 **Music policy (DOING):** An original composed score remains the leading intention, but specific original commercial recordings are being considered as scene cues, especially Elvis Presley’s *A Little Less Conversation*, Red Hot Chili Peppers’ *Blood Sugar Sex Magik*, Soundgarden’s *Rusty Cage*, the proposed protest alternatives, and Fight’s *Little Crazy*. **None is licensed.** Every final use requires appropriate composition/master clearances or original replacement.
 
-> **A fictionalized autobiography.** *“Forgive my mediocrity, Mr. Capote.”*  
-> A work of fiction rooted in personal experience, transformed rather than reproduced as testimony. Above all, **a declaration of love to Ana Patrícia**, the real-life inspiration for Anne Marie. Antonio draws on the author's own life. The real people and historical figures invoked here are not claims that every pictured event occurred.
+> **An original work of fiction.** Created from cultural references, lived experiences, and accounts told by others. Its characters, relationships, conflicts, and events are fictional constructions, not representations of identifiable private individuals.
 
 *The cover is a deliberately layered pitch illustration, intended for creative readers and prospective collaborators. It is **not a frame from the finished film**; its recurring references are not necessarily information that the film audience will see.*
 
@@ -16,7 +15,7 @@
 
 *RAW REASONING* is a proposed animated audiovisual work of approximately 100 minutes, conceived as a nonlinear opera made from narrative music videos, dramatic passages, interludes, recitative-like scenes, visual rhymes, and silence. It can shift from deliberately crude stick figures and profane family comedy to psychologically intimate performances and a single sequence of near-obsessive visual refinement.
 
-This dossier presents **the story and the creative challenges**—not a finished screenplay or a claim that production has begun. The characters, scenes, and musical juxtapositions are intentional; some connecting scenes and the final chronology remain under development. Personal experiences that are not part of the intended public story are deliberately omitted.
+This dossier presents **the story and the creative challenges**—not a finished screenplay or a claim that production has begun. The characters, scenes, and musical juxtapositions are intentional; some connecting scenes and the final chronology remain under development.
 
 ---
 
@@ -230,7 +229,7 @@ Camille's brother François works in applied mathematics and has ties to the aer
 
 **The older-age identity document (narrative device).** A **falsified identity document stating an older age** is a shared secret and undertaking that binds Camille and her son. Daygorô's unusual height makes the deception believable to casual observers, while the contrast between his actual age and the age asserted on paper intensifies the gap between the childhood he deserves and the premature adulthood imposed by the journey. The forgery is a plot fact and a moral complication—not a practical method or set of instructions. Its origin, timing, use, and legal consequences remain to be developed.
 
-**Autobiographical and visual sources.** Daygorô is a fictional composite drawing on several children in the creator's family **and on the creator's own childhood**; he is not a literal portrait of any one child. Camille likewise draws aspects of her physical strength and combativeness from a real family inspiration, without making that person responsible for Camille's fictional actions. Family photographs may eventually inform *private* concept development, subject to consent and special care for children's privacy. Public-facing artwork can be derived from those references without publishing identifiable family photographs.
+**Visual development.** Daygorô is an original fictional character. His distinctive appearance, childhood, training, and conflicting identities will be developed through character studies and concept artwork. Future photographic references, if used, will be handled with appropriate permissions and privacy protections; visual references are not assertions of a character's real-world identity.
 
 ### **DOING** — Daygorô — a child living inside a story
 Camille's six-year-old son has a passionate identification with *Lone Wolf and Cub* and announces, **“I am Daygorô.”** The relationship between his imaginative identification and his family's very real physical and emotional behavior is more than a reference joke. His seriousness makes the comedy possible.
