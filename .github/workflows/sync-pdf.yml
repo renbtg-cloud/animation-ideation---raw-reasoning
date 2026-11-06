@@ -1,0 +1,46 @@
+name: Keep illustrated PDF in sync with Markdown
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/build_pdf.py
+      - .github/workflows/sync-pdf.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out latest manuscript and original illustrated PDF
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PDF tools
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install "markdown-it-py>=3,<5" "weasyprint>=62,<70" "pypdf>=5,<8"
+
+      - name: Rebuild PDF with original cover intact
+        run: python scripts/build_pdf.py
+
+      - name: Commit and push refreshed PDF only if changed
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.pdf
+          if ! git diff --cached --quiet; then
+            git commit -m "Sync illustrated PDF to current story dossier"
+            git push
+          fi
