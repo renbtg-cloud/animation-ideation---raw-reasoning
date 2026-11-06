@@ -316,6 +316,20 @@ def main() -> None:
 
     # Apply linked-PDF naming even in translator-produced prose.
     document = document.replace("(README.pdf)", "(README-ptBR.pdf)")
+    # After machine coverage, apply reviewed literary/contextual lines from
+    # exact matching English paragraphs. Their meaning and punctuation survive
+    # any future re-run of this translation tool.
+    overrides_file = ROOT / "scripts" / "ptBR_editorial_overrides.json"
+    if overrides_file.exists():
+        translated_lines = document.splitlines()
+        items = json.loads(overrides_file.read_text("utf-8"))["overrides"]
+        for item in items:
+            source_line = item["source_line"]
+            matches = [j for j, value in enumerate(LINES) if value == source_line]
+            if len(matches) != 1:
+                raise RuntimeError("Editorial override source missing or ambiguous: " + source_line[:90])
+            translated_lines[matches[0]] = item["pt_line"]
+        document = "\n".join(translated_lines) + "\n"
     expected = sum(1 for s in LINES if re.match(r"^#{1,4} ", s))
     actual = sum(1 for s in document.splitlines() if re.match(r"^#{1,4} ", s))
     if expected != actual:
