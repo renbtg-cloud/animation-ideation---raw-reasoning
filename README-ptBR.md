@@ -59,6 +59,14 @@ Anne Marie volta ao trabalho com **“Próximo!”** e **“Resolvo seu problema
 
 **A balada punk.** Em outro ponto do mundo social de Anne Marie há uma **balada punk muito frequentada por turistas e gringos**. É uma casa punk, **não uma balada de reggae**. Um dos DJs também gosta genuinamente de reggae e às vezes o leva para o set. A interseção faz *Punky Reggae Party* virar atmosfera social vivida, além de referência musical: a identidade do lugar continua punk, enquanto o reggae entra pelo gosto de uma pessoa, não por um conceito forçado.
 
+**3h30 da manhã — saída da balada.** Anne Marie sai acompanhada por um grupo razoavelmente grande de amigos, homens e mulheres. Como mora perto, numa região meio degradada, acaba se separando deles: os amigos menos pobres pegam ônibus ou táxi, enquanto ela segue **sozinha, a pé**. Antonio sai pouco depois. Bebeu muito pouco e está lúcido.
+
+Anne Marie atravessa uma avenida urbana larga onde motoristas passam irresponsavelmente a **120–140 km/h**, apesar de estarem em área urbana. O barulho dos carros é quase ensurdecedor. Antonio a observa com uma mistura de curiosidade e temor — algo como **“ela é foda; vai acabar sendo atropelada.”** Ao mesmo tempo, **três homens já a seguem discretamente**.
+
+O desenho de som conduz a descoberta do perigo. Um carro passa e engole a trilha; quando o rugido cessa por alguns segundos, ouve-se o murmúrio baixo dos três. Outro carro, outra parede de ruído; depois o murmúrio reaparece. Eles assobiam de longe e dizem algumas merdas. Anne Marie começa a perceber que está sendo seguida. O batimento cardíaco acelera e a visão fica um pouco turva.
+
+Antonio percebe também. Sem fala heroica, põe no chão a mochila/maleta de escritório — com o laptop ou outro item importante de trabalho — e começa a atravessar a avenida em direção a ela. Um close muito rápido mostra o **motivo/tatuagem quixotesca em seu braço**. **As notas param aqui por enquanto; o que acontece depois ainda será desenvolvido.**
+
 ### **EM ELABORAÇÃO** — Antonio Battaglia e Anne Marie: desejo, hereditariedade, medo e ruptura posterior
 
 **Identidade.** O nome escolhido por Antonio é **Antonio Battaglia**, de uma família com **raízes italianas da Calábria**. Seu sobrenome significa “batalha”; a família está literalmente dilacerada por conflitos violentos. **Camille e Gérard são filhos de Antonio e Anne Marie; Bruno Daygorô é filho de Camille.** A ruptura familiar dos irmãos é **abertamente violenta**, com tentativa de homicídio: não é apenas divergência ideológica. Qual pessoa tenta qual ato e em que ordem ainda precisa ser desenvolvido. A ligação de Gérard a **Killer Tech**, um desenvolvedor de IA e capacidades de armas sem precedentes, é um contexto essencial para o conflito, mas sua ideologia e culpabilidade precisa não devem ser fabricadas. Anne Marie fica arrasada; Antonio tenta mediar.
