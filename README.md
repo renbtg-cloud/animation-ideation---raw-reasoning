@@ -1,9 +1,11 @@
-# RAW REASONING
+# RAW REASONING: spontaneous scratches
 ## **DOING** — An animated audiovisual opera — an original work of fiction, a love story, and a worldview
 
 **[View the PDF dossier](README.pdf)**
 
 **Creative concept dossier | Working material | English-language pitch edition | Expanded narrative development**
+
+**Title note.** *spontaneous scratches* is a quiet homage to manga and also describes the work's deliberately fragmentary, sketch-like method of discovery. Manga references recur inside the story itself; the subtitle does not need an explanatory speech on screen.
 
 **Music policy (DOING):** An original composed score remains the leading intention, but specific original commercial recordings are being considered as scene cues, especially Elvis Presley’s *A Little Less Conversation*, Red Hot Chili Peppers’ *Blood Sugar Sex Magik*, Soundgarden’s *Rusty Cage*, the proposed protest alternatives, and Fight’s *Little Crazy*. **None is licensed.** Every final use requires appropriate composition/master clearances or original replacement.
 
@@ -13,7 +15,7 @@
 
 *Cover concept: Anne Marie comforting Antonio; Camille and Daygorô; the two unnamed robotic lovers in contemporary rebel streetwear; and a heavily used Grothendieck book. The badges, Italian and Jamaican flags, and repeated mathematical references are intentional clues about lineage, human creators, and chosen identity. Mathematical lettering and the edition of the book are illustrative concept art, not a verified facsimile.*
 
-*RAW REASONING* is a proposed animated audiovisual work of approximately 100 minutes, conceived as a nonlinear opera made from narrative music videos, dramatic passages, interludes, recitative-like scenes, visual rhymes, and silence. It can shift from deliberately crude stick figures and profane family comedy to psychologically intimate performances and a single sequence of near-obsessive visual refinement.
+*RAW REASONING: spontaneous scratches* is a proposed animated audiovisual work of approximately 100 minutes, conceived as a nonlinear opera made from narrative music videos, dramatic passages, interludes, recitative-like scenes, visual rhymes, and silence. It can shift from deliberately crude stick figures and profane family comedy to psychologically intimate performances and a single sequence of near-obsessive visual refinement.
 
 This dossier presents **the story and the creative challenges**—not a finished screenplay or a claim that production has begun. The characters, scenes, and musical juxtapositions are intentional; some connecting scenes and the final chronology remain under development.
 
@@ -33,23 +35,31 @@ She is a **Rastafarian with a deeply lived Israelite/biblical religious self-und
 
 **Personal temperament.** Anne Marie speaks many languages, often comfortably accommodating visitors from very different countries in their own languages. When intellectually excited, she speaks extraordinarily fast, but can **deliberately slow down** and adjust to her listener. Her capabilities are demonstrated through interaction, not narrated as a résumé.
 
-### **DOING** — The actual opening: station, two songs, revelation, and an ordinary workday
+### **DOING** — The actual opening: station, two songs, self-forgiveness, and an ordinary workday
 
 **This is the film's first scene.** The Camille–Gérard–Daygorô *Ratamahatta* material remains part of the work **but no longer opens it**.
 
-At a busy railway station, Anne Marie sells books and intricate mathematical handicrafts; among the books for sale is Gabriel García Márquez's *The Incredible and Sad Tale of Innocent Eréndira and Her Heartless Grandmother*. Her own precious Grothendieck book is **not for sale**. She is not merely reading it: her relationship to the text joins mathematics, mourning, and **religious ritual**.
+At a busy railway station, Anne Marie sells books and intricate mathematical handicrafts; among the books for sale is Gabriel García Márquez's *The Incredible and Sad Tale of Innocent Eréndira and Her Heartless Grandmother*. Her own precious Grothendieck book is **not for sale**. She is not merely reading it: her relationship to the text joins mathematics, mourning, filial memory, and **religious ritual**. In visual and thematic terms the volume can function for her almost like a **private Torah-like text**—mathematical, paternal, repeatedly revisited, argued with, and capable of yielding new meaning as the reader changes—without equating mathematics with Judaism and without any character naming or explaining that analogy on screen.
 
 **Musical movement I — Príncipe Messias.** The scene starts in the sorrowful register of **“Papéis e Papéis”** by **Príncipe Messias**. Its thematic tensions include self-proclaimed sages, poets of the street, books and thought, and the struggle to oppose terror with courage and love. At the passage referring to poets of the street crying over the book of thoughts, Anne Marie moves **slowly, sorrowfully and ritually**, in an oscillation recalling prayer and the bodily expressiveness of **Bob Marley**, but initially weighed down by grief. She imagines her father **Alexander Grothendieck** dancing slowly and sadly to the music, and grieves intensely for his suffering. **His ashes are part of the scene's memorial significance**, but *where they are kept* has not been specified and must not be invented. The movement is a sincere spiritual act and an intimate lament, not decorative choreography.
 
-**Musical movement II — the discovery.** In a paragraph or page of Grothendieck she discovers **a reason**: the idea has mathematical force and perhaps existential force; the exact proposition and meaning remain open. **“Papéis e Papéis” gradually fuses with “Natural Mystic” by Bob Marley & The Wailers**. These are now **two sequential/interwoven cues**, not rival candidate songs. As understanding and exhilaration emerge, Anne Marie begins dancing **exactly like Bob Marley**—a deliberately recognizable performance reference, not merely a similar generic reggae sway. The sadness is not erased; her bodily expression changes from lamentation to the exhilaration of insight.
+**Musical movement II — the reason, the light, and self-forgiveness.** In a paragraph or page of Grothendieck she discovers **a reason**: the idea has mathematical force and also opens a path by which **Anne Marie can finally forgive herself**. The exact proposition and the full object of her guilt remain deliberately open. A physically plausible change of light on the page or her face may coincide with the realization—“seeing the light” without requiring a literal supernatural event. The important transformation is internal: the same text that carried grief and accusation now permits another interpretation of her own life.
+
+At that point **“Papéis e Papéis” gradually gives way to “Punky Reggae Party” by Bob Marley & The Wailers**. The tonal change is deliberate. The release is not solemn mystical ascension but a return to pleasure, people, irreverence, and being alive. Anne Marie begins dancing **exactly like Bob Marley**—a deliberately recognizable performance reference, not merely a generic reggae sway. Her sadness is not erased; the body that had been bent into mourning becomes light enough to dance.
 
 **Lyrics and complete localization.** Song words are integrated as **spatial typography throughout the frame**, rather than only conventional bottom subtitles. Every language version should translate/localize the displayed text and animate its placement in relation to image and rhythm. Use only lyrics cleared for the production; these notes describe dramatic placements without reproducing copyrighted passages at length. Exact soundtrack overlap, edits, and audiovisual synchronization remain to be established from the recordings.
 
-**“Próximo!”** After the intense private experience Anne Marie calmly calls, **“Próximo!”** The camera reveals a reasonably long queue of people with laptops, notebooks, schoolbooks and exercises. **“Resolvo seu problema em cinco minutos.”** This is how she makes money: mathematics, schoolwork, technical problems and intellectually varied visitors. She adjusts languages and speed to each client. The reveal is not a gag or an explanatory speech about her genius.
+**The queue becomes the first “Punky Reggae Party.”** After the private breakthrough the camera reveals a reasonably long queue of people with laptops, notebooks, schoolbooks and exercises waiting to learn something or have a problem solved. Among them is a **boy with a late-1970s / 1979 punk look**. The juxtaposition is not decorative: punk, reggae, mathematics, religion, outsiders and an ordinary railway station occupy the same social space without a lecture explaining why.
 
-**Late afternoon and departure plan.** Toward late afternoon **a boy arrives with a drink** (the exact drink and the boy's relationship to her remain undefined). Anne Marie ordinarily **bathes in station bathrooms** to conserve money, saving toward a move to **São Paulo**. The bathing sequence has **no nudity** and no erotic presentation. Her material precarity and personal discipline coexist with her extraordinary abilities.
+Anne Marie returns to work with **“Próximo!”** and **“Resolvo seu problema em cinco minutos.”** This is how she makes money: mathematics, schoolwork, technical problems and intellectually varied visitors. She adjusts languages and speed to each client. The reveal is not a gag or an explanatory speech about her genius.
 
-**Treatment and a character's choice.** Anne Marie takes **quetiapine, lithium and valproic acid**. On the day of the drink, she chooses **not to take her medication**, believing this will reduce a possible interaction. The choice is a **character fact**, not a clinical recommendation, and does not automatically explain her genius, religion, speed of speech, personality or creativity. The film does not diagnose her through a montage of traits or tell viewers what to conclude. **Mental health is a recurring dramatic subject across both the feature film and other episodes**, approached through particular characters and actions rather than a lecture.
+**The drink.** Later, the punk boy offers Anne Marie **a drink of alcohol**; the exact beverage remains undefined. He immediately has second thoughts and starts to pull it back, saying the localized equivalent of **“Sorry, rasta.”** Anne Marie simply takes it back from his hand. The beat remains small, physical and funny. He is trying to be respectful; she does not let him decide what a Rastafarian woman must choose for herself. No theological explanation follows.
+
+**Late afternoon and departure plan.** Anne Marie ordinarily **bathes in station bathrooms** to conserve money, saving toward a move to **São Paulo**. The bathing sequence has **no nudity** and no erotic presentation. Her material precarity and personal discipline coexist with her extraordinary abilities.
+
+**Treatment and a character's choice.** Anne Marie takes **quetiapine, lithium and valproic acid**. On the day of the alcoholic drink, she chooses **not to take her medication**, believing this will reduce a possible interaction. The choice is a **character fact**, not a clinical recommendation, and does not automatically explain her genius, religion, speed of speech, personality or creativity. The film does not diagnose her through a montage of traits or tell viewers what to conclude. **Mental health is a recurring dramatic subject across both the feature film and other episodes**, approached through particular characters and actions rather than a lecture.
+
+**The punk club.** Elsewhere in Anne Marie's social world is a **punk nightclub frequented heavily by tourists and foreign visitors**. It is a punk venue, **not a reggae club**. One of its DJs also genuinely loves reggae and sometimes brings reggae into the set. The overlap lets the phrase *Punky Reggae Party* become a lived social atmosphere as well as a musical reference: punk remains the club's identity, while reggae enters through one person's taste rather than through a forced concept.
 
 ### **DOING** — Antonio Battaglia and Anne Marie: desire, heredity, fear, and later rupture
 
@@ -359,15 +369,17 @@ Supporting figures include the university rector, other advanced neuron-based ro
 
 *The order below is a reader-friendly presentation of the material, **not** a locked editing timeline. In the intended film, chronological and thematic relationships can be revealed out of order.*
 
-### **DOING** — 1. Opening: Anne Marie at the railway station — *Papéis e Papéis* into *Natural Mystic*
+### **DOING** — 1. Opening: Anne Marie at the railway station — *Papéis e Papéis* into *Punky Reggae Party*
 
-**Opening sequence and new soundtrack decision (6 November 2026).** The film **opens with Anne Marie at a railway station**. The selected musical reference is now **“Papéis e Papéis” by Príncipe Messias**, which **then blends gradually into “Natural Mystic” by Bob Marley**, triggered by Anne Marie's discovery in Grothendieck. Neither cue replaces the other. As with all commercial soundtrack references, rights are not yet cleared.
+**Opening sequence and soundtrack decision (7 November 2026).** The film **opens with Anne Marie at a railway station**. The selected musical movement is **“Papéis e Papéis” by Príncipe Messias**, which **gives way gradually to “Punky Reggae Party” by Bob Marley & The Wailers** when Anne Marie's discovery in Grothendieck lets her **forgive herself**. A natural change of light may coincide with the realization; no literal supernatural event is required. The detailed opening decisions above govern the scene.
 
-Anne Marie sells books and intellectually intricate mathematical handicrafts. One book is Gabriel García Márquez's *The Incredible and Sad Tale of Innocent Eréndira and Her Heartless Grandmother*. Her cherished Grothendieck volume is **not for sale**: she studies it intensely, moving rhythmically as she reads, with her dreadlocks following her motion. The scene's mathematical and perceptual imagery may expand into subjective, psychedelic animation before returning to the physical station; it must not be mistaken for literal supernatural events.
+Anne Marie's cherished Grothendieck volume is **not for sale**. Its role combines mathematics, father, grief and a private Torah-like mode of rereading and argument, but the film does not explain that analogy. Her release is deliberately joyful rather than solemn: she dances exactly like Bob Marley and returns immediately to the human world around her.
 
-**Lyrics as cinematic typography.** The song's words will appear **distributed across the screen**, integrated spatially into the image instead of confined to conventional bottom-of-screen subtitles. Every release-language version must **translate, typeset, and animate the words in the localized language**, preserving rhythm, readability, visual relationships, and the scene's imagery. This is part of the film's comprehensive localization requirement, not an optional subtitle treatment. Exact lyric excerpts, timing, typography, and rights clearance remain to be developed.
+The queue includes a **1979-styled punk boy**. He later offers her alcohol, tries to take it back with **“Sorry, rasta,”** and Anne Marie takes it back from his hand. The social joke grows outward elsewhere into a **punk nightclub popular with tourists and foreign visitors**, where one DJ also loves reggae and sometimes folds it into the set. The club remains punk; the reggae crossover comes from a person.
 
-The song's challenge to self-proclaimed wisdom offers an intentional counterpoint to Anne Marie's extraordinary intelligence and her outsider life. Do not insert a didactic explanation of that connection.
+**Lyrics as cinematic typography.** Song words may appear **distributed across the screen**, integrated spatially into the image instead of confined to conventional bottom-of-screen subtitles. Every release-language version must translate, typeset and animate cleared text in the localized language. Exact excerpts, timing, typography, edits and rights clearance remain to be developed.
+
+The sequence should not explain its own symbolism. The audience can discover the connections among Grothendieck, religious study, self-forgiveness, punk, reggae and Anne Marie's return to ordinary work.
 
 ### **DOING** — 1B. Camille, Gérard and Daygorô — *Ratamahatta* (Sepultura) — no longer the opening
 
@@ -613,4 +625,4 @@ It demonstrates **a proposed narrative, creative literacy, willingness to collab
 
 ---
 
-*RAW REASONING — concept presentation. Work in progress. Story structure, Winston and Julia as the currently chosen names of the AI lovers, third-party rights clearances, and production schedule remain open.*
+*RAW REASONING: spontaneous scratches — concept presentation. Work in progress. Story structure, Winston and Julia as the currently chosen names of the AI lovers, third-party rights clearances, and production schedule remain open.*
