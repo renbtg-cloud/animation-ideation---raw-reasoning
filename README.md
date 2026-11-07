@@ -61,6 +61,14 @@ Anne Marie returns to work with **“Próximo!”** and **“Resolvo seu problem
 
 **The punk club.** Elsewhere in Anne Marie's social world is a **punk nightclub frequented heavily by tourists and foreign visitors**. It is a punk venue, **not a reggae club**. One of its DJs also genuinely loves reggae and sometimes brings reggae into the set. The overlap lets the phrase *Punky Reggae Party* become a lived social atmosphere as well as a musical reference: punk remains the club's identity, while reggae enters through one person's taste rather than through a forced concept.
 
+**3:30 a.m. — leaving the club.** Anne Marie exits with a fairly large mixed group of male and female friends. Because she lives nearby, in a somewhat run-down area, she eventually separates from them: her less-poor friends take buses or taxis while she continues **alone on foot**. Antonio leaves shortly after her. He drank very little and is lucid.
+
+Anne Marie crosses a broad urban avenue where drivers irresponsibly reach **120–140 km/h** despite the city setting. The traffic is almost deafening. Antonio watches her with a mixture of curiosity and fear—roughly, **“she's incredible; she's going to get herself run over.”** At the same time, **three men are already following her discreetly**.
+
+The sound design carries the discovery of danger. A car tears past and overwhelms the soundtrack; when the roar briefly disappears, the low murmur among the three men becomes audible. Another car, another wall of noise; then the murmuring again. They whistle from a distance and say crude things. Anne Marie begins to realize she is being followed. Her heartbeat accelerates and her vision becomes slightly blurred.
+
+Antonio notices. Without a heroic speech, he puts down his office backpack/briefcase—containing his laptop or another important work item—and starts crossing the avenue toward her. A very brief close-up catches the **quixotic motif/tattoo on his arm**. **The scene stops here in the current notes; what happens next remains to be developed.**
+
 ### **DOING** — Antonio Battaglia and Anne Marie: desire, heredity, fear, and later rupture
 
 **Identity.** Antonio's chosen name is **Antonio Battaglia**, from a family with **Calabrian Italian roots**. His surname means “battle”; the family is literally torn by violent conflict. **Camille and Gérard are the children of Antonio and Anne Marie; Bruno Daygorô is Camille's son.** The siblings' family rupture is **openly violent**, with attempted killing: it is not merely ideological disagreement. Which person attempts which act and in what order remain to be developed. Gérard's connection to **Killer Tech**, a developer of unprecedented AI and weapons capabilities, is essential context for the conflict, but his ideology and precise culpability must not be fabricated. Anne Marie is devastated; Antonio tries to mediate.
