@@ -68,12 +68,16 @@ Anne Marie enters the club already socially at ease. A DJ recognizes her and at 
 **The DJ's closing homage.** Near closing time, while Anne Marie is still talking with a fairly large mixed group of friends, the reggae-loving DJ plays something chosen to evoke or address **the essence of Rastafari** and begins honoring the night's people who acted according to what they claimed to believe. The speech includes beats along these lines, with exact final wording still open:
 
 - **“To the young lady who taught manners to the drooling drunk old fart who grabbed her…”** The exact body-part wording remains intentionally unspecified in these notes.
-- To a group of **very tall, pale-skinned German ANTIFA rebels** planning what the DJ jokingly calls the **“good silent revolution”**: **“you are the little axe!”** Keep **little axe**, not *small axe*.
+- To a group of **very tall, pink-skinned German ANTIFA rebels** planning what the DJ jokingly calls the **“good silent revolution”**: **“you are the little axe!”** Keep **little axe**, not *small axe*.
 - **“To the office guy who tried to stop a fight and got some beating: your Quixote tattoo rocks!”**
+
+The Germans are **revolutionaries in their own way**. The DJ's use of **silent revolution** and **little axe** is a Rastafari/Marley-inflected act of inclusion: he brings them into the night's circle of acceptance through a language they did not arrive owning. It is not an additional political thesis that needs explanation.
 
 Antonio is **also very tall**, making the eventual collective label visually legible. He does **not hear or see this tribute to himself**: by then he is already outside the soundproof door, paying his bill and collecting his office backpack/briefcase with the laptop or other important work item.
 
 The DJ then cools the room down for closing: **“So everybody cool down, we're about to close, and let's pay homage to the ones who walk like they talk, no matter skin color, age, religion or whatever. GENTLE GIANTS, enjoy and go with Jah.”** **“Walk like they talk”** is a conscious variation on the Bob Marley line referenced in Red Hot Chili Peppers' *Give It Away*—the underlying idea is conduct matching words, not a quotation exercise. **“Gentle Giants”** links Antonio and the tall German rebels without making height itself a moral virtue.
+
+The farewell continues in the DJ's affectionate, irreverent register: **“Put off your joints, eat industrial quantities of junky food and on the streets act like you're worried about urban violence — please take care, people, sometimes those who join the forces are the ones who burn crosses.”** The final turn is a conscious reference to **Rage Against the Machine's *Killing in the Name***. The joke about joints and junk food gives way to a real warning; the reference folds RATM into the same closing collage of Rastafari, Marley, punk and the club's mixed crowd.
 
 **3:30 a.m. — leaving the club.** Anne Marie exits with a fairly large mixed group of male and female friends. Because she lives nearby, in a somewhat run-down area, she eventually separates from them: her less-poor friends take buses or taxis while she continues **alone on foot**. Antonio leaves shortly after her. He drank very little and is lucid.
 
