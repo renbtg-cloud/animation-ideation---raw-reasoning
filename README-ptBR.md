@@ -81,7 +81,15 @@ Anne Marie atravessa uma avenida urbana larga onde motoristas passam irresponsav
 
 O desenho de som conduz a descoberta do perigo. Um carro passa e engole a trilha; quando o rugido cessa por alguns segundos, ouve-se o murmúrio baixo dos três. Outro carro, outra parede de ruído; depois o murmúrio reaparece. Eles assobiam de longe e dizem algumas merdas. Anne Marie começa a perceber que está sendo seguida. O batimento cardíaco acelera e a visão fica um pouco turva.
 
-Antonio percebe também. Sem fala heroica, põe no chão a mochila/maleta de escritório — com o laptop ou outro item importante de trabalho — e começa a atravessar a avenida em direção a ela. Um close muito rápido mostra o **motivo/tatuagem quixotesca em seu braço**. **As notas param aqui por enquanto; o que acontece depois ainda será desenvolvido.**
+Antonio percebe também. Sem fala heroica, põe no chão a mochila/maleta de escritório — com o laptop ou outro item importante de trabalho — e começa a atravessar a avenida em direção a ela. Um close muito rápido mostra o **motivo/tatuagem quixotesca em seu braço**.
+
+**O que os três realmente procuram.** O assédio sexual não é a motivação mais profunda. Eles procuram sobretudo **violência, dominação e humilhação**. A intervenção de Antonio lhes oferece um novo alvo e, num sentido sombrio, aquilo que realmente estavam procurando. A atenção muda para ele. Um deles olha a tatuagem de Quixote e debocha, aproximadamente: **“Look at this mad Catholic shit on his arm — guy in armor, windmills. Let's rip it off.”** A fala é deliberadamente ignorante: eles interpretam Cervantes e a tatuagem de forma errada enquanto procuram uma desculpa para machucá-lo.
+
+Antes que a violência escale ainda mais, ouvem-se **sirenes de ambulância e polícia** nas proximidades. Os três fogem. Antonio não os derrota; o que importa é que já havia escolhido se colocar entre eles e Anne Marie antes de as sirenes aparecerem.
+
+**A cicatriz atravessando Quixote.** O ataque deixa uma **cicatriz grande atravessando a tatuagem**, mas sem destruir o desenho nem impedir muito sua leitura. Mais tarde Antonio considera fazer tratamento para eliminar ou reduzir a cicatriz. Anne Marie o convence a deixá-la como está: para ela, a cicatriz integra a história que une os dois, um registro corporal do momento em que ele decidiu protegê-la. A cicatriz não substitui o significado da tatuagem; acrescenta outra camada.
+
+**O símbolo não é condição para o amor.** Muito mais tarde, quando Anne Marie finalmente confessa/revela que **era a jovem daquela noite na balada** — a cronologia exata dessa confissão ainda precisa ser posicionada — Antonio brinca: **“So I can remove the tattoo?”** Anne Marie responde: **“You can rip off an arm, won't stop loving you.”** A troca liberta deliberadamente o símbolo de qualquer obrigação: ela valoriza a cicatriz e a tatuagem, mas seu amor não depende de Antonio preservar nenhuma das duas.
 
 ### **EM ELABORAÇÃO** — Antonio Battaglia e Anne Marie: desejo, hereditariedade, medo e ruptura posterior
 
