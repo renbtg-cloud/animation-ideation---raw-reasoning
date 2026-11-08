@@ -68,12 +68,16 @@ Anne Marie entra na balada já muito à vontade socialmente. Um DJ a reconhece e
 **A homenagem final do DJ.** Perto do fechamento, enquanto Anne Marie ainda conversa com um grupo razoavelmente grande de amigos e amigas, o DJ que gosta de reggae toca alguma coisa escolhida para evocar ou falar da **essência Rastafari** e começa a homenagear os devotos da noite que agiram de acordo com aquilo em que diziam acreditar. A fala inclui batidas como estas, com a redação final ainda aberta:
 
 - **“To the young lady who taught manners to the drooling drunk old fart who grabbed her…”** O ponto exato do corpo permanece deliberadamente indefinido nestas notas.
-- Para um grupo de **alemães ANTIFA muito altos e de pele clara**, planejando o que o DJ chama de brincadeira de **“good silent revolution”**: **“you are the little axe!”** Manter **little axe**, não *small axe*.
+- Para um grupo de **alemães ANTIFA muito altos e de pele rosada**, planejando o que o DJ chama de brincadeira de **“good silent revolution”**: **“you are the little axe!”** Manter **little axe**, não *small axe*.
 - **“To the office guy who tried to stop a fight and got some beating: your Quixote tattoo rocks!”**
+
+Os alemães são **revolucionários ao modo deles**. O uso de **silent revolution** e **little axe** pelo DJ é um gesto de inclusão em linguagem rastafári/Marley: ele os traz para dentro do círculo de aceitação daquela noite por meio de uma linguagem que não era originalmente deles. Não é uma tese política adicional que precise de explicação.
 
 Antonio **também é muito alto**, o que torna visualmente legível o rótulo coletivo que vem depois. Ele **não ouve nem vê a homenagem a si próprio**: a essa altura já está do lado de fora da porta corta-som, pagando a conta e pegando a mochila/maleta de escritório com o notebook ou outro item importante de trabalho.
 
 O DJ então acalma a casa para o fechamento: **“So everybody cool down, we're about to close, and let's pay homage to the ones who walk like they talk, no matter skin color, age, religion or whatever. GENTLE GIANTS, enjoy and go with Jah.”** **“Walk like they talk”** é uma variação consciente da frase sobre Bob Marley referenciada em *Give It Away*, dos Red Hot Chili Peppers — a ideia é comportamento correspondendo às palavras, não exercício de citação. **“Gentle Giants”** conecta Antonio e os alemães altos sem transformar altura em virtude moral.
+
+A despedida continua no registro afetuoso e irreverente do DJ: **“Put off your joints, eat industrial quantities of junky food and on the streets act like you're worried about urban violence — please take care, people, sometimes those who join the forces are the ones who burn crosses.”** A virada final é uma referência consciente a ** *Killing in the Name*, do Rage Against the Machine**. A brincadeira com os baseados e a junk food desemboca num aviso real; a referência incorpora RATM à mesma colagem final de rastafári, Marley, punk e a multidão misturada da casa.
 
 **3h30 da manhã — saída da balada.** Anne Marie sai acompanhada por um grupo razoavelmente grande de amigos, homens e mulheres. Como mora perto, numa região meio degradada, acaba se separando deles: os amigos menos pobres pegam ônibus ou táxi, enquanto ela segue **sozinha, a pé**. Antonio sai pouco depois. Bebeu muito pouco e está lúcido.
 
