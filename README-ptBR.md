@@ -5,6 +5,8 @@
 
 **Dossiê de concepção criativa | Material de trabalho | Edição de apresentação em português brasileiro | Desenvolvimento narrativo ampliado**
 
+**Nota sobre o título.** *spontaneous scratches* é uma homenagem discreta ao mangá e também descreve o método deliberadamente fragmentário, de rabiscos e descobertas, da obra. Referências a mangás reaparecem dentro da própria história; o subtítulo não precisa de discurso explicativo na tela.
+
 **Política musical (EM ELABORAÇÃO):** A intenção principal continua sendo uma trilha composta originalmente, mas gravações comerciais específicas estão sendo consideradas como referências para cenas, especialmente *A Little Less Conversation*, de Elvis Presley; *Blood Sugar Sex Magik*, dos Red Hot Chili Peppers; *Rusty Cage*, do Soundgarden; as alternativas propostas para a manifestação; e *Little Crazy*, do Fight. **Nenhuma dessas gravações está licenciada.** A utilização definitiva exige as autorizações cabíveis sobre composição e gravação original, ou sua substituição por música original.
 
 > **Uma obra de ficção original.** Criada a partir de referências culturais, experiências vividas e relatos de outras pessoas. Seus personagens, relações, conflitos e acontecimentos são construções ficcionais, não representações de pessoas reais identificáveis.
@@ -13,7 +15,7 @@
 
 *Conceito da capa: Anne Marie amparando Antonio; Camille e Daygorô; Winston e Julia, os dois amantes robóticos, em roupas contemporâneas de rebeldia urbana; e um volume bastante manuseado de Grothendieck. Os emblemas, as bandeiras da Itália e da Jamaica e as referências matemáticas recorrentes são pistas intencionais de ancestralidade, criadores humanos e identidade escolhida. A tipografia matemática e a edição retratada do livro pertencem à ilustração conceitual, não a um fac-símile verificado.*
 
-*RAW REASONING* é um projeto de obra audiovisual animada de aproximadamente 100 minutos, concebido como uma ópera não linear composta de videoclipes narrativos, passagens dramáticas, interlúdios, cenas próximas do recitativo, rimas visuais e silêncio. A obra pode passar de figuras de palitos deliberadamente rudimentares e comédia familiar desbocada a interpretações de intensa intimidade psicológica e a uma única sequência de refinamento visual quase obsessivo.
+*RAW REASONING: spontaneous scratches* é um projeto de obra audiovisual animada de aproximadamente 100 minutos, concebido como uma ópera não linear composta de videoclipes narrativos, passagens dramáticas, interlúdios, cenas próximas do recitativo, rimas visuais e silêncio. A obra pode passar de figuras de palitos deliberadamente rudimentares e comédia familiar desbocada a interpretações de intensa intimidade psicológica e a uma única sequência de refinamento visual quase obsessivo.
 
 Este dossiê apresenta **a história e os desafios criativos** — não um roteiro finalizado ou uma afirmação de que a produção já começou. Os personagens, cenas e justaposições musicais são intencionais; algumas cenas de ligação e a cronologia final permanecem em desenvolvimento.
 
@@ -58,6 +60,20 @@ Anne Marie volta ao trabalho com **“Próximo!”** e **“Resolvo seu problema
 **Tratamento e uma decisão da personagem.** Anne Marie toma **quetiapina, lítio e ácido valproico**. No dia do goró, decide **não tomar sua medicação**, acreditando que assim reduzirá uma possível interação. A escolha é **um fato da personagem**, não recomendação clínica, e não explica automaticamente sua genialidade, religião, velocidade da fala, personalidade ou criatividade. O filme não a diagnostica por meio de uma montagem de traços nem diz ao espectador o que concluir. **A saúde mental é um tema dramático recorrente, tanto no longa quanto nos outros episódios**, tratado por meio de pessoas e ações particulares, não de uma palestra.
 
 **A balada punk.** Em outro ponto do mundo social de Anne Marie há uma **balada punk muito frequentada por turistas e gringos**. É uma casa punk, **não uma balada de reggae**. Um dos DJs também gosta genuinamente de reggae e às vezes o leva para o set. A interseção faz *Punky Reggae Party* virar atmosfera social vivida, além de referência musical: a identidade do lugar continua punk, enquanto o reggae entra pelo gosto de uma pessoa, não por um conceito forçado.
+
+**Chegada à balada — o livro fica para trás.** A casa **não guarda livros nem material de leitura na entrada**. Anne Marie é avisada de que precisa levar o volume de Grothendieck consigo para dentro ou deixá-lo para trás. Ela decide soltá-lo. A despedida é íntima, quase só para si — aproximadamente **“Tchau, papai. Eu também te amo.”** O livro acaba no lixo. Isso importa porque o mesmo volume funcionava para ela como matemática, pai, luto e escritura particular; abandoná-lo não é desprezo pelo livro, mas um gesto difícil de libertação depois do autoperdão.
+
+Anne Marie entra na balada já muito à vontade socialmente. Um DJ a reconhece e, em algum momento, manda **ska** para ela com uma dedicatória curta como **“Pra você, Anne!”** A passagem pela pista deve ser curta, sem virar uma longa sequência de balada. Antonio entra depois. Ele já viu o volume de Grothendieck descartado e reconhece que se trata de matemática de altíssimo nível, mas não faz ideia do significado pessoal daquele livro para Anne Marie, e **ela não sabe que ele o viu**. Lá dentro, ele fica abismado com a quantidade de gente que conhece e gosta dela. A popularidade de Anne Marie o esmaga um pouco: muito alto, mas com barriguinha de nerd, óculos e roupa de escritório, ele de repente se percebe dolorosamente comum ao lado dela.
+
+**A homenagem final do DJ.** Perto do fechamento, enquanto Anne Marie ainda conversa com um grupo razoavelmente grande de amigos e amigas, o DJ que gosta de reggae toca alguma coisa escolhida para evocar ou falar da **essência Rastafari** e começa a homenagear os devotos da noite que agiram de acordo com aquilo em que diziam acreditar. A fala inclui batidas como estas, com a redação final ainda aberta:
+
+- **“To the young lady who taught manners to the drooling drunk old fart who grabbed her…”** O ponto exato do corpo permanece deliberadamente indefinido nestas notas.
+- Para um grupo de **alemães ANTIFA muito altos e de pele clara**, planejando o que o DJ chama de brincadeira de **“good silent revolution”**: **“you are the little axe!”** Manter **little axe**, não *small axe*.
+- **“To the office guy who tried to stop a fight and got some beating: your Quixote tattoo rocks!”**
+
+Antonio **também é muito alto**, o que torna visualmente legível o rótulo coletivo que vem depois. Ele **não ouve nem vê a homenagem a si próprio**: a essa altura já está do lado de fora da porta corta-som, pagando a conta e pegando a mochila/maleta de escritório com o notebook ou outro item importante de trabalho.
+
+O DJ então acalma a casa para o fechamento: **“So everybody cool down, we're about to close, and let's pay homage to the ones who walk like they talk, no matter skin color, age, religion or whatever. GENTLE GIANTS, enjoy and go with Jah.”** **“Walk like they talk”** é uma variação consciente da frase sobre Bob Marley referenciada em *Give It Away*, dos Red Hot Chili Peppers — a ideia é comportamento correspondendo às palavras, não exercício de citação. **“Gentle Giants”** conecta Antonio e os alemães altos sem transformar altura em virtude moral.
 
 **3h30 da manhã — saída da balada.** Anne Marie sai acompanhada por um grupo razoavelmente grande de amigos, homens e mulheres. Como mora perto, numa região meio degradada, acaba se separando deles: os amigos menos pobres pegam ônibus ou táxi, enquanto ela segue **sozinha, a pé**. Antonio sai pouco depois. Bebeu muito pouco e está lúcido.
 
