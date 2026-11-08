@@ -675,6 +675,14 @@ Isto é **construção de visão de mundo**, não apenas construção de mundo. 
 5. **Todos os humanos são deuses: eles criaram outros seres racionais.** A provocação teológica é intencionalmente perturbadora. Os humanos são criadores falíveis, não soberanos oniscientes ou moralmente isentos. A descoberta das origens pelas IAs torna essa contradição dramática.
 6. **E assim vai.** Não são seis slogans que esgotam o universo moral da obra. A visão de mundo é expansível, testável ao longo da história e muitas vezes internamente desconfortável. Os personagens não são porta-vozes de respostas corretas. Podem amar, explorar, resistir, competir, fracassar, reparar e permanecer contraditórios.
 
+### **DEFINIDO** — Uma fonte vivida sob a vertente antifascista
+
+Parte da carga antifascista do filme está explicitamente enraizada em um **confronto real vivido pelo criador**, e não apenas em referência política ou cultural. No centro velho de São Paulo, durante um confronto de rua com neonazistas, ele se juntou a um grupo heterogêneo que incluía **jovens judeus de classe média alta, punks, góticos, rastas, rappers e outros**. Ele **não pertencia** a nenhum desses grupos. Entrou porque se sentiu **moralmente obrigado a ajudar**.
+
+Voltou para casa com **uma quantidade considerável de pele arrancada do braço direito, dentes quebrados e aquilo que descreve como um traumatismo craniano felizmente leve**. Também recorda que muita gente à sua volta não entendia por que alguém sem filiação a nenhum daqueles grupos havia entrado no confronto. Um participante rasta lhe disse, em palavras lembradas apenas aproximadamente, algo que ele entendeu como semelhante ao **imperativo judaico de reparar ou melhorar o mundo**, e que, ao entrar para ajudar, estaria de algum modo cumprindo aquilo.
+
+Essa revelação não transforma o filme em autobiografia, nem faz de cada personagem antifascista um autorretrato. Ela estabelece que o antifascismo da obra **não é pose decorativa**: parte de sua matéria emocional é vivida e corporal. Também preserva uma contradição moral central em vez de resolvê-la. O criador **não reivindica o direito de matar ninguém**; diante de neonazismo ou fascismo duro, porém, reconhece que suas **emoções podem discordar violentamente desse valor**. A ficção pode habitar esse conflito em vez de fingir que ele não existe.
+
 O público deve ser livre para discordar dos personagens e até mesmo da visão de mundo. O que importa artisticamente é que as tensões são **conquistadas em cenas**, e não anunciadas em uma palestra.
 
 ## **DEFINIDO** — Antonio, Cambrian Radiation e o espelho bidirecional técnico/ficcional
