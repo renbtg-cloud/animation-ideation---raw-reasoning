@@ -675,6 +675,14 @@ This is **worldview building**, not merely worldbuilding. The point is not just 
 5. **All humans are gods: they created other reasoning beings.** The theological provocation is intentionally unsettling. Humans are fallible creators, not omniscient or morally exempt sovereigns. The AIs' discovery of their origins makes that contradiction dramatic.
 6. **And so it goes.** These are not six slogans exhausting the work's moral universe. The worldview is expandable, testable through the story, and often internally uncomfortable. Characters are not mouthpieces for correct answers. They can love, exploit, resist, compete, fail, repair, and remain contradictory.
 
+### **DONE** — A lived source beneath the antifascist strand
+
+One part of the film's antifascist charge is explicitly grounded in a **real confrontation from the creator's life**, not only in political or cultural reference. In São Paulo's old center, during a street confrontation with neo-Nazis, he joined a heterogeneous group that included **young Jewish men from upper-middle-class backgrounds, punks, goths, Rastafarians, rappers and others**. He did **not** belong to any of those groups. He joined because he felt **morally obliged to help**.
+
+He returned home with **substantial skin torn from his right arm, broken teeth, and what he describes as a fortunately mild traumatic brain injury**. He also recalls that many people around him did not understand why someone with no group affiliation had entered the confrontation. One Rastafarian participant told him, in words remembered only approximately, something he understood as akin to the **Jewish imperative to repair or improve the world**, and that by stepping in he was, in some sense, fulfilling it.
+
+This disclosure does not turn the film into autobiography, nor does it make every antifascist character a self-portrait. It establishes that the work's antifascism is **not decorative posture**: part of its emotional source material is lived and bodily. It also preserves a central moral contradiction rather than solving it. The creator does **not** claim a right to kill anyone; in the presence of hard neo-Nazism or fascism, however, he recognizes that his **emotions can violently disagree with that value**. The fiction is allowed to inhabit that conflict instead of pretending it does not exist.
+
 The audience should be free to disagree with the characters and even with the worldview. What matters artistically is that the tensions are **earned in scenes**, not announced in a lecture.
 
 ## **DONE** — Antonio, Cambrian Radiation, and the technical / fictional two-way mirror
