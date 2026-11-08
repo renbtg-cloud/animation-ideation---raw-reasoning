@@ -339,7 +339,7 @@ Finalize precise dialogue and scene chronology; reconcile older conflicting road
 
 ### **DOING** — Antonio's Quixotic crisis: *Fado Mutante*, the truck, and the road home
 
-**Narrative status.** An intended **three-to-four-minute** dramatic and musical sequence, accompanied by **“Fado Mutante” by Rosa Negra** (recording and composition not yet licensed). The truck episode belongs to a crisis lasting roughly a week and ending later in psychiatric hospitalization; it is only one part of the period. Chronology, imagery, and musical editing remain open. The tone is neither triumphal rescue fantasy nor caricature.
+**Narrative status.** An intended **three-to-four-minute** dramatic and musical sequence, accompanied by **“Fado Mutante” by Rosa Negra** (recording and composition not yet licensed). A **long crossing/traverse by Antonio within this sequence will use “Fado Mutante” as its musical theme**; the detailed staging of that crossing remains open. The truck episode belongs to a crisis lasting roughly a week and ending later in psychiatric hospitalization; it is only one part of the period. Chronology, imagery, and musical editing remain open. The tone is neither triumphal rescue fantasy nor caricature.
 
 **Don Quixote on Antonio's arm.** His **Don Quixote tattoo** becomes a visible sign of the knightly ideal he carries. During the crisis, he leaves Anne Marie—his Dulcinea—in a paradoxical attempt to become a man worthy of her respect. The paradox is emotional and tragic; neither the narrative nor the song establishes that his departure was necessary or justified. Anne Marie's experience remains her own.
 
