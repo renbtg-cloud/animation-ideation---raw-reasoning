@@ -339,7 +339,7 @@ Finalizar os diálogos e a cronologia precisa das cenas; conciliar as versões a
 
 ### **EM ELABORAÇÃO** — A crise quixotesca de Antonio: *Fado Mutante*, o caminhão e a estrada para casa
 
-**Status narrativo.** Uma sequência dramática e musical pretendida de **três a quatro minutos**, acompanhada por **“Fado Mutante” de Rosa Negra** (gravação e composição ainda não licenciadas). O episódio do caminhão faz parte de uma crise que durou cerca de uma semana e terminou posteriormente em internação psiquiátrica; é apenas uma parte do período. A cronologia, as imagens e a edição musical permanecem abertas. O tom não é fantasia de resgate triunfal nem caricatura.
+**Status narrativo.** Uma sequência dramática e musical pretendida de **três a quatro minutos**, acompanhada por **“Fado Mutante” de Rosa Negra** (gravação e composição ainda não licenciadas). Uma **longa travessia de Antonio dentro dessa sequência terá “Fado Mutante” como tema musical**; a encenação detalhada dessa travessia permanece em aberto. O episódio do caminhão faz parte de uma crise que durou cerca de uma semana e terminou posteriormente em internação psiquiátrica; é apenas uma parte do período. A cronologia, as imagens e a edição musical permanecem abertas. O tom não é fantasia de resgate triunfal nem caricatura.
 
 **Don Quixote no braço de Antonio.** Sua **tatuagem Don Quixote** se torna um sinal visível do ideal de cavaleiro que ele carrega. Durante a crise, ele abandona Anne Marie – sua Dulcinéia – numa tentativa paradoxal de se tornar um homem digno de seu respeito. O paradoxo é emocional e trágico; nem a narrativa nem a canção estabelecem que sua saída foi necessária ou justificada. A experiência de Anne Marie continua sendo sua.
 
