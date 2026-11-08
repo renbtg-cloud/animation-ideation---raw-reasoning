@@ -81,7 +81,15 @@ Anne Marie crosses a broad urban avenue where drivers irresponsibly reach **120�
 
 The sound design carries the discovery of danger. A car tears past and overwhelms the soundtrack; when the roar briefly disappears, the low murmur among the three men becomes audible. Another car, another wall of noise; then the murmuring again. They whistle from a distance and say crude things. Anne Marie begins to realize she is being followed. Her heartbeat accelerates and her vision becomes slightly blurred.
 
-Antonio notices. Without a heroic speech, he puts down his office backpack/briefcase—containing his laptop or another important work item—and starts crossing the avenue toward her. A very brief close-up catches the **quixotic motif/tattoo on his arm**. **The scene stops here in the current notes; what happens next remains to be developed.**
+Antonio notices. Without a heroic speech, he puts down his office backpack/briefcase—containing his laptop or another important work item—and starts crossing the avenue toward her. A very brief close-up catches the **quixotic motif/tattoo on his arm**.
+
+**What the three men actually want.** Their sexual harassment is not the deepest motive. They are looking above all for **violence, domination and humiliation**. Antonio's intervention gives them a new target and, in a grim sense, what they were really seeking. Their attention shifts toward him. One of them looks at the Quixote tattoo and sneers, approximately: **“Look at this mad Catholic shit on his arm—guy in armor, windmills. Let's rip it off.”** The line is deliberately ignorant: they misread Cervantes and the tattoo while looking for an excuse to hurt him.
+
+Before the violence can escalate further, **ambulance and police sirens** become audible nearby. The three men run. Antonio does not defeat them; what matters is that he had already chosen to put himself between them and Anne Marie before the sirens arrived.
+
+**The scar through Quixote.** The attack leaves a **large scar crossing the tattoo**, but the scar does not destroy the image or make the Quixote design difficult to recognize. Later Antonio considers treatment to remove or reduce the scar. Anne Marie persuades him to leave it as it is: for her, the scar is part of the history that binds them, a bodily trace of the moment he chose to protect her. The scar does not replace the tattoo's meaning; it becomes another layer of it.
+
+**The symbol is not a condition of love.** Much later, when Anne Marie finally confesses/reveals that **she was the young woman from the club night**—the exact surrounding chronology of that confession remains to be placed—Antonio jokes: **“So I can remove the tattoo?”** Anne Marie answers: **“You can rip off an arm, won't stop loving you.”** The exchange deliberately releases the symbol from obligation: she values the scar and tattoo, but her love is not conditional on Antonio preserving either one.
 
 ### **DOING** — Antonio Battaglia and Anne Marie: desire, heredity, fear, and later rupture
 
