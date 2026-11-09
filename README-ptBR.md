@@ -7,7 +7,7 @@
 
 **Nota sobre o título.** *spontaneous scratches* é uma homenagem discreta ao mangá e também descreve o método deliberadamente fragmentário, de rabiscos e descobertas, da obra. Referências a mangás reaparecem dentro da própria história; o subtítulo não precisa de discurso explicativo na tela.
 
-**Política musical (EM ELABORAÇÃO):** A intenção principal continua sendo uma trilha composta originalmente, mas gravações comerciais específicas estão sendo consideradas como referências para cenas, especialmente *A Little Less Conversation*, de Elvis Presley; *Blood Sugar Sex Magik*, dos Red Hot Chili Peppers; *Rusty Cage*, do Soundgarden; as alternativas propostas para a manifestação; e *Little Crazy*, do Fight. **Nenhuma dessas gravações está licenciada.** A utilização definitiva exige as autorizações cabíveis sobre composição e gravação original, ou sua substituição por música original.
+**Política musical (EM ELABORAÇÃO; precedência de 9 de novembro de 2026):** As gravações comerciais estrangeiras continuam úteis como **referências dramáticas**, mas a estratégia prática passa a ser **priorizar reggae brasileiro de baixo custo de licenciamento que tenha “a mesma alma” da faixa estrangeira/cara imaginada para a cena, em vez de presumir o uso do original**. Bob Marley permanece uma referência espiritual e musical central, mas não se presume que seu catálogo seja economicamente viável. Entre os artistas brasileiros atualmente considerados estão **Príncipe Messias, Mato Seco, Ponto de Equilíbrio, Leões de Israel e Jacareggae**, sempre sujeitos à confirmação de direitos, titulares e preço faixa a faixa. **“Papéis e Papéis”, de Príncipe Messias, é a atual âncora moral musical da obra pelo conteúdo ético e pela função dramática da canção — não por qualquer jogo interpretativo com o título.** Faixas estrangeiras como *Wonderwall* podem permanecer como referências exatas de emoção e montagem; a política de produção, porém, é procurar primeiro uma alternativa brasileira/reggae que preserve a função emocional quando o original for caro ou inviável. Nenhuma gravação mencionada é presumida licenciada.
 
 > **Uma obra de ficção original.** Criada a partir de referências culturais, experiências vividas e relatos de outras pessoas. Seus personagens, relações, conflitos e acontecimentos são construções ficcionais, não representações de pessoas reais identificáveis.
 
@@ -708,6 +708,50 @@ Voltou para casa com **uma quantidade considerável de pele arrancada do braço 
 Essa revelação não transforma o filme em autobiografia, nem faz de cada personagem antifascista um autorretrato. Ela estabelece que o antifascismo da obra **não é pose decorativa**: parte de sua matéria emocional é vivida e corporal. Também preserva uma contradição moral central em vez de resolvê-la. O criador **não reivindica o direito de matar ninguém**; diante de neonazismo ou fascismo duro, porém, reconhece que suas **emoções podem discordar violentamente desse valor**. A ficção pode habitar esse conflito em vez de fingir que ele não existe.
 
 O público deve ser livre para discordar dos personagens e até mesmo da visão de mundo. O que importa artisticamente é que as tensões são **conquistadas em cenas**, e não anunciadas em uma palestra.
+
+## **DEFINIDO / EM ELABORAÇÃO — 9 de novembro de 2026** — Reggae, Antonio e Anne Marie; São Luís como lugar onde ele consegue viver
+
+**Precedência editorial.** Esta seção registra as decisões mais recentes sobre o papel do reggae na relação de Antonio e Anne Marie e sobre a mudança do casal para São Luís. Quando houver contradição com tratamentos anteriores, estas decisões prevalecem. Nomes antigos ainda presentes em outras partes do dossiê devem ser reconciliados editorialmente, não substituídos de forma cega.
+
+### **DEFINIDO** — O reggae como antídoto pacífico e linguagem íntima de Antonio
+
+É **Antonio quem apresenta o reggae à esposa** como algo mais profundo do que gênero musical, estilo de vida ou compromisso cultural. Para ele, reggae é também **um antídoto pacífico à maldade e ao medo**. Antonio só consegue se libertar plenamente da própria auto-rejeição quando ouve reggae; a música não “cura” o personagem, mas cria o raro estado em que ele deixa de se atacar internamente.
+
+Anne Marie se apaixona ainda mais por ele ao perceber isso. Antonio **não sabe do passado rastafári dela**. Portanto há uma inversão deliberada: ele acredita estar apresentando a ela uma descoberta pessoal, enquanto ela reconhece silenciosamente naquela descoberta algo que já pertenceu profundamente à própria vida. Ela não precisa corrigi-lo nem transformar a cena em explicação religiosa. O afeto vem de vê-lo chegar por conta própria a uma ética que ela conhece por dentro.
+
+Com o tempo, Anne Marie passa a chamar Antonio de **“Negão”**, em total aceitação e intimidade. Antonio, muito branco, acha o apelido engraçado justamente pela incongruência e imagina que possa ser uma brincadeira com sua brancura ou com manchas mais escuras que ele percebe na própria pele durante o uso de medicamentos psiquiátricos. **Essa é a interpretação de Antonio; o filme não precisa fornecer uma etimologia objetiva para o apelido.** Para Anne Marie, ele pode simplesmente ter virado “Negão”.
+
+### **DEFINIDO / EM ELABORAÇÃO** — São Luís: férias que revelam uma vida possível
+
+Numa visita posterior a **São Luís do Maranhão**, Anne Marie apresenta a Antonio uma casa simples, quase rural, mas sólida, inicialmente tratada como se fosse apenas a casa das férias / um Airbnb. A propriedade tem **quintal, galinheiro, uma piscina muito grande porém algo improvisada e uma garagem frontal sem pavimentação, de terra**. O valor dramático está justamente na ausência de ostentação: é uma vida materialmente confortável, mas comum, espaçosa e viva.
+
+O trabalho e o negócio de Antonio são **100% home-office / remotos**. Durante as férias ele percebe que está extraordinariamente bem naquele lugar. Nos dias que antecedem o suposto retorno, começa a ficar **aterrorizado com a volta a São Paulo** — trânsito caótico, gente demais, ostentação, compressão urbana e, sobretudo, a sensação de abandonar voluntariamente o sonho que estava vivendo em São Luís.
+
+Sem contar a Anne Marie, Antonio começa a pesquisar obsessivamente como tornar a permanência tecnicamente possível. Ele procura **vários provedores de internet cabeada**, alternativas de **internet por satélite** para redundância, **escritórios de coworking** para emergências, infraestrutura local e **universidades da região onde poderia encontrar profissionais para contratação presencial se algum dia fosse necessário**. O gesto é importante: Antonio está construindo secretamente uma **arquitetura de permanência** antes de ter coragem de dizer que quer ficar.
+
+Quando Anne Marie se aproxima, ele **fecha a tela como se estivesse escondendo dela o próprio sonho**. Ele não sabe que ela chegou independentemente à mesma conclusão observando seu comportamento durante aqueles dias.
+
+No dia em que deveriam voltar, Anne Marie lhe diz, em essência e com esta formulação atualmente preferida:
+
+**“Não vamos voltar, Antonio. Eu nunca vi você tão feliz tantos dias seguidos. Comprei a casa — vamos viver aqui, seu rasta ateu branquelo.”**
+
+A força da decisão está em que ela não faz um diagnóstico nem um discurso terapêutico. Ela observou um fato simples: **nunca o viu feliz por tantos dias consecutivos**. Enquanto Antonio pesquisava escondido como conseguir ficar, Anne Marie já havia comprado a casa.
+
+### **EM ELABORAÇÃO** — *Wonderwall* como referência para o instante em que Antonio se sente salvo
+
+Quando Anne Marie revela que comprou a casa e que eles não precisam voltar, Antonio experimenta o gesto como uma forma de **salvação amorosa**: não porque ela o “cure”, mas porque ela autoriza na prática uma vida que ele desejava e não conseguia se permitir escolher.
+
+A referência musical exata concebida para esse instante é **“Wonderwall”**, do Oasis. O sentido é emocional: Antonio sente que Anne Marie o salvou de retornar por inércia a uma vida que o esmagava. A faixa permanece **referência criativa, não música presumidamente licenciada**. De acordo com a política musical atual, se o custo for incompatível com a produção, deve-se buscar uma canção brasileira — preferencialmente reggae quando isso funcionar dramaticamente — **com a mesma alma/função emocional**, sem imitar a composição nem fingir que é o original.
+
+### **DEFINIDO** — Reggae brasileiro como corpo realista da trilha
+
+Se orçamento e direitos não fossem obstáculos, Bob Marley poderia ocupar enorme parte da trilha. Na realidade de produção, a decisão é outra: **Marley funciona como norte espiritual; o corpo licenciável da trilha deve procurar primeiro o reggae brasileiro**.
+
+A prioridade atual é buscar faixas de **Príncipe Messias, Mato Seco, Ponto de Equilíbrio, Leões de Israel, Jacareggae e outros artistas brasileiros compatíveis**, escolhidas por sua alma, função dramática e ética, não por semelhança superficial. O reggae e o rastafarianismo são tratados **heroicamente** na obra: forças de dignidade, resistência, paz, amor, comunidade e oposição à violência e ao medo, jamais simples decoração tropical.
+
+**“Papéis e Papéis”, de Príncipe Messias, é a âncora moral musical da obra.** Isso se refere ao conteúdo ético e à função da canção dentro do filme. **Não** deve ser desenvolvido como trocadilho ou teoria em torno da palavra “papéis”.
+
+O objetivo de licenciamento é pragmático: em vez de construir a produção em torno de gravações estrangeiras famosas e caras e só depois descobrir que são inviáveis, procurar desde cedo **música brasileira de custo acessível que preserve a mesma alma dramática**. Valores e liberações devem ser verificados faixa a faixa com os titulares; “baixo custo” é uma estratégia e uma hipótese de negociação, nunca um preço presumido.
 
 ## **DEFINIDO** — Antonio, Cambrian Radiation e o espelho bidirecional técnico/ficcional
 
