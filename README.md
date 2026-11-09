@@ -7,7 +7,7 @@
 
 **Title note.** *spontaneous scratches* is a quiet homage to manga and also describes the work's deliberately fragmentary, sketch-like method of discovery. Manga references recur inside the story itself; the subtitle does not need an explanatory speech on screen.
 
-**Music policy (DOING):** An original composed score remains the leading intention, but specific original commercial recordings are being considered as scene cues, especially Elvis Presley’s *A Little Less Conversation*, Red Hot Chili Peppers’ *Blood Sugar Sex Magik*, Soundgarden’s *Rusty Cage*, the proposed protest alternatives, and Fight’s *Little Crazy*. **None is licensed.** Every final use requires appropriate composition/master clearances or original replacement.
+**Music policy (IN DEVELOPMENT; precedence of November 9, 2026):** Foreign commercial recordings remain useful as **dramatic references**, but the practical strategy is now to **prioritize affordably licensable Brazilian reggae with “the same soul” as the expensive/foreign song imagined for a scene, rather than presume use of the original**. Bob Marley remains a central spiritual and musical reference, but his catalogue is not presumed economically feasible. Brazilian artists currently under consideration include **Príncipe Messias, Mato Seco, Ponto de Equilíbrio, Leões de Israel and Jacareggae**, always subject to track-by-track confirmation of rights holders and pricing. **Príncipe Messias's “Papéis e Papéis” is the work's current musical moral anchor because of its ethical content and dramatic function—not because of any interpretive wordplay around its title.** Foreign songs such as *Wonderwall* may remain exact emotional/editing references; production policy, however, is to look first for a Brazilian/reggae alternative that preserves the emotional function when the original is expensive or impractical. No named recording is presumed licensed.
 
 > **An original work of fiction.** Created from cultural references, lived experiences, and accounts told by others. Its characters, relationships, conflicts, and events are fictional constructions, not representations of identifiable private individuals.
 
@@ -702,6 +702,50 @@ He returned home with **substantial skin torn from his right arm, broken teeth, 
 This disclosure does not turn the film into autobiography, nor does it make every antifascist character a self-portrait. It establishes that the work's antifascism is **not decorative posture**: part of its emotional source material is lived and bodily. It also preserves a central moral contradiction rather than solving it. The creator does **not** claim a right to kill anyone; in the presence of hard neo-Nazism or fascism, however, he recognizes that his **emotions can violently disagree with that value**. The fiction is allowed to inhabit that conflict instead of pretending it does not exist.
 
 The audience should be free to disagree with the characters and even with the worldview. What matters artistically is that the tensions are **earned in scenes**, not announced in a lecture.
+
+## **DEFINED / IN DEVELOPMENT — November 9, 2026** — Reggae, Antonio and Anne Marie; São Luís as the place where he can live
+
+**Editorial precedence.** This section records the latest decisions about reggae's role in Antonio and Anne Marie's relationship and about the couple's move to São Luís. Where these decisions contradict earlier treatments, these take precedence. Older names still present elsewhere in the dossier should be reconciled editorially rather than replaced blindly.
+
+### **DEFINED** — Reggae as Antonio's peaceful antidote and intimate language
+
+It is **Antonio who introduces reggae to his wife** as something deeper than a musical genre, lifestyle or cultural commitment. For him, reggae is also **a peaceful antidote to evil and fear**. Antonio is only able to fully release himself from his own self-rejection while listening to reggae; the music does not “cure” him, but creates the rare state in which he stops attacking himself internally.
+
+Anne Marie falls even more deeply in love with him when she sees this. Antonio **does not know about her Rastafarian past**. The inversion is deliberate: he believes he is introducing her to a personal discovery, while she silently recognizes in that discovery something that once belonged deeply to her own life. She does not need to correct him or turn the scene into a religious explanation. The affection comes from watching him independently arrive at an ethic she knows from within.
+
+Over time Anne Marie begins calling Antonio **“Negão”**, in complete intimacy and acceptance. Antonio, who is very white, finds the nickname funny precisely because of the incongruity and imagines it may be a joke about his whiteness or about darker patches he notices on his own skin while taking psychiatric medication. **That is Antonio's interpretation; the film does not need to supply an objective etymology for the nickname.** To Anne Marie, he may simply have become “Negão”.
+
+### **DEFINED / IN DEVELOPMENT** — São Luís: a vacation that reveals a possible life
+
+On a later visit to **São Luís, Maranhão**, Anne Marie shows Antonio a simple, nearly rural but solid house, initially presented as though it were merely their vacation rental / Airbnb. The property has **a yard, a chicken coop, a huge but somewhat improvised swimming pool, and an unpaved dirt area in the front garage**. Its dramatic value lies precisely in the absence of ostentation: materially comfortable, but ordinary, spacious and alive.
+
+Antonio's work and business are **100% home-office / remote**. During the vacation he realizes how extraordinarily well he feels there. In the days before the supposed return, he becomes **terrified of going back to São Paulo**—chaotic traffic, too many people, ostentation, urban compression, and above all the feeling that he is voluntarily abandoning the dream he has been living in São Luís.
+
+Without telling Anne Marie, Antonio begins obsessively researching how to make staying technically viable. He looks for **multiple wired internet providers**, **satellite internet** alternatives for redundancy, **coworking offices** for emergencies, local infrastructure, and **regional universities where he might find people to hire for in-person work if that ever became necessary**. The gesture matters: Antonio is secretly building an **architecture of permanence** before he has the courage to say that he wants to stay.
+
+When Anne Marie approaches, he **closes the screen as though hiding his own dream from her**. He does not know that she has independently reached the same conclusion simply by watching him during those days.
+
+On the day they are supposedly meant to return, Anne Marie tells him, in substance and in the currently preferred wording:
+
+**“We're not going back, Antonio. I've never seen you this happy for so many days in a row. I bought the house—we're going to live here, you white atheist rasta.”**
+
+The force of the decision is that she gives no diagnosis and no therapeutic speech. She has observed one simple fact: **she has never seen him happy for so many consecutive days**. While Antonio was secretly researching how to make staying possible, Anne Marie had already bought the house.
+
+### **IN DEVELOPMENT** — *Wonderwall* as the reference for the instant Antonio feels saved
+
+When Anne Marie reveals that she bought the house and that they do not have to return, Antonio experiences the gesture as a form of **romantic salvation**: not because she “cures” him, but because she makes materially possible a life he wanted and could not quite permit himself to choose.
+
+The exact musical reference conceived for this instant is Oasis's **“Wonderwall.”** Its role is emotional: Antonio feels Anne Marie has saved him from returning by inertia to a life that crushed him. The track remains a **creative reference, not presumed licensed music**. Under the current music policy, if the cost is incompatible with production, the search should turn to a Brazilian song—preferably reggae when dramatically appropriate—with **the same soul/emotional function**, without imitating the composition or pretending it is the original.
+
+### **DEFINED** — Brazilian reggae as the realistic body of the soundtrack
+
+If money and rights were no obstacle, Bob Marley could occupy a huge part of the soundtrack. Production reality leads to a different decision: **Marley is the spiritual north; the licensable body of the soundtrack should first be sought in Brazilian reggae**.
+
+The current priority is to seek tracks by **Príncipe Messias, Mato Seco, Ponto de Equilíbrio, Leões de Israel, Jacareggae and other compatible Brazilian artists**, chosen for soul, dramatic function and ethics rather than superficial resemblance. Reggae and Rastafarianism are treated **heroically** in the work: forces of dignity, resistance, peace, love, community and opposition to violence and fear, never mere tropical decoration.
+
+**Príncipe Messias's “Papéis e Papéis” is the musical moral anchor of the work.** This refers to the song's ethical content and dramatic function in the film. It should **not** be developed into wordplay or a theory around the word “papéis”.
+
+The licensing objective is pragmatic: rather than build production around famous and expensive foreign masters and only later discover that they are impossible, search early for **affordable Brazilian music that preserves the same dramatic soul**. Prices and permissions must be verified track by track with rights holders; “low cost” is a strategy and negotiation hypothesis, never a presumed fee.
 
 ## **DONE** — Antonio, Cambrian Radiation, and the technical / fictional two-way mirror
 
