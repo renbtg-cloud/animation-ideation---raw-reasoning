@@ -705,6 +705,22 @@ When a flight attendant asks about drinks, Camille mischievously replies in **En
 
 The sword and luminous ball at the start are not a simple choice between war and a child left alone. Eventually Bruno discovers a **third path: to go home together**. He did not become a superhuman warrior; his small flaws and verbal exuberance remain essential. In the final airport reversal, the mother who used to lead him along the road of demons is quietly led home by her child. Both recover a relationship: **Bruno may be a child, and Camille may once again be a daughter**. No physical victory over the oyabun is required.
 
+## **DEFINED / IN DEVELOPMENT — November 10, 2026** — Near-live-action coda: Antonio wakes in the real world
+
+Near the end of the feature — or of the first long episode, if *RAW REASONING* takes serialized form — the animation makes one final shift in register. **Antonio appears in the real world in a “near-live-action” rendering**, with a degree of realism far beyond the rest of the work, without necessarily abandoning animation entirely.
+
+He wakes and sees the real woman who inspired Anne Marie. **Her face should receive the highest possible visual fidelity**, with exceptional attention to proportions, expression, skin texture, gaze and small recognizable features. This figure is directly inspired by **Ana Patrícia**, but **should not use that name in the finished work**: the near-live-action character will have **a different name, still to be chosen**. Facial and emotional fidelity remain; the public/fictional name will be distinct.
+
+She slaps him in an unmistakably comic, intimate register and asks:
+
+**“Who is Anne Maria? Is she that slut you have tattooed on you?”**
+
+The form **“Anne Maria”** is intentional in her speech; it need not be corrected to “Anne Marie.” Antonio responds with a **genuine burst of laughter** and embraces her.
+
+**END.**
+
+The coda should receive no explanatory card, narration or postscript identifying who inspired whom. Its function is to break the membrane between fiction and real life at the last instant and reveal, through action and marital humor, that beneath the AIs, violence, mathematics, Rastafari, Meifumadô and metaphysics there was also **a declaration of love**.
+
 ## **DONE** — Worldview building: values shown rather than preached
 
 This is **worldview building**, not merely worldbuilding. The point is not just to invent settings and lore; it is to let viewers discover a view of what human beings *are* through choices and consequences.
