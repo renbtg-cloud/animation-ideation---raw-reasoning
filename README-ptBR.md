@@ -1,5 +1,5 @@
 # RAW REASONING: spontaneous scratches
-## **EM ELABORAÇÃO** — Uma ópera audiovisual de animação — uma obra de ficção original, uma história de amor e uma visão de mundo
+## **EM ELABORAÇÃO** — Uma ópera audiovisual de animação — uma obra de ficção original e uma visão de mundo
 
 **[Veja o dossiê em PDF](README-ptBR.pdf)**
 
