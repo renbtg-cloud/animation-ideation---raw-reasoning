@@ -717,6 +717,8 @@ Perto do fim do longa-metragem — ou do primeiro episódio longo, caso *RAW REA
 
 Ele acorda e vê a mulher real que inspirou Anne Marie. **O rosto deve receber máxima precisão visual possível**, com atenção excepcional a proporções, expressão, textura, olhar e pequenos traços reconhecíveis. Esta figura é inspirada diretamente em **Ana Patrícia**, mas **não deve usar esse nome na obra final**: a personagem quase-live-action terá **outro nome, ainda a definir**. A fidelidade facial e afetiva permanece; o nome público/ficcional será distinto.
 
+No quarto, sem qualquer explicação ou destaque didático, aparecem naturalmente **uma coleção de *Lobo Solitário / Lone Wolf and Cub*, vinis de reggae e um pôster da ANTIFA**. Esses objetos funcionam apenas como vestígios materiais do mundo real de Antonio e como ecos discretos de referências que atravessaram a ficção.
+
 Ela o esbofeteia em registro claramente cômico e íntimo e pergunta:
 
 **“Quem é Anne Maria? É essa quenga que você tem tatuada?”**
