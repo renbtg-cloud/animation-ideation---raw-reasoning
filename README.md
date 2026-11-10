@@ -711,6 +711,8 @@ Near the end of the feature — or of the first long episode, if *RAW REASONING*
 
 He wakes and sees the real woman who inspired Anne Marie. **Her face should receive the highest possible visual fidelity**, with exceptional attention to proportions, expression, skin texture, gaze and small recognizable features. This figure is directly inspired by **Ana Patrícia**, but **should not use that name in the finished work**: the near-live-action character will have **a different name, still to be chosen**. Facial and emotional fidelity remain; the public/fictional name will be distinct.
 
+In the bedroom, without explanation or didactic emphasis, the frame naturally includes **a *Lone Wolf and Cub* collection, reggae vinyl records, and an ANTIFA poster**. These objects function only as material traces of Antonio's real-world life and as quiet echoes of references that passed through the fiction.
+
 She slaps him in an unmistakably comic, intimate register and asks:
 
 **“Who is Anne Maria? Is she that slut you have tattooed on you?”**
