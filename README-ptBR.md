@@ -711,9 +711,11 @@ Quando um comissário de bordo oferece bebidas, Camille responde, provocadora, *
 
 A espada e a bola luminosa no início não são uma simples escolha entre a guerra e uma criança deixada sozinha. Eventualmente Bruno descobre um **terceiro caminho: voltar para casa juntos**. Ele não se tornou um guerreiro sobre-humano; suas pequenas falhas e exuberância verbal permanecem essenciais. Na reversão final do aeroporto, a mãe que costumava conduzi-lo pela estrada dos demônios é silenciosamente conduzida para casa por seu filho. Ambos recuperam um relacionamento: **Bruno pode ser criança, e Camille pode voltar a ser filha**. Nenhuma vitória física sobre o oyabun é necessária.
 
-## **DEFINIDO / EM ELABORAÇÃO — 10 de novembro de 2026** — Coda quase live action: Antonio acorda no mundo real
+## **DEFINIDO / EM ELABORAÇÃO — 10 de novembro de 2026** — Créditos sonoros e coda quase live action
 
-Perto do fim do longa-metragem — ou do primeiro episódio longo, caso *RAW REASONING* assuma forma seriada — a animação atravessa uma última mudança de registro. **Antonio aparece no mundo real em uma representação “quase live action”**, com grau de realismo muito superior ao restante da obra, sem necessariamente abandonar por completo a linguagem animada.
+**Durante os créditos, não há nova cena narrativa visível.** Ouvimos apenas Antonio murmurando, como se estivesse dormindo: **“Anne Marie... Anne Marie...”**. Ao fundo há **algazarra de crianças**, vida doméstica e ruído de casa. O som prolonga por alguns instantes a sensação de que ainda estamos dentro do universo ficcional.
+
+**Só depois dos créditos** vem a última ruptura de registro. Antonio aparece no mundo real em uma representação **“quase live action”**, com grau de realismo muito superior ao restante da obra, sem necessariamente abandonar por completo a linguagem animada. O espectador então entende que o murmúrio dos créditos atravessava o sono do Antonio real.
 
 Ele acorda e vê a mulher real que inspirou Anne Marie. **O rosto deve receber máxima precisão visual possível**, com atenção excepcional a proporções, expressão, textura, olhar e pequenos traços reconhecíveis. Esta figura é inspirada diretamente em **Ana Patrícia**, mas **não deve usar esse nome na obra final**: a personagem quase-live-action terá **outro nome, ainda a definir**. A fidelidade facial e afetiva permanece; o nome público/ficcional será distinto.
 
