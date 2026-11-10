@@ -65,6 +65,26 @@ The cruelty of these lines does not make the grandmother automatically right. Sh
 
 Anne Marie inherits two incompatible forces: from her mother, dream, detachment, and little material stability; from her grandmother, a brutal awareness of the price of survival. Her own ethics emerge from trying **not to repeat either one in full**.
 
+**The grandmother states the love Anne Marie cannot see.** At some point, after Anne Marie treats her as intellectually limited because she never had formal education, the grandmother explodes. The language is deliberately vulgar because she rejects the prestige vocabulary through which her granddaughter organizes the world:
+
+> **GRANDMOTHER:** “You think I'm stupid because I didn't study. I don't give a shit about Eréndira's big-dicked bastard and that skinny lizard with the tits of a starving dog. I don't give a shit about your beloved Haile Selassie. I don't give a shit about linear algebra, FORTRAN, or CERN. **Don't you understand that my world is you? That I love you?**”
+
+The line does not mean the grandmother literally despises knowledge, culture, Rastafari, mathematics, or science. She is saying that **none of those things was the emotional center of her life**. Anne Marie was. Wealth, discipline, and academic pressure were, in the grandmother's mind, survival technologies for protecting her granddaughter and later generations. The revelation corrects the simplistic reading that the grandmother merely wants to monetize the girl's talent.
+
+**The story that sounds like a parable and ends as an identity revelation.** At another point, the grandmother begins:
+
+> **GRANDMOTHER:** “I'm going to tell you a story. About genius. About rebellion. About dropping everything for the cause.”
+
+She then tells a story involving a brilliant woman, **Alexander Grothendieck**, anti-fascism, intellectual radicalism, abandonment of security, and extreme choices. **During the story she does not make clear that she is talking about Anne Marie's own mother or that Grothendieck is the girl's biological father.** Anne Marie may hear it as a parable, political history, or another attempt by the grandmother to make a point about idealism.
+
+Only at the end comes the break:
+
+> **GRANDMOTHER:** “I'm talking about you, brat. **She's your mother. And he's your biological father.**”
+
+The dramatic function is not to turn genealogy into destiny. It is to force Anne Marie to realize that the rebellion, idealism, mathematics, and attraction to causes she treated as entirely her own identity **already existed in the family before her**. The grandmother, whom Anne Marie may have judged as outside her intellectual and political universe, reveals herself as the person who carried and preserved the memory of that lineage.
+
+**Reading of the three generations.** The three women are not variations of the same character. The **mother** bets on possibility, dream, and even genetic advantage, yet fails to convert intellectual planning into material security. The **grandmother** knows hunger, humiliation, and survival and turns love into discipline, assets, and protection against scarcity. **Anne Marie** receives both inheritances and tries to build a third ethic: freedom and generosity without irresponsibility, awareness of evil without turning cynicism into a religion, intelligence without accepting it as an economic debt. One point about the mother remains deliberately open: **the exact cause of her maladjustment and the resulting material deprivation is still undefined and must not be invented before a new decision.**
+
 **Rastafari, mathematics, and temperament.** Anne Marie remains a **Rastafarian with a sincere Israelite/biblical religious self-understanding**, and mathematics remains intimate, spiritual, and intellectual for her. She speaks several languages, **including French from childhood**, and when intellectually excited speaks extremely fast, while being able to slow down deliberately for a listener. The mathematical book she reveres remains not for sale even when she sells other books.
 
 ### **DOING** — The actual opening: station, two songs, self-forgiveness, and an ordinary workday
