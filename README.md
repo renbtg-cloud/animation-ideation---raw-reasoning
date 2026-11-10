@@ -1,5 +1,5 @@
 # RAW REASONING: spontaneous scratches
-## **DOING** — An animated audiovisual opera — an original work of fiction, a love story, and a worldview
+## **DOING** — An animated audiovisual opera — an original work of fiction and a worldview
 
 **[View the PDF dossier](README.pdf)**
 
