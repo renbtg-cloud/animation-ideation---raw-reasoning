@@ -27,15 +27,45 @@ Este dossiê apresenta **a história e os desafios criativos** — não um rotei
 
 **A vida cotidiana deve permear a trama.** A obra não deve virar uma sequência formada apenas por acontecimentos grandiosos, épicos ou carregados de simbolismo. Pequenas situações comuns — comida, transporte, objetos perdidos, zoeira, tarefas domésticas, espera, pequenos constrangimentos, brigas familiares banais, piadas ruins, interrupções, problemas práticos ridículos — devem aparecer entre e dentro dos grandes arcos. Esses momentos nem sempre precisam “fazer a trama andar”; eles fazem os personagens parecerem vivos e dão escala à violência, ao amor, à matemática, à política, às rupturas familiares e à grandeza tecnológica ao redor deles.
 
-### **EM ELABORAÇÃO** — Cândida: origens, independência intelectual, espiritualidade
+### **EM ELABORAÇÃO — PRECEDÊNCIA DE 10 DE NOVEMBRO DE 2026** — Anne Marie: Guiana, Manaus, avó, universidade e ruptura
 
-**Nome e origem.** **Cândida** é da **São Luís, Maranhão**, *não de Paramaribo, no Suriname*. O nome **Grothendiek**, usado anteriormente, é um nome ou uma identidade ficcional relacionada a Grothendieck, cujo uso preciso ao lado de François ainda precisa ser definido; não se deve tratá-lo silenciosamente como sobrenome de nascimento. O vínculo de paternidade com o matemático histórico Alexander Grothendieck é uma **invenção ficcional deliberada, não uma afirmação biográfica**. A cidade de origem na São Luís, Maranhão, a cronologia completa do primeiro encontro do casal e revelações anteriores relacionadas a Paramaribo ainda precisam ser conciliadas. **Outras cenas explicitamente ambientadas em Paramaribo não mudam de lugar automaticamente.**
+**Precedência editorial.** Este bloco substitui as notas anteriores de origem que ainda usam **Cândida** e a ideia de que ela se recusaria a aprender francês. **Anne Marie** é o nome corrente nesta linha de desenvolvimento; uma limpeza global dos nomes antigos permanece pendente.
 
-Cândida era um prodígio matemático precoce que já estudava matemática na universidade na São Luís, Maranhão. Ela abandona o caminho acadêmico e sua avó opressora e exploradora intelectualmente. A sua partida não é uma rejeição da matemática: é também uma acusação, nsua perspectiva, da sabedoria autoproclamada, da hierarquia académica e das reivindicações de autoridade moral. Suas razões precisas podem ter se acumulado ao longo do tempo, em vez de formar uma doutrina totalmente articulada quando ela partiu. **O livro de matemática que ela venera não está à venda** embora ela venda outros livros.
+**Guiana e francês.** Anne Marie passa a ter uma origem ligada à **Guiana Francesa**, de modo que o francês seja uma língua de infância e não um adereço posterior. A geografia exata de nascimento e primeiros anos ainda pode ser refinada, mas sua francofonia é orgânica. Aos **13 anos** ela já entra precocemente no ensino universitário. Aos **14**, a avó percebe uma oportunidade concreta em **Matemática Aplicada em Manaus**, trata aquilo como a grande chance econômica da família e muda-se com a neta para acompanhá-la. A avó supervisiona suas notas com **rigidez quase militar**.
 
-Ela é **rastafári, com uma vivência profundamente religiosa de matriz israelita/bíblica**. Sua devoção corporal e seu estudo são **atividades religiosas autênticas para a personagem**, jamais imitação vazia do judaísmo ou adereço visual exótico. Seu balanço lento e pesaroso evoca a oração e o estudo junto ao Muro Ocidental; os dreadlocks podem produzir um eco visual intencional dos cachos laterais usados por alguns judeus ortodoxos. São correspondências deliberadas na direção da cena, não uma afirmação de que todos os rastafáris e judeus têm classificações ou práticas religiosas idênticas. A direção de câmera deve respeitar a sinceridade de sua devoção.
+**A mãe de Anne Marie.** A mãe era inteligente e tinha capacidade matemática razoável, mas era **desajustada por uma razão ainda não definida**; esse desajuste contribuiu para privação material séria e incapacidade de sustentar a filha com segurança. **Não inventar ainda a causa**: pode ser psicológica, social, profissional, ideológica ou outra, e será definida depois. O ponto já fixado é que, se Anne Marie dependesse apenas dela, poderia ter passado fome.
 
-**Temperamento pessoal.** Cândida fala vários idiomas, muitas vezes acomodando confortavelmente visitantes de países muito diferentes em seus próprios idiomas. **Francês é a exceção deliberada: ela se recusa a aprendê-lo e nem tenta; a razão íntima permanece aberta.** Quando intelectualmente excitada, ela fala extraordinariamente rápido, mas pode **desacelerar deliberadamente** e se ajustar ao ouvinte. Suas capacidades são demonstradas por meio da interação, e não narradas como currículo.
+A mãe procura deliberadamente o matemático histórico **Alexander Grothendieck** durante um período fértil e o seduz com a intenção de conceber uma criança. Sua lógica é explicitamente eugenésica no sentido privado/familiar, não estatal: ela acredita que sua própria capacidade matemática, combinada aos genes de um gênio, poderia dar a um filho ou filha uma vantagem de nascimento. **Toda essa relação é invenção ficcional e não uma alegação biográfica sobre Grothendieck.** A maternidade posterior não corresponde, porém, ao planejamento genético: a mãe continua incapaz de oferecer segurança material estável.
+
+**A avó e o terror da pobreza.** A avó é o contrário de uma exploradora unidimensional à maneira da avó de Eréndira. Ela é **aterrorizada pela fome e pela pobreza** porque precisou enfrentá-las concretamente. Faz literalmente das tripas coração para alimentar Anne Marie. Existe a possibilidade — ainda **não fechada como fato** — de que em algum momento tenha se prostituído para sustentar a família. O que importa é que ela aceitou humilhações e sacrifícios que Anne Marie não precisou conhecer diretamente.
+
+Por isso a avó enxerga o talento da neta como **uma chance extraordinariamente rara de produzir riqueza intergeracional**. Para ela, a inteligência de Anne Marie poderia garantir que filhos, netos e bisnetos nunca mais conhecessem fome. O idealismo da neta lhe parece desperdício de uma oportunidade histórica. Seu amor se expressa em linguagem de sobrevivência, patrimônio, disciplina e retorno.
+
+A avó fala repetidamente a Anne Marie sobre **o mal no mundo**: exploração, traição, fome, gente que usa os outros e instituições que esmagam. Anne Marie não ignora intelectualmente que isso exista, mas **recusa-se a fazer do mal a lente principal pela qual enxerga a humanidade**. O conflito entre as duas não é “realista contra ingênua” de forma simples: a avó conhece horrores reais; Anne Marie resiste a permitir que esses horrores colonizem sua visão de mundo.
+
+**Os TCCs.** Ainda adolescente, Anne Marie faz **o trabalho de conclusão de curso de aproximadamente metade de sua turma**. Não produz material genérico em série: cada trabalho é individual, bem feito e adaptado ao colega. Ela tende a priorizar alunos cuja graduação rápida reduziria gastos e permitiria que começassem logo a ajudar suas famílias. Para ela, isso é amizade, solidariedade e senso de justiça; para a instituição, continua sendo fraude acadêmica objetiva.
+
+Anne Marie **aceita dinheiro**, sendo ela própria a aluna mais pobre, mas não estabelece preço. Aceita o que derem; quem não puder pagar não paga. A avó a pressiona a cobrar, com a lógica de que, se os colegas vão usar sua cabeça, devem ao menos ajudá-la financeiramente. Anne Marie cede apenas parcialmente: aceita contribuições, mas sabota a transformação da ajuda em negócio de tabela.
+
+Quando o esquema é descoberto, **ninguém acredita facilmente que amizade e senso de justiça fossem motivos centrais**. Um dos beneficiados, tentando reduzir as próprias consequências, afirma que Anne Marie cobrava caro. A acusação de que ela recebia dinheiro contém um núcleo factual; a versão de que explorava colegas comercialmente distorce a natureza do arranjo. Ela é expulsa e passa a enfrentar consequências jurídicas. **Como tem 17 anos, qualquer enquadramento brasileiro deve respeitar que emancipação civil não cria maioridade penal; a forma jurídica exata do procedimento juvenil ainda precisa de pesquisa e não deve ser chamada automaticamente de processo penal adulto.**
+
+A avó se recusa a assinar emancipação civil antecipada. Isso **não** altera a responsabilidade penal de Anne Marie, mas mantém mais controle civil sobre uma jovem que está tentando escapar de sua tutela.
+
+**Ruptura aos 17.** Depois da expulsão, da acusação pública, da traição de colega, da pressão econômica da avó e do colapso do projeto universitário, Anne Marie **mete o pé na estrada aos 17**. A referência musical para a sequência de carona é **“Não Precisamos de Você (Fogo na Babilônia)”, do Mato Seco**, sujeita a licenciamento. A saída não é uma rejeição da matemática; é uma recusa a continuar vivendo como patrimônio administrado por outros.
+
+**Confronto avó–neta.** Duas falas condensam a ferida entre elas e devem ser preservadas como material de diálogo em desenvolvimento:
+
+> **AVÓ:** “Sua merdinha arrogante. Quero ver esse seu jeitinho de benemérita da matemática se você tivesse que se deitar com os porcos para alimentar sua família. **Sua neta. Você, porra.**”
+
+O **“sua neta”** é intencional: a avó força Anne Marie a imaginar-se no futuro, no lugar dela, obrigada a fazer pela própria neta o que a avó fez por Anne Marie.
+
+> **AVÓ:** “Você é pior que sua mãe, de quem tem tanta mágoa. Pelo menos ela foi buscar os genes certos pra você ter esse tesouro extraordinário que você carrega na cabeça.”
+
+A crueldade dessas falas não torna a avó automaticamente correta. Ela transforma o talento de Anne Marie em dívida intergeracional; Anne Marie passa a vida resistindo à ideia de que inteligência tenha de justificar o sofrimento das gerações anteriores pela produção de riqueza.
+
+Anne Marie herda duas forças incompatíveis: da mãe, sonho, desprendimento e pouca estabilidade material; da avó, consciência brutal do preço da sobrevivência. Sua própria ética nasce tentando **não repetir integralmente nenhuma das duas**.
+
+**Rastafari, matemática e temperamento.** Anne Marie permanece **rastafári, com vivência religiosa sincera de matriz israelita/bíblica**, e sua relação com matemática continua íntima, espiritual e intelectual. Fala vários idiomas, **incluindo francês por formação de infância**, e quando intelectualmente excitada fala muito rápido, embora consiga desacelerar deliberadamente para se ajustar ao interlocutor. O livro matemático que venera continua não estando à venda, mesmo quando ela vende outros livros.
 
 ### **DEFINIDO** — Abertura: espancamento, polícia, *Cop Killer*, noticiário e retorno a Cândida
 
@@ -713,23 +743,29 @@ A espada e a bola luminosa no início não são uma simples escolha entre a guer
 
 ## **DEFINIDO / EM ELABORAÇÃO — 10 de novembro de 2026** — Créditos sonoros e coda quase live action
 
-**Durante os créditos, não há nova cena narrativa visível.** Ouvimos apenas Antonio murmurando, como se estivesse dormindo: **“Anne Marie... Anne Marie...”**. Ao fundo há **algazarra de crianças**, vida doméstica e ruído de casa. O som prolonga por alguns instantes a sensação de que ainda estamos dentro do universo ficcional.
+**Durante os créditos, não há nova cena narrativa visível.** Ouvimos Antonio murmurando, como se estivesse dormindo: **“Anne Marie... Anne Marie...”**. Ao fundo há **algazarra de crianças**, vida doméstica e ruído de casa.
 
-**Só depois dos créditos** vem a última ruptura de registro. Antonio aparece no mundo real em uma representação **“quase live action”**, com grau de realismo muito superior ao restante da obra, sem necessariamente abandonar por completo a linguagem animada. O espectador então entende que o murmúrio dos créditos atravessava o sono do Antonio real.
+**Só depois dos créditos** vem a ruptura final. Antonio aparece no mundo real em representação **“quase live action”**, com realismo muito superior ao restante da obra. O espectador entende que o murmúrio atravessava o sono do Antonio real.
 
-Ele acorda e vê a mulher real que inspirou Anne Marie. **O rosto deve receber máxima precisão visual possível**, com atenção excepcional a proporções, expressão, textura, olhar e pequenos traços reconhecíveis. Esta figura é inspirada diretamente em **Ana Patrícia**, mas **não deve usar esse nome na obra final**: a personagem quase-live-action terá **outro nome, ainda a definir**. A fidelidade facial e afetiva permanece; o nome público/ficcional será distinto.
+O quarto é **rústico e vivido**, coerente com a casa de São Luís: pode ter **parede mal rebocada**, acabamento imperfeito e nenhuma aparência de cenário cuidadosamente esterilizado. Sem destaque didático, aparecem **uma coleção de *Lobo Solitário / Lone Wolf and Cub*, vinis de reggae, um pôster da ANTIFA** e, na tela de um computador, **um esboço de logotipo empresarial “Job 19”**. Esses detalhes devem recompensar quem pausar quadro a quadro sem parecer caça a *easter eggs*.
 
-No quarto, sem qualquer explicação ou destaque didático, aparecem naturalmente **uma coleção de *Lobo Solitário / Lone Wolf and Cub*, vinis de reggae e um pôster da ANTIFA**. Esses objetos funcionam apenas como vestígios materiais do mundo real de Antonio e como ecos discretos de referências que atravessaram a ficção.
+O ambiente sonoro continua fora do quarto: **reggae instrumental baixo e abafado**, como alguém ouvindo música em outro cômodo ou no quintal; **galinhas e um galo cantando**; crianças ao fundo. A referência emocional ideal para o reggae é **“Is This Love”, de Bob Marley & The Wailers** — usar a gravação apenas se licenciada; caso contrário, procurar uma faixa autorizada com a mesma função afetiva, sem imitar de perto melodia ou arranjo protegido.
 
-Ela o esbofeteia em registro claramente cômico e íntimo e pergunta:
+Antonio acorda e vê a mulher real que inspirou Anne Marie. **O rosto deve receber a máxima precisão visual possível**, com atenção excepcional a proporções, expressão, textura, olhar e pequenos traços reconhecíveis. A figura é inspirada diretamente em **Ana Patrícia**, mas **não usa esse nome na obra final**: terá outro nome ainda a definir.
+
+Ela aparece **vestida de branco e carregando uma maleta de dentista**, como alguém que acabou de chegar ou está saindo para uma vida profissional concreta. Ela o esbofeteia em registro claramente íntimo e cômico e pergunta:
 
 **“Quem é Anne Maria? É essa quenga que você tem tatuada?”**
 
-A forma **“Anne Maria”** é intencional como fala da personagem; não precisa corrigir “Anne Marie”. Antonio reage com **gargalhada genuína** e a abraça.
+A forma **“Anne Maria”** é intencional. Ela pode ainda completar, no mesmo registro conjugal e debochado:
+
+**“Vou ligar pra sua médica. Aposto que você precisa mudar a medicação.”**
+
+Antonio reage com **gargalhada genuína** e a abraça. A gargalhada e o abraço são essenciais para que a fala sobre médica/medicação seja lida como intimidade e cumplicidade, não como desqualificação clínica hostil.
 
 **FIM.**
 
-A coda não deve receber explicação posterior, cartela expositiva ou narração esclarecendo quem inspirou quem. Sua função é romper a membrana entre ficção e vida real no último instante e revelar, por ação e humor conjugal, que por baixo das IAs, da violência, da matemática, do Rastafari, do Meifumadô e da metafísica havia também **uma declaração de amor**.
+Não há cartela ou explicação posterior. A coda deve fazer o público perceber por ação, ambiente e humor — não por uma declaração na abertura — que a obra também funciona como uma declaração de amor e que existe uma fronteira deliberadamente porosa entre Antonio ficcional e uma vida real possível.
 
 ## **DEFINIDO** — Construção de cosmovisão: valores mostrados em vez de pregados
 
