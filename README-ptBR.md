@@ -711,6 +711,22 @@ Quando um comissário de bordo oferece bebidas, Camille responde, provocadora, *
 
 A espada e a bola luminosa no início não são uma simples escolha entre a guerra e uma criança deixada sozinha. Eventualmente Bruno descobre um **terceiro caminho: voltar para casa juntos**. Ele não se tornou um guerreiro sobre-humano; suas pequenas falhas e exuberância verbal permanecem essenciais. Na reversão final do aeroporto, a mãe que costumava conduzi-lo pela estrada dos demônios é silenciosamente conduzida para casa por seu filho. Ambos recuperam um relacionamento: **Bruno pode ser criança, e Camille pode voltar a ser filha**. Nenhuma vitória física sobre o oyabun é necessária.
 
+## **DEFINIDO / EM ELABORAÇÃO — 10 de novembro de 2026** — Coda quase live action: Antonio acorda no mundo real
+
+Perto do fim do longa-metragem — ou do primeiro episódio longo, caso *RAW REASONING* assuma forma seriada — a animação atravessa uma última mudança de registro. **Antonio aparece no mundo real em uma representação “quase live action”**, com grau de realismo muito superior ao restante da obra, sem necessariamente abandonar por completo a linguagem animada.
+
+Ele acorda e vê a mulher real que inspirou Anne Marie. **O rosto deve receber máxima precisão visual possível**, com atenção excepcional a proporções, expressão, textura, olhar e pequenos traços reconhecíveis. Esta figura é inspirada diretamente em **Ana Patrícia**, mas **não deve usar esse nome na obra final**: a personagem quase-live-action terá **outro nome, ainda a definir**. A fidelidade facial e afetiva permanece; o nome público/ficcional será distinto.
+
+Ela o esbofeteia em registro claramente cômico e íntimo e pergunta:
+
+**“Quem é Anne Maria? É essa quenga que você tem tatuada?”**
+
+A forma **“Anne Maria”** é intencional como fala da personagem; não precisa corrigir “Anne Marie”. Antonio reage com **gargalhada genuína** e a abraça.
+
+**FIM.**
+
+A coda não deve receber explicação posterior, cartela expositiva ou narração esclarecendo quem inspirou quem. Sua função é romper a membrana entre ficção e vida real no último instante e revelar, por ação e humor conjugal, que por baixo das IAs, da violência, da matemática, do Rastafari, do Meifumadô e da metafísica havia também **uma declaração de amor**.
+
 ## **DEFINIDO** — Construção de cosmovisão: valores mostrados em vez de pregados
 
 Isto é **construção de visão de mundo**, não apenas construção de mundo. A questão não é apenas inventar cenários e histórias; é permitir que os espectadores descubram uma visão do que os seres humanos *são* através de escolhas e consequências.
