@@ -705,9 +705,11 @@ When a flight attendant asks about drinks, Camille mischievously replies in **En
 
 The sword and luminous ball at the start are not a simple choice between war and a child left alone. Eventually Bruno discovers a **third path: to go home together**. He did not become a superhuman warrior; his small flaws and verbal exuberance remain essential. In the final airport reversal, the mother who used to lead him along the road of demons is quietly led home by her child. Both recover a relationship: **Bruno may be a child, and Camille may once again be a daughter**. No physical victory over the oyabun is required.
 
-## **DEFINED / IN DEVELOPMENT — November 10, 2026** — Near-live-action coda: Antonio wakes in the real world
+## **DEFINED / IN DEVELOPMENT — November 10, 2026** — Sound-only credits and near-live-action coda
 
-Near the end of the feature — or of the first long episode, if *RAW REASONING* takes serialized form — the animation makes one final shift in register. **Antonio appears in the real world in a “near-live-action” rendering**, with a degree of realism far beyond the rest of the work, without necessarily abandoning animation entirely.
+**During the credits, no new narrative scene is shown.** We hear only Antonio murmuring as if asleep: **“Anne Marie... Anne Marie...”**. In the background there is **the noisy play of children**, domestic life, and the sound of a lived-in home. For a few moments the audio preserves the feeling that we are still inside the fictional universe.
+
+**Only after the credits** comes the final break in register. Antonio appears in the real world in a **“near-live-action” rendering**, with a degree of realism far beyond the rest of the work, without necessarily abandoning animation entirely. The audience then understands that the murmur heard over the credits was passing through the real Antonio's sleep.
 
 He wakes and sees the real woman who inspired Anne Marie. **Her face should receive the highest possible visual fidelity**, with exceptional attention to proportions, expression, skin texture, gaze and small recognizable features. This figure is directly inspired by **Ana Patrícia**, but **should not use that name in the finished work**: the near-live-action character will have **a different name, still to be chosen**. Facial and emotional fidelity remain; the public/fictional name will be distinct.
 
