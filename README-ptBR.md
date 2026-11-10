@@ -65,6 +65,26 @@ A crueldade dessas falas não torna a avó automaticamente correta. Ela transfor
 
 Anne Marie herda duas forças incompatíveis: da mãe, sonho, desprendimento e pouca estabilidade material; da avó, consciência brutal do preço da sobrevivência. Sua própria ética nasce tentando **não repetir integralmente nenhuma das duas**.
 
+**A avó explicita o amor que Anne Marie não consegue enxergar.** Em algum momento, depois de Anne Marie tratá-la como se fosse intelectualmente limitada por não ter estudado, a avó explode. A formulação é deliberadamente vulgar, porque ela rejeita o vocabulário de prestígio que a neta usa para organizar o mundo:
+
+> **AVÓ:** “Você me acha burra porque eu não estudei. Tô cagando pro pauzudo de Erêndira e aquela lagartixa magrela com tetas de cadela magra. Tô cagando pro seu querido Hailê Selassiê. Tô cagando pra álgebra linear, FORTRAN e CERN. **Você não percebe que meu mundo é você? Que te amo?**”
+
+A fala não significa que a avó despreze literalmente conhecimento, cultura, Rastafari, matemática ou ciência. Ela está dizendo que **nenhuma dessas coisas foi o centro emocional da vida dela**. O centro foi Anne Marie. A riqueza, a disciplina e a pressão acadêmica eram, na cabeça da avó, tecnologias de sobrevivência para proteger a neta e as gerações seguintes. A revelação corrige a leitura simplista de que a avó quer apenas monetizar o talento da menina.
+
+**A história que parece parábola e termina como revelação de identidade.** Em outro momento, a avó começa:
+
+> **AVÓ:** “Vou te contar uma história. Sobre genialidade. Sobre rebelião. Sobre largar tudo pela causa.”
+
+Ela então narra uma história de uma mulher brilhante, de **Alexander Grothendieck**, de antifascismo, radicalidade intelectual, abandono de segurança e escolhas extremas. **Não deixa claro durante a narrativa que está falando da própria mãe de Anne Marie nem que Grothendieck é o pai biológico da garota.** Anne Marie pode ouvir como se fosse uma parábola, uma história política ou uma tentativa da avó de provar algum ponto sobre idealismo.
+
+Só ao final vem a quebra:
+
+> **AVÓ:** “Estou falando de você, pirralha. **Ela é sua mãe. E ele é seu pai biológico.**”
+
+A função dramática não é transformar genealogia em destino. É obrigar Anne Marie a perceber que a rebeldia, o idealismo, a matemática e a atração por causas que ela tratava como identidade inteiramente própria **já existiam na linhagem antes dela**. A avó, que Anne Marie podia julgar alheia ao seu universo intelectual e político, revela-se a pessoa que carregou e preservou a memória dessa linhagem.
+
+**Leitura das três gerações.** As três mulheres não são variações da mesma personagem. A **mãe** aposta em possibilidade, sonho e até em vantagem genética, mas falha em transformar planejamento intelectual em segurança material. A **avó** conhece fome, humilhação e sobrevivência e transforma amor em disciplina, patrimônio e proteção contra escassez. **Anne Marie** recebe ambas as heranças e tenta construir uma terceira ética: liberdade e generosidade sem irresponsabilidade, consciência do mal sem transformar cinismo em religião, inteligência sem aceitá-la como dívida econômica. A mãe continua com um ponto deliberadamente em aberto: **a causa exata de seu desajuste e da privação material ainda não está definida e não deve ser inventada antes de nova decisão.**
+
 **Rastafari, matemática e temperamento.** Anne Marie permanece **rastafári, com vivência religiosa sincera de matriz israelita/bíblica**, e sua relação com matemática continua íntima, espiritual e intelectual. Fala vários idiomas, **incluindo francês por formação de infância**, e quando intelectualmente excitada fala muito rápido, embora consiga desacelerar deliberadamente para se ajustar ao interlocutor. O livro matemático que venera continua não estando à venda, mesmo quando ela vende outros livros.
 
 ### **DEFINIDO** — Abertura: espancamento, polícia, *Cop Killer*, noticiário e retorno a Cândida
