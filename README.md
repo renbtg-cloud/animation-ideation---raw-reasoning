@@ -27,17 +27,45 @@ This dossier presents **the story and the creative challenges**—not a finished
 
 **Everyday life must permeate the plot.** The work should not become a chain of only grand, epic or symbolically loaded events. Small ordinary situations—food, transport, misplaced objects, teasing, chores, waiting, minor embarrassments, family bickering, bad jokes, interruptions, banal practical problems—should keep appearing between and inside the larger arcs. These moments do not always need to “advance the plot”; they make the characters feel alive and give scale to the violence, love, mathematics, politics, family rupture and technological grandeur around them.
 
-### **DOING** — Cândida: origins, intellectual independence, spirituality
+### **IN DEVELOPMENT — NOVEMBER 10, 2026 PRECEDENCE** — Anne Marie: Guiana, Manaus, grandmother, university, and rupture
 
-**Name and origin — new baseline (8 November 2026).** **Cândida** is Brazilian and her early story takes place in the **São Luís, Maranhão region**, **François is no longer part of the current baseline**; her final surname remains open. The former development name **Grothendiek** must not automatically be treated as a surname either. Her paternity connection to the historical mathematician Alexander Grothendieck remains a **deliberate fictional invention, not historical biography**. Cândida's mother spoke some French and, on her own initiative, had a single night of intimacy with Grothendieck. **That is the extent of the family's necessary Francophone connection for now.** Cândida refuses even to try to learn French; there may be trauma or another intimate reason attached to the language, but **the cause is undefined and must not be invented**. Separate scenes independently set in Paramaribo are not automatically relocated.
+**Editorial precedence.** This block supersedes earlier origin notes that still use **Cândida** and the idea that she would refuse to learn French. **Anne Marie** is the current name in this development strand; a global cleanup of older names remains pending.
 
-**São Luís, reggae and Rastafari.** The new geography makes reggae an organic part of Cândida's social environment. This **does not mean São Luís automatically “explains” her Rastafari faith**: the city and its musical culture provide contact and curiosity; the religious commitment remains her own choice.
+**Guiana and French.** Anne Marie now has an origin tied to **French Guiana**, making French a language of childhood rather than a later accessory. The exact birthplace and earliest geography may still be refined, but her Francophone background is organic. At **13** she is already precociously enrolled in university-level study. At **14**, her grandmother sees a concrete opportunity in **Applied Mathematics in Manaus**, treats it as the family's great economic chance, and moves with her to supervise it. The grandmother monitors her grades with **near-military strictness**.
 
-Cândida was a precocious mathematical prodigy already studying mathematics at university in the São Luís region. She leaves the academic path and her oppressive, intellectually exploitative grandmother. Her departure is not a rejection of mathematics: it is also an indictment, from her perspective, of self-proclaimed wisdom, academic hierarchy and claims to moral authority. Her precise reasons may have accumulated over time rather than forming one fully articulated doctrine when she left. **The mathematical book she reveres is not for sale** even though she sells other books.
+**Anne Marie's mother.** Her mother is intelligent and reasonably capable in mathematics but is **maladjusted for a reason not yet defined**; that maladjustment contributes to serious material deprivation and an inability to provide stable support for her daughter. **Do not invent the cause yet**: it may later be psychological, social, professional, ideological, or something else. What is fixed is that Anne Marie could have gone hungry if she had depended on her mother alone.
 
-She is a **Rastafarian with a deeply lived Israelite/biblical religious self-understanding**. Her bodily worship and study are **real religious activity for the character**, never an empty imitation of Judaism or an exotic visual accessory. A slow, mournful, rocking devotion evokes prayer and study at the Western Wall; her dreadlocks can produce an intentional visual echo of the sidecurls worn by some Orthodox Jews. These are purposeful correspondences in the direction of the scene, not a pronouncement that all Rastas and Jews share an identical religious classification or practice. The precise camera direction should respect the sincerity of her devotion.
+Her mother deliberately seeks out the historical mathematician **Alexander Grothendieck** during a fertile period and seduces him with the intention of conceiving a child. Her reasoning is privately eugenic in the family sense, not a state program: she believes her own decent mathematical ability combined with the genes of a genius might give a son or daughter an innate advantage. **This entire relationship is fictional and is not a biographical claim about Grothendieck.** The later reality of motherhood does not match the genetic planning: she remains unable to provide stable material security.
 
-**Personal temperament.** Cândida speaks many languages, often comfortably accommodating visitors from very different countries in their own languages. When intellectually excited, she speaks extraordinarily fast, but can **deliberately slow down** and adjust to her listener. Her capabilities are demonstrated through interaction, not narrated as a résumé.
+**The grandmother and terror of poverty.** The grandmother is the opposite of a one-note exploiter modeled on Eréndira's grandmother. She is **terrified of hunger and poverty** because she has confronted them materially. She does whatever it takes to keep Anne Marie fed. There is a possibility — still **not locked as fact** — that she at some point engaged in prostitution to support the family. The essential point is that she accepted humiliation and sacrifice so Anne Marie would not have to experience them directly.
+
+For that reason she sees the girl's talent as **an extraordinarily rare chance to create intergenerational wealth**. To her, Anne Marie's mind could ensure that children, grandchildren, and great-grandchildren never experience hunger again. Her granddaughter's idealism looks like the waste of a historic opportunity. Her love is expressed through survival, assets, discipline, and return.
+
+The grandmother repeatedly tells Anne Marie about **evil in the world**: exploitation, betrayal, hunger, people who use others, institutions that crush people. Anne Marie does not intellectually deny that these things exist, but **refuses to make evil the primary lens through which she sees humanity**. Their conflict is not simply realist versus naïve girl: the grandmother knows real horrors; Anne Marie resists allowing those horrors to colonize her worldview.
+
+**The theses.** While still a teenager, Anne Marie writes **the final graduation theses/projects for roughly half her cohort**. She does not mass-produce generic work: each project is individual, well done, and tailored to the student. She tends to prioritize classmates whose rapid graduation would reduce costs and let them begin helping their families sooner. To her, this is friendship, solidarity, and justice; to the university it remains objective academic fraud.
+
+Anne Marie **accepts money**, while being the poorest student herself, but sets no price. She accepts whatever someone can give; those who cannot pay give nothing. Her grandmother pressures her to charge, reasoning that if others are going to use her mind they should at least help support her. Anne Marie only partially yields: she accepts contributions but resists turning the help into a priced commercial service.
+
+When the scheme is discovered, **few people believe that friendship and a sense of justice were central motives**. One beneficiary, trying to reduce his or her own punishment, claims Anne Marie charged high fees. The accusation that she received money has a factual core; the version in which she commercially exploited classmates distorts the arrangement. She is expelled and faces legal consequences. **Because she is 17, any Brazilian legal framing must respect that civil emancipation does not create adult criminal responsibility; the exact juvenile procedure still needs research and should not automatically be described as an adult criminal prosecution.**
+
+Her grandmother refuses to sign an early civil emancipation. This **does not** change criminal responsibility, but it preserves more civil control over a young woman trying to escape her guardianship.
+
+**Rupture at 17.** After expulsion, public accusation, betrayal by a classmate, her grandmother's economic pressure, and the collapse of the university plan, Anne Marie **hits the road at 17**. The working music reference for the hitchhiking sequence is **“Não Precisamos de Você (Fogo na Babilônia)” by Mato Seco**, subject to licensing. Leaving is not a rejection of mathematics; it is a refusal to keep living as an asset administered by others.
+
+**Grandmother–granddaughter confrontation.** Two lines condense their wound and should be preserved as developing dialogue material:
+
+> **GRANDMOTHER:** “You arrogant little shit. Let's see that little mathematical-benefactor act of yours if you had to lie down with pigs to feed your family. **Your granddaughter. You, for fuck's sake.**”
+
+The phrase **“your granddaughter”** is intentional: the grandmother forces Anne Marie to imagine herself in the future, in her place, having to do for her own granddaughter what the grandmother did for Anne Marie.
+
+> **GRANDMOTHER:** “You're worse than your mother, the one you resent so much. At least she went looking for the right genes so you'd have that extraordinary treasure you're carrying in your head.”
+
+The cruelty of these lines does not make the grandmother automatically right. She turns Anne Marie's talent into an intergenerational debt; Anne Marie spends her life resisting the idea that intelligence must repay previous generations' suffering by producing wealth.
+
+Anne Marie inherits two incompatible forces: from her mother, dream, detachment, and little material stability; from her grandmother, a brutal awareness of the price of survival. Her own ethics emerge from trying **not to repeat either one in full**.
+
+**Rastafari, mathematics, and temperament.** Anne Marie remains a **Rastafarian with a sincere Israelite/biblical religious self-understanding**, and mathematics remains intimate, spiritual, and intellectual for her. She speaks several languages, **including French from childhood**, and when intellectually excited speaks extremely fast, while being able to slow down deliberately for a listener. The mathematical book she reveres remains not for sale even when she sells other books.
 
 ### **DOING** — The actual opening: station, two songs, self-forgiveness, and an ordinary workday
 
@@ -707,23 +735,29 @@ The sword and luminous ball at the start are not a simple choice between war and
 
 ## **DEFINED / IN DEVELOPMENT — November 10, 2026** — Sound-only credits and near-live-action coda
 
-**During the credits, no new narrative scene is shown.** We hear only Antonio murmuring as if asleep: **“Anne Marie... Anne Marie...”**. In the background there is **the noisy play of children**, domestic life, and the sound of a lived-in home. For a few moments the audio preserves the feeling that we are still inside the fictional universe.
+**During the credits, no new narrative scene is shown.** We hear Antonio murmuring as if asleep: **“Anne Marie... Anne Marie...”**. In the background there is **the noisy play of children**, domestic life, and the sound of a lived-in home.
 
-**Only after the credits** comes the final break in register. Antonio appears in the real world in a **“near-live-action” rendering**, with a degree of realism far beyond the rest of the work, without necessarily abandoning animation entirely. The audience then understands that the murmur heard over the credits was passing through the real Antonio's sleep.
+**Only after the credits** comes the final break. Antonio appears in the real world in a **“near-live-action” rendering**, with much greater realism than the rest of the work. The audience understands that the murmur over the credits was passing through the real Antonio's sleep.
 
-He wakes and sees the real woman who inspired Anne Marie. **Her face should receive the highest possible visual fidelity**, with exceptional attention to proportions, expression, skin texture, gaze and small recognizable features. This figure is directly inspired by **Ana Patrícia**, but **should not use that name in the finished work**: the near-live-action character will have **a different name, still to be chosen**. Facial and emotional fidelity remain; the public/fictional name will be distinct.
+The bedroom is **rustic and lived-in**, consistent with the São Luís house: it may have a **poorly plastered wall**, imperfect finishes, and no sterile set-designed look. Without didactic emphasis, the frame contains **a *Lone Wolf and Cub* collection, reggae vinyl records, an ANTIFA poster**, and on a computer screen **a rough business-logo sketch reading “Job 19.”** These details should reward frame-by-frame viewers without turning into an explicit easter-egg hunt.
 
-In the bedroom, without explanation or didactic emphasis, the frame naturally includes **a *Lone Wolf and Cub* collection, reggae vinyl records, and an ANTIFA poster**. These objects function only as material traces of Antonio's real-world life and as quiet echoes of references that passed through the fiction.
+The soundscape continues outside the room: **soft, muffled instrumental reggae**, as if someone were listening in another room or in the yard; **chickens and a rooster crowing**; children in the background. The ideal emotional reference for the reggae is **“Is This Love” by Bob Marley & The Wailers** — use the recording only if licensed; otherwise seek an authorized track with the same emotional function without closely copying protected melody or arrangement.
 
-She slaps him in an unmistakably comic, intimate register and asks:
+Antonio wakes and sees the real woman who inspired Anne Marie. **Her face should receive the highest possible visual fidelity**, with exceptional attention to proportions, expression, skin texture, gaze, and small recognizable features. The figure is directly inspired by **Ana Patrícia**, but **does not use that name in the finished work**: she will have another name still to be chosen.
+
+She appears **dressed in white and carrying a dentist's case**, like someone arriving from or leaving for a concrete professional life. She slaps him in an unmistakably intimate, comic register and asks:
 
 **“Who is Anne Maria? Is she that slut you have tattooed on you?”**
 
-The form **“Anne Maria”** is intentional in her speech; it need not be corrected to “Anne Marie.” Antonio responds with a **genuine burst of laughter** and embraces her.
+The form **“Anne Maria”** is intentional. In the same teasing marital register she may add:
+
+**“I'm calling your doctor. I bet you need your medication changed.”**
+
+Antonio responds with a **genuine burst of laughter** and embraces her. The laughter and embrace are essential so the doctor/medication line reads as intimacy and complicity rather than hostile clinical invalidation.
 
 **END.**
 
-The coda should receive no explanatory card, narration or postscript identifying who inspired whom. Its function is to break the membrane between fiction and real life at the last instant and reveal, through action and marital humor, that beneath the AIs, violence, mathematics, Rastafari, Meifumadô and metaphysics there was also **a declaration of love**.
+There is no explanatory card or postscript. The coda should let the audience discover through action, environment, and humor — not through an opening declaration — that the work also functions as a love declaration and that the boundary between fictional Antonio and a possible real life is deliberately porous.
 
 ## **DONE** — Worldview building: values shown rather than preached
 
