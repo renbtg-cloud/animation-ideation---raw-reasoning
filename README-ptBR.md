@@ -343,6 +343,8 @@ Mais tarde, quando Antonio volta a falar mal de si próprio, César conta ao pai
 
 A cena devolve a Antonio uma imagem de si que ele jamais conseguiria construir sozinho. O filho treinado como guerreiro e negociador militar diz ao pai medroso e autodepreciativo que **o medo não anulava a coragem; era justamente o que tornava o exemplo importante**.
 
+**Autoleitura genealógica de César.** César descreve a si mesmo, meio em brincadeira e meio com desconforto, como a combinação de dois impulsos familiares: **“lado terrorista suicida da avó materna; lado de proteger em extremo risco mesmo com medo, do meu pai.”** Ele não romantiza a radicalização da avó. Ao contrário, percebe que a disposição para morrer por uma causa, quando desligada de pessoas concretas, pode se tornar destrutiva. A síntese que ele tenta fazer de si próprio é outra: **“Herdei a disposição para morrer da minha avó. Do meu pai, aprendi por quem vale a pena correr esse risco.”** É daí que sua Diplomacia Militar Tática Avançada ganha sentido moral: risco extremo direcionado a cessar-fogo, proteção e corredor humanitário.
+
 **Primeira experiência e primeiro amor assimétrico.** César revela a um colega de farda que se sente atraído por homens e descobre que o colega também sente atração por homens. A primeira experiência sexual de César acontece com ele. César se apaixona; o colega **quer sexo, não um relacionamento amoroso**. Essa assimetria o fere profundamente porque não há vilão necessário nem injustiça objetiva: duas pessoas queriam coisas diferentes. O episódio não “cria” a sexualidade de César; apenas destrói a última justificativa para negar algo que já existia nele.
 
 **Preconceito, violência e expulsão.** A relação torna César alvo de homofobia dentro da instituição. Superiores podem ser mais duros, escolher escalas piores, humilhar, cobrar em dobro e transformar erros banais em problemas graves. A saída de César do Exército nasce dessa perseguição e de seus efeitos; o mecanismo administrativo exato permanece em aberto e não precisa carregar a verdade emocional da cena. Para César, a instituição que ajudou a construí-lo mostra-se incapaz de aceitar a totalidade da pessoa que formou.
@@ -354,6 +356,18 @@ A cena devolve a Antonio uma imagem de si que ele jamais conseguiria construir s
 Com ela, César aprende algo além de resistência: **não basta ser inquebrável; é preciso exigir uma vida que valha a pena viver**. Ele pode amar de novo sem aceitar esconderijo, vergonha ou migalhas.
 
 **Pietà de César.** O motivo visual da **Pietà**, nunca nomeado assim no filme, reaparece. Em algum momento de colapso depois de tudo acumulado, a mulher trans segura César no colo/corpo. O homem que passou o arco inteiro descobrindo que nada o quebra finalmente pode **quebrar sem ser destruído**. Ela diz: **“Calma, guerreiro. Já passou. Já passou.”** “Guerreiro” funciona em dois níveis: César foi literalmente guerreiro de selva, mas naquele instante ela fala do homem e não da patente. A cena redefine força: não é permanecer eternamente em pé; é poder ser amparado sem perder a própria identidade.
+
+### **EM ELABORAÇÃO — PRECEDÊNCIA DE 12 DE NOVEMBRO DE 2026** — Camille: amorosa, meio galinha, e sem filtro com César
+
+**Menos romântica, mais casual.** Camille não precisa de uma teoria sofisticada sobre sedução. Ela é simplesmente **amorosa, afetiva e meio galinha**: gosta de flertar, transar, ter casos e se divertir, sem transformar toda atração em destino, identidade ou epopeia emocional. Isso a diferencia de César, que tende a viver amor, rejeição e lealdade de maneira muito mais profunda e grave.
+
+**Humor sexual entre irmãos.** Camille fala dos próprios casos com um nível de naturalidade que deixa César profundamente desconfortável, não porque ele seja puritano, mas porque **não quer detalhes sexuais sobre homens que ficaram com a irmã nem quer ser incluído por ela num matchmaking obsceno**. Uma formulação possível da cena, deliberadamente vulgar e familiar:
+
+> **CAMILLE:** “César, você ia pirar nesse cara. Toda hora ele me pedia pra eu dar golpe nele. Se você pega, arrebenta — no bom sentido. E como ele gostava de um fio-terra, talvez fosse curtir seu dildo natural.”
+
+César reage como irmão acuado, não como censor moral. O humor está em Camille achar sinceramente que está sendo útil: **ela está apenas tentando apresentar ao irmão alguém que, na cabeça dela, seria sexualmente compatível**.
+
+**Trilha possível.** A conversa pede uma energia de sexualidade leve, bagunçada, dançável e sem solenidade identitária. **“Girls & Boys”, do Blur**, é referência de alma. Uma opção brasileira ainda mais aderente à personalidade de Camille é **“Todo Dia”, de Pabllo Vittar com Rico Dalasam**, sujeita a licenciamento; referências de energia próximas em artistas como **Gloria Groove** também podem ser exploradas. A música deve funcionar como extensão do modo de existir de Camille — não como explicação didática da sexualidade de ninguém.
 
 ### **EM ELABORAÇÃO** — Gérard, fortuna disfarçada e os limites de parecer comum
 
