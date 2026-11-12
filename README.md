@@ -319,6 +319,24 @@ Gérard then undercuts his own mythology. He produces his military identificatio
 
 The contradiction triggers a simple realization: **“I am what I am.”** Cesar understands that an identity does not need to be pure in order to be real. He can love the military institution and have an ancestor who stood on the other side; he can be a jungle warrior and desire men; he can carry contradictions without disappearing.
 
+**Advanced Tactical Military Diplomacy.** Before leaving the Army, Cesar receives training in **Advanced Tactical Military Diplomacy**: a field capability for entering hostile or contested political-military environments and finding, among the relevant actors, those who **are not yet convinced that a hot war is inevitable at that moment**. The primary objective is concrete and human: **obtain a local ceasefire and open a humanitarian corridor**. The mission is not to “win the negotiation” in the abstract, but to make fewer people die that day.
+
+In extreme training or operational scenarios, Cesar may be **inserted unarmed by parachute into hostile territory/behind the lines**, with enough autonomy to locate political-military stakeholders, local leaders, and other actors with real power either to veto or de-escalate. The training combines contextual reading, negotiation under risk, improvisation, incentive recognition, and the ability to discover what minimum concessions might make combatants stop shooting for long enough for civilians to cross. In a contemporary, slightly joking shorthand for the character concept, he is almost a human **“forward-deployed engineer” for political-military crisis**: get close to the real problem, discover constraints absent from the briefing, and make something work on the ground rather than in PowerPoint.
+
+The ethic Cesar draws from this training can be condensed into one line: **“Thou shalt not kill” does not mean “thou shalt not die for the cause.”** For him, reducing other people's deaths may require accepting extreme personal risk. His pacifism, when present, is not refusal of danger; it is willingness to put his own body at risk to create a window in which others do not have to kill or die.
+
+The training also sharpens a later irony: **the Army taught Cesar to speak unarmed with people who might want to kill him, but later failed to speak with the difference inside Cesar himself**.
+
+**Antonio's Quixotic inheritance.** Cesar interprets part of that disposition as something inherited from his father — not a literal identifiable “gene,” but a mixture of temperament, family example, and moral model. Antonio crosses an avenue terrified in order to buy seconds of protection for Anne Marie; Cesar professionalizes the same impulse, accepting insertion into hostile territory to try to obtain a ceasefire and humanitarian corridor. The common principle is: **“I know perfectly well this may go wrong; I'm going anyway.”**
+
+Later, when Antonio starts speaking badly about himself again, Cesar tells his father about one of those missions and reveals how deeply Antonio inspired him. Cesar's line should stay familial, profane, and affectionate rather than therapeutic:
+
+> **CESAR:** “Dad, you keep saying all you're good for is getting beaten while trying to protect someone. I built an entire profession on top of that shit. **And another thing: who the hell do you think you are, talking about my father like that?** hahaha”
+
+The scene gives Antonio an image of himself he could never construct alone. The son trained as a warrior and military negotiator tells his frightened, self-deprecating father that **fear did not cancel courage; it was exactly what made the example matter**.
+
+**Cesar's genealogical self-reading.** Cesar describes himself, half joking and half uneasy, as a combination of two family impulses: **“my maternal grandmother's suicidal-terrorist side; my father's side of protecting someone at extreme risk even while afraid.”** He does not romanticize his grandmother's radicalization. Instead, he realizes that willingness to die for a cause, detached from concrete people, can become destructive. His own synthesis is different: **“I inherited the willingness to die from my grandmother. From my father, I learned who is worth taking that risk for.”** This gives Advanced Tactical Military Diplomacy its moral center: extreme personal risk directed toward ceasefires, protection, and humanitarian corridors.
+
 **First experience and first asymmetrical love.** Cesar tells a fellow soldier that he is attracted to men and discovers that the colleague is also attracted to men. Cesar’s first sexual experience happens with him. Cesar falls in love; the colleague **wants sex, not a romantic relationship**. The asymmetry hurts deeply because there need be no villain and no objective injustice: two people wanted different things. The episode does not “create” Cesar’s sexuality; it only destroys the final excuse for denying something already present in him.
 
 **Prejudice, violence, and expulsion.** The relationship makes Cesar a target of homophobia inside the institution. Superiors may become harsher, assign worse duties, humiliate him, demand twice as much, and turn ordinary mistakes into serious problems. Cesar’s departure from the Army grows out of that persecution and its consequences; the exact administrative mechanism remains open and does not need to carry the emotional truth of the scene. To Cesar, the institution that helped form him reveals itself unable to accept the whole person it formed.
@@ -330,6 +348,18 @@ The contradiction triggers a simple realization: **“I am what I am.”** Cesar
 With her, Cesar learns something beyond endurance: **being unbreakable is not enough; one must also demand a life worth living**. He can love again without accepting secrecy, shame, or scraps.
 
 **Cesar’s Pietà.** The visual **Pietà** motif, never named as such in the finished film, returns. At some point of collapse after everything accumulated, the trans woman holds Cesar against her body. The man who spent the arc discovering that nothing can break him is finally allowed to **break without being destroyed**. She says: **“Easy, warrior. It’s over. It’s over.”** “Warrior” works on two levels: Cesar was literally a jungle warrior, but in that moment she is speaking to the man, not the rank. The scene redefines strength: it is not staying upright forever; it is being able to be held without losing oneself.
+
+### **IN DEVELOPMENT — NOVEMBER 12, 2026 PRECEDENCE** — Camille: loving, somewhat promiscuous, and completely unfiltered with Cesar
+
+**Less romantic, more casual.** Camille does not need a sophisticated theory of seduction. She is simply **loving, affectionate, and somewhat promiscuous**: she likes flirting, sex, affairs, and fun without turning every attraction into destiny, identity, or emotional epic. This distinguishes her from Cesar, who tends to experience love, rejection, and loyalty much more deeply and gravely.
+
+**Sexual sibling humor.** Camille talks about her own affairs with a degree of casual detail that makes Cesar deeply uncomfortable, not because he is prudish, but because **he does not want sexual details about men who slept with his sister, nor does he want her dragging him into obscene matchmaking**. One possible version of the scene, intentionally vulgar and familial:
+
+> **CAMILLE:** “Cesar, you'd go crazy for this guy. He was always asking me to hit him. If you get with him, wreck him — in the good sense. And since he loved a finger up his ass, maybe he'd enjoy your natural dildo.”
+
+Cesar reacts as a cornered brother, not a moral censor. The joke is that Camille sincerely believes she is being helpful: **she is simply trying to introduce her brother to someone she thinks would be sexually compatible**.
+
+**Possible soundtrack.** The conversation calls for an energy of light, messy, danceable sexuality without solemn identity statements. **Blur's “Girls & Boys”** is a tonal reference. An even more character-specific Brazilian option is **“Todo Dia” by Pabllo Vittar featuring Rico Dalasam**, subject to licensing; nearby energies from artists such as **Gloria Groove** may also be explored. The song should work as an extension of Camille's way of being, not as a didactic explanation of anyone's sexuality.
 
 ### **DOING** — Gérard, disguised wealth, and the limits of looking ordinary
 
